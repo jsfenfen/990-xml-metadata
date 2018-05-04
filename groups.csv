@@ -128,7 +128,6 @@ IRS990ScheduleH,skedh_part_vc,4,/IRS990ScheduleH/SupplementalInformationGrp,SkdH
 IRS990ScheduleI,skedi_part_iii,4,/IRS990ScheduleI/Form990ScheduleIPartIII,SkdIGrntsOthrAsstTIndvInUS,,,,2010,2012
 IRS990ScheduleI,skedi_part_iv,5,/IRS990ScheduleI/Form990ScheduleIPartIV,SkdISpplmntlInfrmtnDtl,,,,2010,2012
 IRS990ScheduleI,skedi_part_iii,2,/IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp,SkdIGrntsOthrAsstTIndvInUS,,Part III content,,2013,
-IRS990ScheduleI,skedi_part_ii,1,/IRS990ScheduleI/RecipientTable,SkdIRcpntTbl,Part II,"Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000",,2010,
 IRS990ScheduleI,skedi_part_ii,6,/IRS990ScheduleI/RecipientTable,SkdIRcpntTbl,Part II,"Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000",,2010,
 IRS990ScheduleI,skedi_part_iv,3,/IRS990ScheduleI/SupplementalInformationDetail,SkdISpplmntlInfrmtnDtl,,Part IV content,,2013,
 IRS990ScheduleJ,skedj_part_iii,4,/IRS990ScheduleJ/Form990ScheduleJPartIII,SkdJSpplmntlInfrmtnDtl,,,,2010,2012
