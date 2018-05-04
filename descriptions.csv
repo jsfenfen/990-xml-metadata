@@ -143,8 +143,8 @@ xpath,version_start,version_end,description
 /IRS990/CashNonInterestBearingGrp/EOYAmt,2013,,[CashNonInterestBearingGrp] Cash - Non interest bearing; [EOYAmt] Ending of year
 /IRS990/ChangeToOrgDocumentsInd,2013,,[ChangeToOrgDocumentsInd] Changes to organizing docs?
 /IRS990/ChangesToOrganizingDocs,2009,2012,[ChangesToOrganizingDocs] Changes to organizing docs?
-/IRS990/CntrbtnsRprtdFundraisingEvents,2009,2009,[CntrbtnsRprtdFundraisingEvents] Contributions reported from fundraising events on line 1c
 /IRS990/CntrbtnsRprtdFundraisingEvents,2009,2012,"[CntrbtnsRprtdFundraisingEvents] Contributions reported from fundraising events on line 1c, Line 8a underline"
+/IRS990/CntrbtnsRprtdFundraisingEvents,2009,2009,[CntrbtnsRprtdFundraisingEvents] Contributions reported from fundraising events on line 1c
 /IRS990/CntrctRcvdGreaterThan100KCnt,2013,,[CntrctRcvdGreaterThan100KCnt] Number of contractors greater than $100K
 /IRS990/CollectionsOfArtInd,2013,,[CollectionsOfArtInd] Collections of art?
 /IRS990/CollectionsOfArt,2009,2012,[CollectionsOfArt] Collections of art?
@@ -2117,12 +2117,14 @@ xpath,version_start,version_end,description
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm/TotalCreditsAndPayments,2009,2012,[TotalCreditsAndPayments] Total Credits and Payments
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm,2009,2012,
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToESTaxAmt,2013,,[AppliedToESTaxAmt] Amount Credited to Next Year
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,2016,[AppliedToEsTaxAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,,[AppliedToEsTaxAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/BackupWithholdingWithheldAmt,2013,,[BackupWithholdingWithheldAmt] Backup Withholding Erroneously Withheld
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/DomesticOrgMeetingSect4940eInd,2013,,[DomesticOrgMeetingSect4940eInd] Domestic Organizations Meeting Section 4940(e) Requirements
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EsPenaltyAmt,2013,,[EsPenaltyAmt] Penalty for Underpayment
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EstimatedPlusOvpmtIncmTxAmt,2013,,[EstimatedPlusOvpmtIncmTxAmt] Estimated Tax Payments and Overpayment Credited
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExemptOperatingFoundationsInd,2013,,[ExemptOperatingFoundationsInd] Exempt Operating Foundations
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExtsnRequestIncomeTaxPaidAmt,2017,,[ExtsnRequestIncomeTaxPaidAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/Form2220AttachedInd,2013,,[Form2220AttachedInd] Indicates Form 2220 is attached
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/InvestmentIncomeExciseTaxAmt,2013,,[InvestmentIncomeExciseTaxAmt] Investment Income Excise Tax - amount
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/NotApplicableCd,2013,,"[NotApplicableCd] Investment Income Excise Tax - ""N/A"""
@@ -2749,6 +2751,8 @@ xpath,version_start,version_end,description
 /IRS990PF/StatementsRegardingActyGrp/ChangesToArticlesOrBylawsInd,2013,,[ChangesToArticlesOrBylawsInd] Changes to Articles or Bylaws?
 /IRS990PF/StatementsRegardingActyGrp/ComplyWithPublicInspRqrInd,2013,,[ComplyWithPublicInspRqrInd] Comply with Public Inspection Requirements?
 /IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2013,,[DonorAdvisedFundInd] Did Ihe organization acquire a direct or indirect interest in any applicable insurance contract?
+/IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2013,2016,[DonorAdvisedFundInd] Did Ihe organization acquire a direct or indirect interest in any applicable insurance contract?
+/IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2017,,[DonorAdvisedFundInd] Did the foundation make a distribution to a donor advised fund?
 /IRS990PF/StatementsRegardingActyGrp/ForeignAccountsQuestionInd,2013,,"[ForeignAccountsQuestionInd] Interest or a signature or other authority over a bank, securities, or other financial account in a foreign country?"
 /IRS990PF/StatementsRegardingActyGrp/ForeignCountryCd,2013,,[ForeignCountryCd] Name of foreign country
 /IRS990PF/StatementsRegardingActyGrp/Form1120POLFiledInd,2013,,[Form1120POLFiledInd] Form 1120-POL Filed?
@@ -3178,10 +3182,12 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr1Amt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr1Amt] Excess distributions carryover - year 1
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr2Amt,2015,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr2Amt] Excess distributions carryover - year 2
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr3Amt,2016,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr3Amt] Excess distributions carryover - year 3
+/IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr4Amt,2017,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr4Amt] Excess distributions carryover - year 4
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear1Amt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear1Amt] Excess from year 1
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear2Amt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear2Amt] Excess from year 2
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear3Amt,2015,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear3Amt] Excess from year 3
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear4Amt,2016,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear4Amt] Excess from year 4
+/IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear5Amt,2017,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear5Amt] Excess from year 5
 /IRS990ScheduleA/DistributionAllocationsGrp/RemainingUnderdistriCYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [RemainingUnderdistriCYAmt] Remaining underdistributions - current years
 /IRS990ScheduleA/DistributionAllocationsGrp/RemainingUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [RemainingUnderdistriPYAmt] Remaining underdistributions - prior years
 /IRS990ScheduleA/DistributionAllocationsGrp/TotalExcessDistributionCyovAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [TotalExcessDistributionCyovAmt] Excess distributions carryover amount
@@ -4365,7 +4371,11 @@ xpath,version_start,version_end,description
 /IRS990ScheduleF/ContNumberOfEmployees,2010,2012,[ContNumberOfEmployees] Total employees from continuation sheets to Part I
 /IRS990ScheduleF/ContNumberOfOffices,2010,2012,[ContNumberOfOffices] Total offices from continuation sheets to Part I
 /IRS990ScheduleF/ContinuationSpentAmt,2013,,[ContinuationSpentAmt] Total amouunt from continuation sheets to Part I
+/IRS990ScheduleF/ContinuationTotalEmployeeCnt,2017,,[ContinuationTotalEmployeeCnt] Total employees from continuation sheets to Part I
+/IRS990ScheduleF/ContinuationTotalOfficeCnt,2017,,[ContinuationTotalOfficeCnt] Total offices from continuation sheets to Part I
+/IRS990ScheduleF/ContinutationTotalEmployeeCnt,2013,2016,[ContinutationTotalEmployeeCnt] Total employees from continuation sheets to Part I
 /IRS990ScheduleF/ContinutationTotalEmployeeCnt,2013,,[ContinutationTotalEmployeeCnt] Total employees from continuation sheets to Part I
+/IRS990ScheduleF/ContinutationTotalOfficeCnt,2013,2016,[ContinutationTotalOfficeCnt] Total offices from continuation sheets to Part I
 /IRS990ScheduleF/ContinutationTotalOfficeCnt,2013,,[ContinutationTotalOfficeCnt] Total offices from continuation sheets to Part I
 /IRS990ScheduleF/ForeignCorpOwnershipInd,2013,,[ForeignCorpOwnershipInd] Did the organization have an ownership interest in a foreign corporation during the tax year?
 /IRS990ScheduleF/ForeignIndividualsGrantsGrp/CashGrantAmt,2013,,"[ForeignIndividualsGrantsGrp] Enter information in this table for all grants and assistance reported on line 3 of Form 990, PartV, Statement of Expenses, that were made to individuals located outside the U.S.; [CashGrantAmt] Amount of cash grant"
@@ -5728,17 +5738,17 @@ xpath,version_start,version_end,description
 /IRS990ScheduleK/Form990ScheduleKPartIV/BondReferenceCd,2012,2012,[Form990ScheduleKPartIV] Arbitrage; [BondReferenceCd] Bond issue reference number (A-D)
 /IRS990ScheduleK/Form990ScheduleKPartIV/ExceptionToRebate,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [ExceptionToRebate] Exception to rebate?
 /IRS990ScheduleK/Form990ScheduleKPartIV/ExceptionToRebate,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [ExceptionToRebate] Exception to rebate?
-/IRS990ScheduleK/Form990ScheduleKPartIV/Form8038TFiled,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [Form8038TFiled] Form 8038-T filed?
 /IRS990ScheduleK/Form990ScheduleKPartIV/Form8038TFiled,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [Form8038TFiled] Form 8038-T filed?
-/IRS990ScheduleK/Form990ScheduleKPartIV/GrossProceedsInvestedInGIC,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [GrossProceedsInvestedInGIC] Gross proceeds invested in GIC?
+/IRS990ScheduleK/Form990ScheduleKPartIV/Form8038TFiled,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [Form8038TFiled] Form 8038-T filed?
 /IRS990ScheduleK/Form990ScheduleKPartIV/GrossProceedsInvestedInGIC,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [GrossProceedsInvestedInGIC] Gross proceeds invested in GIC?
+/IRS990ScheduleK/Form990ScheduleKPartIV/GrossProceedsInvestedInGIC,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [GrossProceedsInvestedInGIC] Gross proceeds invested in GIC?
 /IRS990ScheduleK/Form990ScheduleKPartIV/GrossProceedsInvested,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [GrossProceedsInvested] Gross proceeds invested?
 /IRS990ScheduleK/Form990ScheduleKPartIV/GrossProceedsInvested,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [GrossProceedsInvested] Gross proceeds invested?
-/IRS990ScheduleK/Form990ScheduleKPartIV/HedgeIdentifiedInBooksAndRecds,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [HedgeIdentifiedInBooksAndRecds] Hedge identified in books and records?
 /IRS990ScheduleK/Form990ScheduleKPartIV/HedgeIdentifiedInBooksAndRecds,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [HedgeIdentifiedInBooksAndRecds] Hedge identified in books and records?
+/IRS990ScheduleK/Form990ScheduleKPartIV/HedgeIdentifiedInBooksAndRecds,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [HedgeIdentifiedInBooksAndRecds] Hedge identified in books and records?
 /IRS990ScheduleK/Form990ScheduleKPartIV/HedgeTerminated,2010,2012,[Form990ScheduleKPartIV] Arbitrage; [HedgeTerminated] Was the hedge terminated?
-/IRS990ScheduleK/Form990ScheduleKPartIV/NameOfGICProvider/BusinessNameLine1,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [NameOfGICProvider] Name of provider; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleK/Form990ScheduleKPartIV/NameOfGICProvider/BusinessNameLine1,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [NameOfGICProvider] Name of provider; [BusinessNameLine1] Business name line 1
+/IRS990ScheduleK/Form990ScheduleKPartIV/NameOfGICProvider/BusinessNameLine1,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [NameOfGICProvider] Name of provider; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleK/Form990ScheduleKPartIV/NameOfGICProvider/BusinessNameLine2,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [NameOfGICProvider] Name of provider; [BusinessNameLine2] Business name line 2
 /IRS990ScheduleK/Form990ScheduleKPartIV/NameOfGICProvider/BusinessNameLine2,2009,2009,[Form990ScheduleKPartIV] Compensation of Third Parties; [NameOfGICProvider] Name of provider; [BusinessNameLine2] Business name line 2
 /IRS990ScheduleK/Form990ScheduleKPartIV/NameOfHedgeProvider/BusinessNameLine1,2009,2012,[Form990ScheduleKPartIV] Arbitrage; [NameOfHedgeProvider] Name of provider; [BusinessNameLine1] Business name line 1

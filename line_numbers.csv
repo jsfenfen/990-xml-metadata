@@ -2158,12 +2158,14 @@ xpath,version_start,version_end,line_number
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm/TotalCreditsAndPayments,2009,2012,[TotalCreditsAndPayments] Part VI Line 7
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm,2009,2012,
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToESTaxAmt,2013,,[AppliedToESTaxAmt] Part VI Line 11
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,2016,[AppliedToEsTaxAmt] Part VI Line 6c
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,,[AppliedToEsTaxAmt] Part VI Line 6c
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/BackupWithholdingWithheldAmt,2013,,[BackupWithholdingWithheldAmt] Part VI Line 6d
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/DomesticOrgMeetingSect4940eInd,2013,,[DomesticOrgMeetingSect4940eInd] Part VI Line 1b
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EsPenaltyAmt,2013,,[EsPenaltyAmt] Part VI Line 8
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EstimatedPlusOvpmtIncmTxAmt,2013,,[EstimatedPlusOvpmtIncmTxAmt] Part VI Line 6a
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExemptOperatingFoundationsInd,2013,,[ExemptOperatingFoundationsInd] Part VI Line 1a
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExtsnRequestIncomeTaxPaidAmt,2017,,[ExtsnRequestIncomeTaxPaidAmt] Part VI Line 6c
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/Form2220AttachedInd,2013,,[Form2220AttachedInd] Part VI Line 8
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/InvestmentIncomeExciseTaxAmt,2013,,[InvestmentIncomeExciseTaxAmt] Part VI Line 1
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/NotApplicableCd,2013,,[NotApplicableCd] Part VI Line 1
@@ -3220,10 +3222,12 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr1Amt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessDistributionCyovYr1Amt] Part V Section E Line 3(e)
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr2Amt,2015,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessDistributionCyovYr2Amt] Part V Section E Line 3(d)
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr3Amt,2016,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessDistributionCyovYr3Amt] Part V Section E Line 3(c)
+/IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr4Amt,2017,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessDistributionCyovYr4Amt] Part V Section E Line 3(b)
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear1Amt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessFromYear1Amt] Part V Section E Line 8e
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear2Amt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessFromYear2Amt] Part V Section E Line 8d
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear3Amt,2015,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessFromYear3Amt] Part V Section E Line 8c
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear4Amt,2016,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessFromYear4Amt] Part V Section E Line 8b
+/IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear5Amt,2017,,[DistributionAllocationsGrp] Part V Section E Group; [ExcessFromYear5Amt] Part V Section E Line 8a
 /IRS990ScheduleA/DistributionAllocationsGrp/RemainingUnderdistriCYAmt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [RemainingUnderdistriCYAmt] Part V Section E Line 6(iii)
 /IRS990ScheduleA/DistributionAllocationsGrp/RemainingUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [RemainingUnderdistriPYAmt] Part V Section E Line 5(ii)
 /IRS990ScheduleA/DistributionAllocationsGrp/TotalExcessDistributionCyovAmt,2014,,[DistributionAllocationsGrp] Part V Section E Group; [TotalExcessDistributionCyovAmt] Part V Section E Line 3(f)(i)
@@ -4452,7 +4456,11 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleF/ContNumberOfEmployees,2010,2012,[ContNumberOfEmployees] Part I Line 3b Column (c)
 /IRS990ScheduleF/ContNumberOfOffices,2010,2012,[ContNumberOfOffices] Part I Line 3b Column (b)
 /IRS990ScheduleF/ContinuationSpentAmt,2013,,[ContinuationSpentAmt] Part I Line 3b Column (f)
+/IRS990ScheduleF/ContinuationTotalEmployeeCnt,2017,,[ContinuationTotalEmployeeCnt] Part I Line 3b Column (c)
+/IRS990ScheduleF/ContinuationTotalOfficeCnt,2017,,[ContinuationTotalOfficeCnt] Part I Line 3b Column (b)
+/IRS990ScheduleF/ContinutationTotalEmployeeCnt,2013,2016,[ContinutationTotalEmployeeCnt] Part I Line 3b Column (c)
 /IRS990ScheduleF/ContinutationTotalEmployeeCnt,2013,,[ContinutationTotalEmployeeCnt] Part I Line 3b Column (c)
+/IRS990ScheduleF/ContinutationTotalOfficeCnt,2013,2016,[ContinutationTotalOfficeCnt] Part I Line 3b Column (b)
 /IRS990ScheduleF/ContinutationTotalOfficeCnt,2013,,[ContinutationTotalOfficeCnt] Part I Line 3b Column (b)
 /IRS990ScheduleF/ForeignCorpOwnershipInd,2013,,[ForeignCorpOwnershipInd] Part IV Line 3
 /IRS990ScheduleF/ForeignIndividualsGrantsGrp/CashGrantAmt,2013,,[ForeignIndividualsGrantsGrp] Part III; [CashGrantAmt] Column (d)
