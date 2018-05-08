@@ -114,7 +114,6 @@ xpath,version_start,version_end,description
 /IRS990/BooksInCareOfDetail/USAddress/State,2013,2013,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [State] State
 /IRS990/BooksInCareOfDetail/USAddress/ZIPCd,2014,,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [ZIPCd] ZIP code
 /IRS990/BooksInCareOfDetail/USAddress/ZIPCode,2013,2013,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [ZIPCode] ZIP code
-/IRS990/BooksInCareOfDetail,2013,,[BooksInCareOfDetail] The books are in care of
 /IRS990/BsnssRltnshpThruFamilyMember,2009,2012,[BsnssRltnshpThruFamilyMember] Business relationship thru family member?
 /IRS990/BsnssRltnshpWithOrganization,2009,2012,[BsnssRltnshpWithOrganization] Business relationship with organization?
 /IRS990/BusinessRlnWithFamMemInd,2013,,[BusinessRlnWithFamMemInd] Business relationship thru family member?
@@ -227,13 +226,11 @@ xpath,version_start,version_end,description
 /IRS990/ContractorCompensationGrp/ContractorAddress/USAddress/State,2013,2013,[ContractorCompensationGrp] Section B; [ContractorAddress] Address of contractor; [USAddress] Address - US; [State] State
 /IRS990/ContractorCompensationGrp/ContractorAddress/USAddress/ZIPCd,2014,,[ContractorCompensationGrp] Section B; [ContractorAddress] Address of contractor; [USAddress] Address - US; [ZIPCd] ZIP code
 /IRS990/ContractorCompensationGrp/ContractorAddress/USAddress/ZIPCode,2013,2013,[ContractorCompensationGrp] Section B; [ContractorAddress] Address of contractor; [USAddress] Address - US; [ZIPCode] ZIP code
-/IRS990/ContractorCompensationGrp/ContractorAddress,2013,,[ContractorCompensationGrp] Section B; [ContractorAddress] Address of contractor
 /IRS990/ContractorCompensationGrp/ContractorName/BusinessName/BusinessNameLine1Txt,2014,,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor; [BusinessName] Name - Business; [BusinessNameLine1Txt] Business name line 1
 /IRS990/ContractorCompensationGrp/ContractorName/BusinessName/BusinessNameLine1,2013,2013,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor; [BusinessName] Name - Business; [BusinessNameLine1] Business name line 1
 /IRS990/ContractorCompensationGrp/ContractorName/BusinessName/BusinessNameLine2Txt,2014,,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor; [BusinessName] Name - Business; [BusinessNameLine2Txt] Business name line 2
 /IRS990/ContractorCompensationGrp/ContractorName/BusinessName/BusinessNameLine2,2013,2013,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor; [BusinessName] Name - Business; [BusinessNameLine2] Business name line 2
 /IRS990/ContractorCompensationGrp/ContractorName/PersonNm,2013,,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor; [PersonNm] Name - Person
-/IRS990/ContractorCompensationGrp/ContractorName,2013,,[ContractorCompensationGrp] Section B; [ContractorName] Name of contractor
 /IRS990/ContractorCompensationGrp/ServicesDesc,2013,,[ContractorCompensationGrp] Section B; [ServicesDesc] Description of services
 /IRS990/ContriRptFundraisingEventAmt,2013,,"[ContriRptFundraisingEventAmt] Contributions reported from fundraising events on line 1c, Line 8a underline"
 /IRS990/ContributionsGrantsCurrentYear,2009,2012,[ContributionsGrantsCurrentYear] Contributions and grants - current year
@@ -444,7 +441,6 @@ xpath,version_start,version_end,description
 /IRS990/Form990PartVIISectionAGrp/ReportableCompFromOrgAmt,2013,,"[Form990PartVIISectionAGrp] Section A, at least name required; [ReportableCompFromOrgAmt] Reportable compensation from organization"
 /IRS990/Form990PartVIISectionAGrp/ReportableCompFromRltdOrgAmt,2013,,"[Form990PartVIISectionAGrp] Section A, at least name required; [ReportableCompFromRltdOrgAmt] Reportable compensation from related organizations"
 /IRS990/Form990PartVIISectionAGrp/TitleTxt,2013,,"[Form990PartVIISectionAGrp] Section A, at least name required; [TitleTxt] Title"
-/IRS990/Form990PartVIISectionAGrp,2013,,"[Form990PartVIISectionAGrp] Section A, at least name required"
 /IRS990/Form990PartVIISectionA,2009,2012,"[Form990PartVIISectionA] Section A, at least name required"
 /IRS990/Form990ProvidedToGoverningBody,2009,2012,[Form990ProvidedToGoverningBody] Form 990 provided to governing body?
 /IRS990/Form990ProvidedToGvrnBodyInd,2013,,[Form990ProvidedToGvrnBodyInd] Form 990 provided to governing body?
@@ -1269,7 +1265,6 @@ xpath,version_start,version_end,description
 /IRS990EZ/BooksInCareOfDetail/USAddress/State,2013,2013,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [State] State
 /IRS990EZ/BooksInCareOfDetail/USAddress/ZIPCd,2014,,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [ZIPCd] ZIP code
 /IRS990EZ/BooksInCareOfDetail/USAddress/ZIPCode,2013,2013,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [ZIPCode] ZIP code
-/IRS990EZ/BooksInCareOfDetail,2013,,[BooksInCareOfDetail] The books are in care of
 /IRS990EZ/CashSavingsAndInvestments/BOY,2009,2012,"[CashSavingsAndInvestments] Cash, savings, and investments; [BOY] Beginnning of year"
 /IRS990EZ/CashSavingsAndInvestments/EOY,2009,2012,"[CashSavingsAndInvestments] Cash, savings, and investments; [EOY] Ending of year"
 /IRS990EZ/CashSavingsAndInvestmentsGrp/BOYAmt,2013,,"[CashSavingsAndInvestmentsGrp] Cash, savings, and investments; [BOYAmt] Beginnning of year"
@@ -1742,9 +1737,7 @@ xpath,version_start,version_end,description
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/ExclusionAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/RelatedOrExemptFunctionIncmAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [RelatedOrExemptFunctionIncmAmt] Related or exempt function income"
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/UnrelatedBusinessTaxblIncmAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [UnrelatedBusinessTaxblIncmAmt] Amount"
-/IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E))"
 /IRS990PF/AnalysisIncomeProducingActyGrp/TotalIncomeProducingActyAmt,2013,,"[TotalIncomeProducingActyAmt] Total (add line 104, columns (B), (D), and (E))"
-/IRS990PF/AnalysisIncomeProducingActyGrp,2013,,
 /IRS990PF/AnalysisIncomeProducingActy,2009,2012,
 /IRS990PF/AnalysisOfRevenueAndExpenses/AccountingFeesAdjNetIncmAmt,2013,,[AccountingFeesAdjNetIncmAmt] Accounting Fees - Adjusted Net Income
 /IRS990PF/AnalysisOfRevenueAndExpenses/AccountingFeesAdjNetIncm,2009,2012,[AccountingFeesAdjNetIncm] Accounting Fees - Adjusted Net Income
@@ -1928,7 +1921,6 @@ xpath,version_start,version_end,description
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingNetInvstIncm,2009,2012,"[TravConfMeetingNetInvstIncm] Travel, Conferences, and Meetings - Net Investment Income"
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingRevAndExpnssAmt,2013,,"[TravConfMeetingRevAndExpnssAmt] Travel, Conferences, and Meetings - Revenue and Expenses per Books"
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingRevAndExpnss,2009,2012,"[TravConfMeetingRevAndExpnss] Travel, Conferences, and Meetings - Revenue and Expenses per Books"
-/IRS990PF/AnalysisOfRevenueAndExpenses,2009,,
 /IRS990PF/BalanceSheets/AccountsPayableBOY,2009,2012,[AccountsPayableBOY] Accounts Payable - Beginning of Year - Book Value
 /IRS990PF/BalanceSheets/AccountsPayableEOY,2009,2012,[AccountsPayableEOY] Accounts Payable - End of Year - Book Value
 /IRS990PF/BalanceSheets/AccountsReceivableBOY,2009,2012,[AccountsReceivableBOY] Accounts Receivable - Beginning of Year - Book Value
@@ -2038,10 +2030,8 @@ xpath,version_start,version_end,description
 /IRS990PF/CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp/HowAcquiredCd,2013,,[HowAcquiredCd] How Acquired
 /IRS990PF/CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp/PropertyDesc,2013,,[PropertyDesc] Description of Asset
 /IRS990PF/CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp/SoldDt,2013,,[SoldDt] Date Sold
-/IRS990PF/CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp,2013,,
 /IRS990PF/CapGainsLossTxInvstIncmDetail/CapitalGainNetIncomeAmt,2013,,[CapitalGainNetIncomeAmt] Capital Gain Net Income
 /IRS990PF/CapGainsLossTxInvstIncmDetail/NetShortTermCapitalGainLossAmt,2013,,[NetShortTermCapitalGainLossAmt] Net Short-Term Capital Gain or Loss
-/IRS990PF/CapGainsLossTxInvstIncmDetail,2013,,
 /IRS990PF/CapitalGainsAndLosses/CapitalGainNetIncome,2009,2012,[CapitalGainNetIncome] Capital Gain Net Income
 /IRS990PF/CapitalGainsAndLosses/CapitalGainsAndLossesInfo/AdjustedBasisAsOf123169,2009,2012,[AdjustedBasisAsOf123169] Adjusted Basis as of 12/31/69
 /IRS990PF/CapitalGainsAndLosses/CapitalGainsAndLossesInfo/CostOrOtherBasis,2009,2012,[CostOrOtherBasis] Cost or Other Basis
@@ -2071,7 +2061,6 @@ xpath,version_start,version_end,description
 /IRS990PF/ChgInNetAssetsFundBalancesGrp/SubtotalAmt,2013,,[SubtotalAmt] Subtotal
 /IRS990PF/ChgInNetAssetsFundBalancesGrp/TotNetAstOrFundBalancesBOYAmt,2013,,[TotNetAstOrFundBalancesBOYAmt] Total Net Assets or Fund Balances at Beginning of Year
 /IRS990PF/ChgInNetAssetsFundBalancesGrp/TotNetAstOrFundBalancesEOYAmt,2013,,[TotNetAstOrFundBalancesEOYAmt] Total Net Assets or Fund Balances at End of Year
-/IRS990PF/ChgInNetAssetsFundBalancesGrp,2013,,
 /IRS990PF/DistributableAmount/DeductionFrDistributableAmount,2009,2012,[DeductionFrDistributableAmount] Deduction from Distributable Amount
 /IRS990PF/DistributableAmount/DistributableAmountAsAdjusted,2009,2012,[DistributableAmountAsAdjusted] Distributable Amount as Adjusted
 /IRS990PF/DistributableAmount/DistributableAmountBeforeAdj,2009,2012,[DistributableAmountBeforeAdj] Distributable Amount Before Adjustments
@@ -2092,7 +2081,6 @@ xpath,version_start,version_end,description
 /IRS990PF/DistributableAmountGrp/Sect4942j3j5FndtnAndFrgnOrgInd,2013,,[Sect4942j3j5FndtnAndFrgnOrgInd] Section 4942(j)(3)&(j)(5) Private Operating Foundations and Certain Foreign Organizations
 /IRS990PF/DistributableAmountGrp/TaxBasedOnInvestmentIncomeAmt,2013,,[TaxBasedOnInvestmentIncomeAmt] Tax Based on Investment Income
 /IRS990PF/DistributableAmountGrp/TotalTaxAmt,2013,,[TotalTaxAmt] Total Tax (add lines 2a and 2b)
-/IRS990PF/DistributableAmountGrp,2013,,
 /IRS990PF/DistributableAmount,2009,2012,
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm/AmountCreditedToNextYear,2009,2012,[AmountCreditedToNextYear] Amount Credited to Next Year
 /IRS990PF/ExciseTaxBasedOnInvestmentIncm/AmountToBeRefunded,2009,2012,[AmountToBeRefunded] Amount to be refunded
@@ -2139,7 +2127,6 @@ xpath,version_start,version_end,description
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/TaxDueAmt,2013,,[TaxDueAmt] Tax Due
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/TaxUnderSection511Amt,2013,,[TaxUnderSection511Amt] Tax Under Section 511
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/TotalPaymentsAndCreditsAmt,2013,,[TotalPaymentsAndCreditsAmt] Total Credits and Payments
-/IRS990PF/ExciseTaxBasedOnInvstIncmGrp,2013,,
 /IRS990PF/ExemptPF,2009,2012,[ExemptPF] Section 501(c)(3) exempt private foundation
 /IRS990PF/FMVAssetsEOYAmt,2013,,[FMVAssetsEOYAmt] Fair market value of all assets at end of year
 /IRS990PF/FMVAssetsEOY,2009,2012,[FMVAssetsEOY] Fair market value of all assets at end of year
@@ -2241,7 +2228,6 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/USGovtObligationsEOYFMVAmt,2013,,"[USGovtObligationsEOYFMVAmt] Investments, Government Obligations - End of Year - Fair Market Value"
 /IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedBOYAmt,2013,,[UnrestrictedBOYAmt] Unrestricted - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedEOYAmt,2013,,[UnrestrictedEOYAmt] Unrestricted - End of Year - Book Value
-/IRS990PF/Form990PFBalanceSheetsGrp,2013,,
 /IRS990PF/InitialReturnFormerPubChrtyInd,2013,,[InitialReturnFormerPubChrtyInd] Indicates this is an initial return of a former public charity
 /IRS990PF/InitialReturnFormerPublicChrty,2009,2012,[InitialReturnFormerPublicChrty] Indicates this is an initial return of a former public charity
 /IRS990PF/InitialReturnInd,2013,,[InitialReturnInd] Indicates this is an initial return
@@ -2272,7 +2258,6 @@ xpath,version_start,version_end,description
 /IRS990PF/MinimumInvestmentReturnGrp/NetVlNoncharitableAssetsAmt,2013,,[NetVlNoncharitableAssetsAmt] Net Noncharitable Assets
 /IRS990PF/MinimumInvestmentReturnGrp/ReductionClaimedAmt,2013,,[ReductionClaimedAmt] Reduction Claimed
 /IRS990PF/MinimumInvestmentReturnGrp/TotalFMVOfUnusedAssetsAmt,2013,,[TotalFMVOfUnusedAssetsAmt] Total FMV of Unused Assets
-/IRS990PF/MinimumInvestmentReturnGrp,2013,,
 /IRS990PF/MinimumInvestmentReturn,2009,2012,
 /IRS990PF/NECT,2009,2012,[NECT] Section 4947(a)(1) nonexempt charitable trust
 /IRS990PF/OfcrDirTrusteesKeyEmployeeInfo/CompOfHghstPaidCntrctNONE,2009,2012,"[CompOfHghstPaidCntrctNONE] If there are none, enter ""None"""
@@ -2363,7 +2348,6 @@ xpath,version_start,version_end,description
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationHighestPaidEmplGrp/USAddress/State,2013,2013,"[CompensationHighestPaidEmplGrp] Compensation of the five highest paid employees other than officers, directors, and trustees; [USAddress] Address - US; [State] State"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationHighestPaidEmplGrp/USAddress/ZIPCd,2014,,"[CompensationHighestPaidEmplGrp] Compensation of the five highest paid employees other than officers, directors, and trustees; [USAddress] Address - US; [ZIPCd] ZIP code"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationHighestPaidEmplGrp/USAddress/ZIPCode,2013,2013,"[CompensationHighestPaidEmplGrp] Compensation of the five highest paid employees other than officers, directors, and trustees; [USAddress] Address - US; [ZIPCode] ZIP code"
-/IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationHighestPaidEmplGrp,2013,,"[CompensationHighestPaidEmplGrp] Compensation of the five highest paid employees other than officers, directors, and trustees"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/BusinessName,2013,,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [BusinessName] Highest paid contractor's name - Business
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/CompensationAmt,2013,,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [CompensationAmt] Compensation
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/ForeignAddress/AddressLine1Txt,2014,,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [ForeignAddress] Address - Foreign; [AddressLine1Txt] Address line 1
@@ -2390,7 +2374,6 @@ xpath,version_start,version_end,description
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/USAddress/State,2013,2013,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [USAddress] Address - US; [State] State
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/USAddress/ZIPCd,2014,,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [USAddress] Address - US; [ZIPCd] ZIP code
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp/USAddress/ZIPCode,2013,2013,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services; [USAddress] Address - US; [ZIPCode] ZIP code
-/IRS990PF/OfficerDirTrstKeyEmplInfoGrp/CompensationOfHghstPdCntrctGrp,2013,,[CompensationOfHghstPdCntrctGrp] Compensation of the five highest paid independent contractors for professional services
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/ContractorPaidOver50kCnt,2013,,"[ContractorPaidOver50kCnt] Total number of other contractors paid over $50,000"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/AverageHrsPerWkDevotedToPosRt,2013,,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee; [AverageHrsPerWkDevotedToPosRt] Average Hours per week devoted to position"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/BusinessName,2013,,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee; [BusinessName] Business Name"
@@ -2421,9 +2404,7 @@ xpath,version_start,version_end,description
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/USAddress/State,2013,2013,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee; [USAddress] Address - US; [State] State"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/USAddress/ZIPCd,2014,,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee; [USAddress] Address - US; [ZIPCd] ZIP code"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp/USAddress/ZIPCode,2013,2013,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee; [USAddress] Address - US; [ZIPCode] ZIP code"
-/IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OfficerDirTrstKeyEmplGrp,2013,,"[OfficerDirTrstKeyEmplGrp] Officer, Director, Trustee, or Key Employee"
 /IRS990PF/OfficerDirTrstKeyEmplInfoGrp/OtherEmployeePaidOver50kCnt,2013,,"[OtherEmployeePaidOver50kCnt] Total number of other employees paid over $50,000"
-/IRS990PF/OfficerDirTrstKeyEmplInfoGrp,2013,,
 /IRS990PF/Organization4947a1TrtdPFInd,2013,,[Organization4947a1TrtdPFInd] Section 4947(a)(1) nonexempt charitable trust
 /IRS990PF/Organization501c3ExemptPFInd,2013,,[Organization501c3ExemptPFInd] Section 501(c)(3) exempt private foundation
 /IRS990PF/Organization501c3TaxablePFInd,2013,,[Organization501c3TaxablePFInd] Other taxable private foundation
@@ -2555,7 +2536,6 @@ xpath,version_start,version_end,description
 /IRS990PF/PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year1Amt,2013,,[TwoThirdsMinimumInvstRetGrp] 2/3 of Minimum Investment Return; [Year1Amt] Year 1
 /IRS990PF/PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year2Amt,2013,,[TwoThirdsMinimumInvstRetGrp] 2/3 of Minimum Investment Return; [Year2Amt] Year 2
 /IRS990PF/PrivateOperatingFoundationsGrp/TwoThirdsMinimumInvstRetGrp/Year3Amt,2013,,[TwoThirdsMinimumInvstRetGrp] 2/3 of Minimum Investment Return; [Year3Amt] Year 3
-/IRS990PF/PrivateOperatingFoundationsGrp,2013,,
 /IRS990PF/PrivateOperatingFoundations,2009,2012,
 /IRS990PF/QlfyUndSect4940eForReducedTax/AdjNonchrtblAssetsAndOnePct,2009,2012,[AdjNonchrtblAssetsAndOnePct] Adjusted Noncharitable Assets and 1% of Net Investment Income (add lines 5 and 6)
 /IRS990PF/QlfyUndSect4940eForReducedTax/AdjustedNoncharitableAssets,2009,2012,[AdjustedNoncharitableAssets] Adjusted Noncharitable Assets (multiply Line 4 by Line 3)
@@ -2604,7 +2584,6 @@ xpath,version_start,version_end,description
 /IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr5Amt,2013,,[NetVlNoncharitableAssetsYr5Amt] Noncharitable Assets - Year 5
 /IRS990PF/QlfyUndSect4940eReducedTaxGrp/QualifyingDistributionsAmt,2013,,[QualifyingDistributionsAmt] Qualifying Distributions
 /IRS990PF/QlfyUndSect4940eReducedTaxGrp/TotalDistributionRt,2013,,[TotalDistributionRt] Total Distribution Ratio
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp,2013,,
 /IRS990PF/QualifyingDistriPartXIIGrp/AdjustedQualifyingDistriAmt,2013,,[AdjustedQualifyingDistriAmt] Adjusted Qualifying Distributions
 /IRS990PF/QualifyingDistriPartXIIGrp/CharitableAssetsAcquisPaidAmt,2013,,[CharitableAssetsAcquisPaidAmt] Amounts Paid to Acquire Charitable Assets
 /IRS990PF/QualifyingDistriPartXIIGrp/ExpensesAndContributionsAmt,2013,,[ExpensesAndContributionsAmt] Expenses and Contributions
@@ -2613,7 +2592,6 @@ xpath,version_start,version_end,description
 /IRS990PF/QualifyingDistriPartXIIGrp/QualifyingDistributionsAmt,2013,,[QualifyingDistributionsAmt] Qualifying Distributions
 /IRS990PF/QualifyingDistriPartXIIGrp/SetAsideCashDistriTestAmt,2013,,[SetAsideCashDistriTestAmt] Amounts Set Aside - Cash Distribution Test
 /IRS990PF/QualifyingDistriPartXIIGrp/SetAsideSuitabilityTestAmt,2013,,[SetAsideSuitabilityTestAmt] Amounts Set Aside - Suitability Test
-/IRS990PF/QualifyingDistriPartXIIGrp,2013,,
 /IRS990PF/QualifyingDistributions/AdjQualifyingDistributions,2009,2012,[AdjQualifyingDistributions] Adjusted Qualifying Distributions
 /IRS990PF/QualifyingDistributions/AmountsPaidAcqCharitableAssets,2009,2012,[AmountsPaidAcqCharitableAssets] Amounts Paid to Acquire Charitable Assets
 /IRS990PF/QualifyingDistributions/AmountsSetAsideCashDistriTest,2009,2012,[AmountsSetAsideCashDistriTest] Amounts Set Aside - Cash Distribution Test
@@ -2630,7 +2608,6 @@ xpath,version_start,version_end,description
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/LineNumberTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes; [LineNumberTxt] Line number
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/RelationshipStatementTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes; [RelationshipStatementTxt] Relationship statement
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes
-/IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp,2013,,
 /IRS990PF/SpecialConditionDesc,2013,,[SpecialConditionDesc] Special condition description
 /IRS990PF/SpecialConditionDescription,2009,2012,[SpecialConditionDescription] Special condition description
 /IRS990PF/StatementsRegardingActivities/ActivitiesNotPrevReported,2009,2012,[ActivitiesNotPrevReported] Activities Not Previously Reported?
@@ -2744,7 +2721,6 @@ xpath,version_start,version_end,description
 /IRS990PF/StatementsRegardingActy4720Grp/UndistributedIncomePY3Yr,2013,,[UndistributedIncomePY3Yr] Undistributed Income Prior Year 3
 /IRS990PF/StatementsRegardingActy4720Grp/UndistributedIncomePY4Yr,2013,,[UndistributedIncomePY4Yr] Undistributed Income Prior Year 4
 /IRS990PF/StatementsRegardingActy4720Grp/UndistributedIncomePYInd,2013,,[UndistributedIncomePYInd] Undistributed Income Prior Years?
-/IRS990PF/StatementsRegardingActy4720Grp,2013,,
 /IRS990PF/StatementsRegardingActy4720,2009,2012,
 /IRS990PF/StatementsRegardingActyGrp/ActivitiesNotPreviouslyRptInd,2013,,[ActivitiesNotPreviouslyRptInd] Activities Not Previously Reported?
 /IRS990PF/StatementsRegardingActyGrp/AtLeast5000InAssetsInd,2013,,[AtLeast5000InAssetsInd] At least $5000 in Assets?
@@ -2801,7 +2777,6 @@ xpath,version_start,version_end,description
 /IRS990PF/StatementsRegardingActyGrp/TaxReimbursedAmt,2013,,[TaxReimbursedAmt] Reimbursement of Tax
 /IRS990PF/StatementsRegardingActyGrp/UnrelatedBusIncmOverLimitInd,2013,,[UnrelatedBusIncmOverLimitInd] Unrelated Business Income Over $1000?
 /IRS990PF/StatementsRegardingActyGrp/WebsiteAddressTxt,2013,,[WebsiteAddressTxt] Website Address
-/IRS990PF/StatementsRegardingActyGrp,2013,,
 /IRS990PF/SumOfProgramRelatedInvestments/AllOthProgRltdInvestmentsTotal,2009,2012,[AllOthProgRltdInvestmentsTotal] All Other Program-Related Investments Total
 /IRS990PF/SumOfProgramRelatedInvestments/Amount1,2009,2012,[Amount1] Amount 1
 /IRS990PF/SumOfProgramRelatedInvestments/Amount2,2009,2012,[Amount2] Amount 2
@@ -2815,7 +2790,6 @@ xpath,version_start,version_end,description
 /IRS990PF/SumOfProgramRelatedInvstGrp/Expenses1Amt,2013,,[Expenses1Amt] Amount 1
 /IRS990PF/SumOfProgramRelatedInvstGrp/Expenses2Amt,2013,,[Expenses2Amt] Amount 2
 /IRS990PF/SumOfProgramRelatedInvstGrp/TotalAmt,2013,,[TotalAmt] Total
-/IRS990PF/SumOfProgramRelatedInvstGrp,2013,,
 /IRS990PF/SummaryOfDirectCharitableActy/Description1,2009,2012,[Description1] Description 1
 /IRS990PF/SummaryOfDirectCharitableActy/Description2,2009,2012,[Description2] Description 2
 /IRS990PF/SummaryOfDirectCharitableActy/Description3,2009,2012,[Description3] Description 3
@@ -2833,7 +2807,6 @@ xpath,version_start,version_end,description
 /IRS990PF/SummaryOfDirectChrtblActyGrp/Expenses2Amt,2013,,[Expenses2Amt] Expenses 2
 /IRS990PF/SummaryOfDirectChrtblActyGrp/Expenses3Amt,2013,,[Expenses3Amt] Expenses 3
 /IRS990PF/SummaryOfDirectChrtblActyGrp/Expenses4Amt,2013,,[Expenses4Amt] Expenses 4
-/IRS990PF/SummaryOfDirectChrtblActyGrp,2013,,
 /IRS990PF/SupplementaryInformation/AppicationSubmissionInfo/FormAndInfoAndMaterials,2009,2012,[FormAndInfoAndMaterials] Form and Information and Materials To Include
 /IRS990PF/SupplementaryInformation/AppicationSubmissionInfo/RecipientEmailAddress,2012,2012,[RecipientEmailAddress] Recipient Email Address
 /IRS990PF/SupplementaryInformation/AppicationSubmissionInfo/RecipientForeignAddress/AddressLine1,2009,2012,[RecipientForeignAddress] Foreign Address of Person to Receive Applications; [AddressLine1] Address line 1
@@ -2921,7 +2894,6 @@ xpath,version_start,version_end,description
 /IRS990PF/SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/RecipientUSAddress/ZIPCode,2013,2013,[RecipientUSAddress] US Address of Person to Receive Applications; [ZIPCode] ZIP code
 /IRS990PF/SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/RestrictionsOnAwardsTxt,2013,,[RestrictionsOnAwardsTxt] Restrictions on Awards
 /IRS990PF/SupplementaryInformationGrp/ApplicationSubmissionInfoGrp/SubmissionDeadlinesTxt,2013,,[SubmissionDeadlinesTxt] Subsmission Deadlines
-/IRS990PF/SupplementaryInformationGrp/ApplicationSubmissionInfoGrp,2013,,
 /IRS990PF/SupplementaryInformationGrp/ContributingManagerNm,2013,,[ContributingManagerNm] Contributing Manager
 /IRS990PF/SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/Amt,2013,,[GrantOrContriApprvForFutGrp] Grant or Contribution Approved for Future Payment; [Amt] Amount
 /IRS990PF/SupplementaryInformationGrp/GrantOrContriApprvForFutGrp/GrantOrContributionPurposeTxt,2013,,[GrantOrContriApprvForFutGrp] Grant or Contribution Approved for Future Payment; [GrantOrContributionPurposeTxt] Purpose of Grant or Contribution
@@ -2989,7 +2961,6 @@ xpath,version_start,version_end,description
 /IRS990PF/SupplementaryInformationGrp/ShareholderManagerNm,2013,,[ShareholderManagerNm] Shareholder Manager
 /IRS990PF/SupplementaryInformationGrp/TotalGrantOrContriApprvFutAmt,2013,,[TotalGrantOrContriApprvFutAmt] Total Grant or Contribution Approved for Future Payment
 /IRS990PF/SupplementaryInformationGrp/TotalGrantOrContriPdDurYrAmt,2013,,[TotalGrantOrContriPdDurYrAmt] Total Grant or Contribution Paid During Year
-/IRS990PF/SupplementaryInformationGrp,2013,,
 /IRS990PF/SupplementaryInformation,2009,2012,
 /IRS990PF/TaxablePF,2009,2012,[TaxablePF] Other taxable private foundation
 /IRS990PF/TrnsfrTrRlnWithNoncharitableEO/LoansOrLoanGuarantees,2009,2012,[LoansOrLoanGuarantees] Other transactions : Loans or loan guarantees
@@ -3035,7 +3006,6 @@ xpath,version_start,version_end,description
 /IRS990PF/TrnsfrTransRlnNonchrtblEOGrp/TransferScheduleDetail/TransfersTransAndShrArrngmDesc,2013,,"[TransferScheduleDetail] Transfer schedule; [TransfersTransAndShrArrngmDesc] Description of transfers, transactions, and sharing arrangements"
 /IRS990PF/TrnsfrTransRlnNonchrtblEOGrp/TrnsfrOfCashToNonchrtblEOInd,2013,,[TrnsfrOfCashToNonchrtblEOInd] Transfers of cash to noncharitable EO
 /IRS990PF/TrnsfrTransRlnNonchrtblEOGrp/TrnsfrOtherAssetNonchrtblEOInd,2013,,[TrnsfrOtherAssetNonchrtblEOInd] Transfers of other assets to noncharitable EO
-/IRS990PF/TrnsfrTransRlnNonchrtblEOGrp,2013,,
 /IRS990PF/UndistributedIncome/AppliedToCurrentYear,2009,2012,[AppliedToCurrentYear] Applied to Current Year
 /IRS990PF/UndistributedIncome/AppliedToPriorYears,2009,2012,[AppliedToPriorYears] Applied to Prior Years
 /IRS990PF/UndistributedIncome/AppliedToYear1,2009,2012,[AppliedToYear1] Applied to Year 1
@@ -3104,7 +3074,6 @@ xpath,version_start,version_end,description
 /IRS990PF/UndistributedIncomeGrp/TreatedAsDistriFromCorpusAmt,2013,,[TreatedAsDistriFromCorpusAmt] Treated as Distribution from Corpus
 /IRS990PF/UndistributedIncomeGrp/UndistributedIncomeCYAmt,2013,,[UndistributedIncomeCYAmt] Undistributed Income for Current Year
 /IRS990PF/UndistributedIncomeGrp/UndistributedIncomePYAmt,2013,,[UndistributedIncomePYAmt] Undistributed Income Prior Year
-/IRS990PF/UndistributedIncomeGrp,2013,,
 /IRS990PF/UndistributedIncome,2009,2012,
 /IRS990ScheduleA/AdjustedNetIncomeGrp/AdjustedGrossIncomeGrp/CurrentYearAmt,2014,,[AdjustedNetIncomeGrp] Adjusted net income group; [AdjustedGrossIncomeGrp] Adjusted gross income; [CurrentYearAmt] Current year amount
 /IRS990ScheduleA/AdjustedNetIncomeGrp/AdjustedGrossIncomeGrp/PriorYearAmt,2014,,[AdjustedNetIncomeGrp] Adjusted net income group; [AdjustedGrossIncomeGrp] Adjusted gross income; [PriorYearAmt] Prior year amount
@@ -3122,7 +3091,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/AdjustedNetIncomeGrp/RecoveriesPYDistributionsGrp/PriorYearAmt,2014,,[AdjustedNetIncomeGrp] Adjusted net income group; [RecoveriesPYDistributionsGrp] Recoveries of prior-year distributions - adjusted net income; [PriorYearAmt] Prior year amount
 /IRS990ScheduleA/AdjustedNetIncomeGrp/TotalAdjustedNetIncomeGrp/CurrentYearAmt,2014,,[AdjustedNetIncomeGrp] Adjusted net income group; [TotalAdjustedNetIncomeGrp] Total adjusted net income amount; [CurrentYearAmt] Current year amount
 /IRS990ScheduleA/AdjustedNetIncomeGrp/TotalAdjustedNetIncomeGrp/PriorYearAmt,2014,,[AdjustedNetIncomeGrp] Adjusted net income group; [TotalAdjustedNetIncomeGrp] Total adjusted net income amount; [PriorYearAmt] Prior year amount
-/IRS990ScheduleA/AdjustedNetIncomeGrp,2014,,[AdjustedNetIncomeGrp] Adjusted net income group
 /IRS990ScheduleA/AgriculturalNameAndAddressGrp/CityNm,2016,,"[AgriculturalNameAndAddressGrp] College or university name, city, state, or country; [CityNm] US city or foreign city"
 /IRS990ScheduleA/AgriculturalNameAndAddressGrp/CollegeUniversityName/BusinessNameLine1Txt,2016,,"[AgriculturalNameAndAddressGrp] College or university name, city, state, or country; [CollegeUniversityName] Name; [BusinessNameLine1Txt] Business name line 1"
 /IRS990ScheduleA/AgriculturalNameAndAddressGrp/CollegeUniversityName/BusinessNameLine2Txt,2016,,"[AgriculturalNameAndAddressGrp] College or university name, city, state, or country; [CollegeUniversityName] Name; [BusinessNameLine2Txt] Business name line 2"
@@ -3169,7 +3137,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributableAmountGrp/CYPct85AdjustedNetIncomeAmt,2014,,[DistributableAmountGrp] Distributable amount group; [CYPct85AdjustedNetIncomeAmt] 85% Percent of adjusted net income amount - distributable amount
 /IRS990ScheduleA/DistributableAmountGrp/CYTotalMinAstDistributableAmt,2014,,"[DistributableAmountGrp] Distributable amount group; [CYTotalMinAstDistributableAmt] Minimum asset amount for prior year - distributable amount (from Section B, line 8, Column A)"
 /IRS990ScheduleA/DistributableAmountGrp/FirstYearType3NonFuncInd,2014,,[DistributableAmountGrp] Distributable amount group; [FirstYearType3NonFuncInd] First year as a non-functionally-integrated Type III supporting organization
-/IRS990ScheduleA/DistributableAmountGrp,2014,,[DistributableAmountGrp] Distributable amount group
 /IRS990ScheduleA/DistributionAllocationsGrp/CYDistriAppDistributableAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [CYDistriAppDistributableAmt] Current year distributions applied to distributable amount
 /IRS990ScheduleA/DistributionAllocationsGrp/CYDistribAppUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [CYDistribAppUnderdistriPYAmt] Current year distributions applied to underdistributions of prior years
 /IRS990ScheduleA/DistributionAllocationsGrp/CYDistributableAsAdjustedAmt,2014,,"[DistributionAllocationsGrp] Distribution allocations; [CYDistributableAsAdjustedAmt] Distributable amount for current year (from Section C, line 6)"
@@ -3192,7 +3159,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributionAllocationsGrp/RemainingUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [RemainingUnderdistriPYAmt] Remaining underdistributions - prior years
 /IRS990ScheduleA/DistributionAllocationsGrp/TotalExcessDistributionCyovAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [TotalExcessDistributionCyovAmt] Excess distributions carryover amount
 /IRS990ScheduleA/DistributionAllocationsGrp/UnderdistributionsAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [UnderdistributionsAmt] Underdistributions for years prior to current year
-/IRS990ScheduleA/DistributionAllocationsGrp,2014,,[DistributionAllocationsGrp] Distribution allocations
 /IRS990ScheduleA/DistributionsGrp/CYAdministrativeExpensePaidAmt,2014,,[CYAdministrativeExpensePaidAmt] Administrative expenses paid to accomplish exempt purposes
 /IRS990ScheduleA/DistributionsGrp/CYDistriAttentiveSuprtOrgAmt,2014,,[CYDistriAttentiveSuprtOrgAmt] Distributions to attentive supported organizations to which the org is responsive
 /IRS990ScheduleA/DistributionsGrp/CYDistributableAsAdjustedAmt,2014,,"[CYDistributableAsAdjustedAmt] Distributable amount for current year (from Section C, line 6)"
@@ -3203,7 +3169,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributionsGrp/CYTotalAnnualDistributionsAmt,2014,,[CYTotalAnnualDistributionsAmt] Total annual distributions - Current Year
 /IRS990ScheduleA/DistributionsGrp/ExemptUseAssetsAcquisPaidAmt,2014,,[ExemptUseAssetsAcquisPaidAmt] Amounts paid to acquire exempt-use assets
 /IRS990ScheduleA/DistributionsGrp/QualifiedSetAsideAmt,2014,,[QualifiedSetAsideAmt] Qualified set-aside amounts
-/IRS990ScheduleA/DistributionsGrp,2014,,
 /IRS990ScheduleA/FactsAndCircumstancesTestTxt,2013,,[FactsAndCircumstancesTestTxt] Facts and circumstances test
 /IRS990ScheduleA/FactsAndCircumstancesTest,2009,2012,[FactsAndCircumstancesTest] Facts and circumstances test
 /IRS990ScheduleA/First5Years170Ind,2013,,[First5Years170Ind] First five years
@@ -3232,7 +3197,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/Form990SchASupportingOrgGrp/SupportedOrgSectionC456Ind,2014,,"[Form990SchASupportingOrgGrp] All supporting organizations; [SupportedOrgSectionC456Ind] Supported org described in Section 501(c)(4), (5), (6)?"
 /IRS990ScheduleA/Form990SchASupportingOrgGrp/SuprtExclusivelySec170c2BInd,2014,,[Form990SchASupportingOrgGrp] All supporting organizations; [SuprtExclusivelySec170c2BInd] Ensure support used exclusively for section 170(c)(2)(B) purposes?
 /IRS990ScheduleA/Form990SchASupportingOrgGrp/SuprtOrgNoIRSDeterminationInd,2014,,[Form990SchASupportingOrgGrp] All supporting organizations; [SuprtOrgNoIRSDeterminationInd] Any supported organization that does not have IRS determination?
-/IRS990ScheduleA/Form990SchASupportingOrgGrp,2014,,[Form990SchASupportingOrgGrp] All supporting organizations
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/OperateBenefitNonSuprtOrgInd,2014,,[Form990SchAType1SuprtOrgGrp] Type I supporting organizations; [OperateBenefitNonSuprtOrgInd] Operate for the benefit of any other supported organization?
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/PowerAppointMajorityDirTrstInd,2014,,"[Form990SchAType1SuprtOrgGrp] Type I supporting organizations; [PowerAppointMajorityDirTrstInd] Directors, trustees, or membership of supported org have power to regularly appoint or elect at least majority of orgs directors or trustees?"
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp,2014,,[Form990SchAType1SuprtOrgGrp] Type I supporting organizations
@@ -3243,11 +3207,9 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ExerciseDirectionPoliciesInd,2014,,"[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [ExerciseDirectionPoliciesInd] Exercise a substantial degree of direction over policies, programs or activities of each supported org?"
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/GovernmentalEntityInd,2014,,[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [GovernmentalEntityInd] Supported a governmental entity
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ParentSupportedOrgInd,2014,,[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [ParentSupportedOrgInd] Parent of each of its supported organizations
-/IRS990ScheduleA/Form990SchAType3FuncIntGrp,2014,,[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations
 /IRS990ScheduleA/Form990SchAType3SprtOrgAllGrp/OfficersCloseRelationshipInd,2014,,[Form990SchAType3SprtOrgAllGrp] All type III supporting organizations; [OfficersCloseRelationshipInd] Maintained close and continuous working relationship with the supported organization?
 /IRS990ScheduleA/Form990SchAType3SprtOrgAllGrp/SupportedOrgVoiceInvestmentInd,2014,,[Form990SchAType3SprtOrgAllGrp] All type III supporting organizations; [SupportedOrgVoiceInvestmentInd] Supported organizations have significant voice in the organizations investment policies?
 /IRS990ScheduleA/Form990SchAType3SprtOrgAllGrp/TimelyProvidedDocumentsInd,2014,,"[Form990SchAType3SprtOrgAllGrp] All type III supporting organizations; [TimelyProvidedDocumentsInd] Timely provided written notice, copy of Form 990, and governing documents?"
-/IRS990ScheduleA/Form990SchAType3SprtOrgAllGrp,2014,,[Form990SchAType3SprtOrgAllGrp] All type III supporting organizations
 /IRS990ScheduleA/Form990ScheduleAPartIVGrp/ExplanationTxt,2013,2013,"[Form990ScheduleAPartIVGrp] Supplemental information for schedule A; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleA/Form990ScheduleAPartIVGrp/FormAndLineReferenceDesc,2013,2013,"[Form990ScheduleAPartIVGrp] Supplemental information for schedule A; [FormAndLineReferenceDesc] Form, part and line number reference"
 /IRS990ScheduleA/Form990ScheduleAPartVIGrp/ExplanationTxt,2014,,"[Form990ScheduleAPartVIGrp] Supplemental information for schedule A; [ExplanationTxt] Form, part and line number reference explanation"
@@ -3398,7 +3360,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/MinimumAssetAmountGrp/TotalFMVOfNonExemptUseAssetGrp/PriorYearAmt,2014,,[MinimumAssetAmountGrp] Minimum asset amount group; [TotalFMVOfNonExemptUseAssetGrp] Total fair market value of non-exempt use assets; [PriorYearAmt] Prior year amount
 /IRS990ScheduleA/MinimumAssetAmountGrp/TotalMinimumAssetGrp/CurrentYearAmt,2014,,[MinimumAssetAmountGrp] Minimum asset amount group; [TotalMinimumAssetGrp] Total minimum asset amount; [CurrentYearAmt] Current year amount
 /IRS990ScheduleA/MinimumAssetAmountGrp/TotalMinimumAssetGrp/PriorYearAmt,2014,,[MinimumAssetAmountGrp] Minimum asset amount group; [TotalMinimumAssetGrp] Total minimum asset amount; [PriorYearAmt] Prior year amount
-/IRS990ScheduleA/MinimumAssetAmountGrp,2014,,[MinimumAssetAmountGrp] Minimum asset amount group
 /IRS990ScheduleA/NetIncomeFromOtherUBI/CurrentTaxYearMinus1Year,2009,2012,[NetIncomeFromOtherUBI] Net income from unrelated business activities not included in line 10b; [CurrentTaxYearMinus1Year] Current tax year minus one year
 /IRS990ScheduleA/NetIncomeFromOtherUBI/CurrentTaxYearMinus2Years,2009,2012,[NetIncomeFromOtherUBI] Net income from unrelated business activities not included in line 10b; [CurrentTaxYearMinus2Years] Current tax year minus two years
 /IRS990ScheduleA/NetIncomeFromOtherUBI/CurrentTaxYearMinus3Years,2009,2012,[NetIncomeFromOtherUBI] Net income from unrelated business activities not included in line 10b; [CurrentTaxYearMinus3Years] Current tax year minus three years
@@ -3942,7 +3903,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleC/Section527PoliticalOrgGrp/USAddress/State,2013,2013,"[Section527PoliticalOrgGrp] State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; [USAddress] Address - US; [State] State"
 /IRS990ScheduleC/Section527PoliticalOrgGrp/USAddress/ZIPCd,2014,,"[Section527PoliticalOrgGrp] State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; [USAddress] Address - US; [ZIPCd] ZIP code"
 /IRS990ScheduleC/Section527PoliticalOrgGrp/USAddress/ZIPCode,2013,2013,"[Section527PoliticalOrgGrp] State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made; [USAddress] Address - US; [ZIPCode] ZIP code"
-/IRS990ScheduleC/Section527PoliticalOrgGrp,2013,,"[Section527PoliticalOrgGrp] State the names, addresses and Employer Identification Number (EIN) of all section 527 political organizations to which payments were made"
 /IRS990ScheduleC/SubstantiallyAllDuesNondedInd,2013,,[SubstantiallyAllDuesNondedInd] Were substantially all (90% or more) dues received nondeductible by members?
 /IRS990ScheduleC/SubstantiallyAllDuesNondeduct,2009,2012,[SubstantiallyAllDuesNondeduct] Were substantially all (90% or more) dues received nondeductible by members?
 /IRS990ScheduleC/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part IV contents; [ExplanationTxt] Form, part and line number reference explanation"
@@ -4873,7 +4833,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/CostingMethodologyUsedGrp/CostAccountingSystemInd,2013,,[CostingMethodologyUsedGrp] Checkbox choice; [CostAccountingSystemInd] Cost accounting system
 /IRS990ScheduleH/CostingMethodologyUsedGrp/CostToChargeRatioInd,2013,,[CostingMethodologyUsedGrp] Checkbox choice; [CostToChargeRatioInd] Cost to charge ratio
 /IRS990ScheduleH/CostingMethodologyUsedGrp/OtherInd,2013,,[CostingMethodologyUsedGrp] Checkbox choice; [OtherInd] Other
-/IRS990ScheduleH/CostingMethodologyUsedGrp,2013,,[CostingMethodologyUsedGrp] Checkbox choice
 /IRS990ScheduleH/CostingMethodologyUsed,2009,2012,[CostingMethodologyUsed] Checkbox choice
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/DiscountedCareOtherPct,2013,,[DiscountedCareOtherPct] Discounted other percentage
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/OtherInd,2013,,[OtherInd] Other
@@ -5144,7 +5103,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/HospitalFacilitiesGrp/USAddress/ZIPCd,2014,,[HospitalFacilitiesGrp] Part V Section A repeating group; [USAddress] Address - US; [ZIPCd] ZIP code
 /IRS990ScheduleH/HospitalFacilitiesGrp/USAddress/ZIPCode,2013,2013,[HospitalFacilitiesGrp] Part V Section A repeating group; [USAddress] Address - US; [ZIPCode] ZIP code
 /IRS990ScheduleH/HospitalFacilitiesGrp/WebsiteAddressTxt,2013,,[HospitalFacilitiesGrp] Part V Section A repeating group; [WebsiteAddressTxt] Primary website address of the hospital facility
-/IRS990ScheduleH/HospitalFacilitiesGrp,2013,,[HospitalFacilitiesGrp] Part V Section A repeating group
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/AdoptBudgetInd,2013,2013,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [AdoptBudgetInd] Operational of budget
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/AdoptImplementationStrategyInd,2013,2013,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [AdoptImplementationStrategyInd] Adoption of implementation strategy
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/AllNeedsAddressedInd,2013,2013,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [AllNeedsAddressedInd] All needs addressed?
@@ -5288,7 +5246,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/TaxExemptHospitalCYOrPYInd,2014,,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [TaxExemptHospitalCYOrPYInd] Acquired or placed into service as tax-exempt hospital in current year or  preceding prior year?
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/UnderinsuranceStatCriteriaInd,2014,,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [UnderinsuranceStatCriteriaInd] Underinsurance status criteria
 /IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp/UninsuredDiscountInd,2013,2013,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group; [UninsuredDiscountInd] Uninsured discount basis
-/IRS990ScheduleH/HospitalFcltyPoliciesPrctcGrp,2013,,[HospitalFcltyPoliciesPrctcGrp] Part V Section B repeating group
 /IRS990ScheduleH/IndivHospitalTailoredPolicyInd,2013,,[IndivHospitalTailoredPolicyInd] Policy tailored to individual hospitals
 /IRS990ScheduleH/LeadershipDevelopment/DirectOffsettingRevenue,2009,2012,[LeadershipDevelopment] Leadership development; [DirectOffsettingRevenue] Direct offsetting revenue
 /IRS990ScheduleH/LeadershipDevelopment/NetCommunityBuildingExpense,2009,2012,[LeadershipDevelopment] Leadership development; [NetCommunityBuildingExpense] Net community building expense
@@ -5310,7 +5267,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/ManagementCoAndJntVenturesGrp/OrgProfitOrOwnershipPct,2013,,[ManagementCoAndJntVenturesGrp] Part IV repeating group; [OrgProfitOrOwnershipPct] Organization's profit % or ownership %
 /IRS990ScheduleH/ManagementCoAndJntVenturesGrp/PhysiciansProfitOrOwnershipPct,2013,,[ManagementCoAndJntVenturesGrp] Part IV repeating group; [PhysiciansProfitOrOwnershipPct] Physican's profit % or ownership %
 /IRS990ScheduleH/ManagementCoAndJntVenturesGrp/PrimaryActivitiesTxt,2013,,[ManagementCoAndJntVenturesGrp] Part IV repeating group; [PrimaryActivitiesTxt] Description of entity's primary activity
-/IRS990ScheduleH/ManagementCoAndJntVenturesGrp,2013,,[ManagementCoAndJntVenturesGrp] Part IV repeating group
 /IRS990ScheduleH/MedicareSurplusOrShortfallAmt,2013,,[MedicareSurplusOrShortfallAmt] Line 5 less line 6
 /IRS990ScheduleH/MedicareSurplusOrShortfall,2009,2012,[MedicareSurplusOrShortfall] Line 5 less line 6
 /IRS990ScheduleH/MostHospitalsPolicyInd,2013,,[MostHospitalsPolicyInd] Policy applied to most hospitals
@@ -5330,8 +5286,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/OthHlthCareFcltsNotHospitalGrp/OthHlthCareFcltsGrp/USAddress/State,2013,2013,"[OthHlthCareFcltsNotHospitalGrp] Part V section D, other health care facilities; [OthHlthCareFcltsGrp] Part V Section D repeating group; [USAddress] Address - US; [State] State"
 /IRS990ScheduleH/OthHlthCareFcltsNotHospitalGrp/OthHlthCareFcltsGrp/USAddress/ZIPCd,2014,,"[OthHlthCareFcltsNotHospitalGrp] Part V section D, other health care facilities; [OthHlthCareFcltsGrp] Part V Section D repeating group; [USAddress] Address - US; [ZIPCd] ZIP code"
 /IRS990ScheduleH/OthHlthCareFcltsNotHospitalGrp/OthHlthCareFcltsGrp/USAddress/ZIPCode,2013,2013,"[OthHlthCareFcltsNotHospitalGrp] Part V section D, other health care facilities; [OthHlthCareFcltsGrp] Part V Section D repeating group; [USAddress] Address - US; [ZIPCode] ZIP code"
-/IRS990ScheduleH/OthHlthCareFcltsNotHospitalGrp/OthHlthCareFcltsGrp,2013,,"[OthHlthCareFcltsNotHospitalGrp] Part V section D, other health care facilities; [OthHlthCareFcltsGrp] Part V Section D repeating group"
-/IRS990ScheduleH/OthHlthCareFcltsNotHospitalGrp,2013,,"[OthHlthCareFcltsNotHospitalGrp] Part V section D, other health care facilities"
 /IRS990ScheduleH/Other/DirectOffsettingRevenue,2009,2012,[Other] Other; [DirectOffsettingRevenue] Direct offsetting revenue
 /IRS990ScheduleH/Other/NetCommunityBuildingExpense,2009,2012,[Other] Other; [NetCommunityBuildingExpense] Net community building expense
 /IRS990ScheduleH/Other/NumberOfActivitiesOrPrograms,2009,2012,[Other] Other; [NumberOfActivitiesOrPrograms] Number of activities or programs
@@ -5520,7 +5474,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp/NonCashAssistanceDesc,2013,,[GrantsOtherAsstToIndivInUSGrp] Part III content; [NonCashAssistanceDesc] Description of non-cash assistance
 /IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp/RecipientCnt,2013,,[GrantsOtherAsstToIndivInUSGrp] Part III content; [RecipientCnt] Number of recipients
 /IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp/ValuationMethodUsedDesc,2013,,"[GrantsOtherAsstToIndivInUSGrp] Part III content; [ValuationMethodUsedDesc] Method of valuation (book, FMV, appraisal, other)"
-/IRS990ScheduleI/GrantsOtherAsstToIndivInUSGrp,2013,,[GrantsOtherAsstToIndivInUSGrp] Part III content
 /IRS990ScheduleI/NoGrantMoreThan5000,2009,2011,"[NoGrantMoreThan5000] Check this box if no one recipient received more than $5,000"
 /IRS990ScheduleI/RecipientTable/AddressForeign/AddressLine1,2009,2012,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000; [AddressForeign] Address of recipient - Foreign; [AddressLine1] Address line 1"
 /IRS990ScheduleI/RecipientTable/AddressForeign/AddressLine2,2009,2012,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000; [AddressForeign] Address of recipient - Foreign; [AddressLine2] Address line 2"
@@ -5575,7 +5528,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleI/RecipientTable/USAddress/ZIPCd,2014,,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000; [USAddress] Address of recipient - US; [ZIPCd] ZIP code"
 /IRS990ScheduleI/RecipientTable/USAddress/ZIPCode,2013,2013,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000; [USAddress] Address of recipient - US; [ZIPCode] ZIP code"
 /IRS990ScheduleI/RecipientTable/ValuationMethodUsedDesc,2013,,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000; [ValuationMethodUsedDesc] Method of valuation (book. FMV, appraisal, other)"
-/IRS990ScheduleI/RecipientTable,2009,,"[RecipientTable] Complete if the organization reported more than $5,000 on Form 990, Part IX, line 1 for any recipient that received more than $5,000"
 /IRS990ScheduleI/RecordsMaintained,2009,2012,"[RecordsMaintained] Does the organization maintain records to substantiate the amount of the grants or assistance, the grantees' eligibility for the grants or assistance, and the selection criteria used to award the grants or assistance?"
 /IRS990ScheduleI/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part IV content; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleI/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part IV content; [FormAndLineReferenceDesc] Form, part and line number reference"
@@ -5667,7 +5619,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleJ/RltdOrgOfficerTrstKeyEmplGrp/TitleTxt,2013,,[RltdOrgOfficerTrstKeyEmplGrp] Part II contents; [TitleTxt] Title of Officer
 /IRS990ScheduleJ/RltdOrgOfficerTrstKeyEmplGrp/TotalCompensationFilingOrgAmt,2013,,"[RltdOrgOfficerTrstKeyEmplGrp] Part II contents; [TotalCompensationFilingOrgAmt] Total of (B)(i) - (D), from filing org"
 /IRS990ScheduleJ/RltdOrgOfficerTrstKeyEmplGrp/TotalCompensationRltdOrgsAmt,2013,,"[RltdOrgOfficerTrstKeyEmplGrp] Part II contents; [TotalCompensationRltdOrgsAmt] Total of (B)(i) - (D), from related orgs"
-/IRS990ScheduleJ/RltdOrgOfficerTrstKeyEmplGrp,2013,,[RltdOrgOfficerTrstKeyEmplGrp] Part II contents
 /IRS990ScheduleJ/SeverancePaymentInd,2013,,[SeverancePaymentInd] Severance payment?
 /IRS990ScheduleJ/SeverancePayment,2009,2012,[SeverancePayment] Severance payment?
 /IRS990ScheduleJ/SubstantiationRequiredInd,2013,,[SubstantiationRequiredInd] Substantiation required?
@@ -5858,12 +5809,10 @@ xpath,version_start,version_end,description
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested/BusinessName/BusinessNameLine2Txt,2014,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [NameOfInterested] Name of interested person; [BusinessName] Name - Business; [BusinessNameLine2Txt] Business name line 2
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested/BusinessName/BusinessNameLine2,2013,2013,[BusTrInvolveInterestedPrsnGrp] Part IV content; [NameOfInterested] Name of interested person; [BusinessName] Name - Business; [BusinessNameLine2] Business name line 2
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested/PersonNm,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [NameOfInterested] Name of interested person; [PersonNm] Name - Person
-/IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [NameOfInterested] Name of interested person
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/RelationshipDescriptionTxt,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [RelationshipDescriptionTxt] Relationship with organization
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/SharingOfRevenuesInd,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [SharingOfRevenuesInd] Sharing of revenues?
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/TransactionAmt,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [TransactionAmt] Amount of transaction
 /IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/TransactionDesc,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content; [TransactionDesc] Description of transaction
-/IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp,2013,,[BusTrInvolveInterestedPrsnGrp] Part IV content
 /IRS990ScheduleL/DQPTable/DescriptionOfTransaction,2009,2012,[DQPTable] DQP information; [DescriptionOfTransaction] Description of transaction
 /IRS990ScheduleL/DQPTable/NameBusiness/BusinessNameLine1,2009,2012,[DQPTable] DQP information; [NameBusiness] Name - Business; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleL/DQPTable/NameBusiness/BusinessNameLine2,2009,2012,[DQPTable] DQP information; [NameBusiness] Name - Business; [BusinessNameLine2] Business name line 2
@@ -5908,7 +5857,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleL/GrntAsstBnftInterestedPrsnGrp/PersonNm,2013,,[GrntAsstBnftInterestedPrsnGrp] Part III content; [PersonNm] Name of interested person - Person
 /IRS990ScheduleL/GrntAsstBnftInterestedPrsnGrp/RelationshipWithOrgTxt,2013,,[GrntAsstBnftInterestedPrsnGrp] Part III content; [RelationshipWithOrgTxt] Relationship with organization
 /IRS990ScheduleL/GrntAsstBnftInterestedPrsnGrp/TypeOfAssistanceTxt,2013,,[GrntAsstBnftInterestedPrsnGrp] Part III content; [TypeOfAssistanceTxt] Type of assistance
-/IRS990ScheduleL/GrntAsstBnftInterestedPrsnGrp,2013,,[GrntAsstBnftInterestedPrsnGrp] Part III content
 /IRS990ScheduleL/LoanTable/ApprovedByBoard,2009,2012,[LoanTable] Loan information; [ApprovedByBoard] Approved by board?
 /IRS990ScheduleL/LoanTable/BalanceDue,2009,2012,[LoanTable] Loan information; [BalanceDue] Balance due
 /IRS990ScheduleL/LoanTable/Default,2009,2012,[LoanTable] Loan information; [Default] Default?
@@ -6270,7 +6218,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleN/LiquidationOfAssetsTableGrp/LiquidationOfAssetsDetail/USAddress/State,2013,2013,"[LiquidationOfAssetsTableGrp] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [USAddress] Address - US; [State] State"
 /IRS990ScheduleN/LiquidationOfAssetsTableGrp/LiquidationOfAssetsDetail/USAddress/ZIPCd,2014,,"[LiquidationOfAssetsTableGrp] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [USAddress] Address - US; [ZIPCd] ZIP code"
 /IRS990ScheduleN/LiquidationOfAssetsTableGrp/LiquidationOfAssetsDetail/USAddress/ZIPCode,2013,2013,"[LiquidationOfAssetsTableGrp] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [USAddress] Address - US; [ZIPCode] ZIP code"
-/IRS990ScheduleN/LiquidationOfAssetsTableGrp,2013,,"[LiquidationOfAssetsTableGrp] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets"
 /IRS990ScheduleN/LiquidationTable/LiquidationDetail/AddressForeign/AddressLine1,2009,2012,"[LiquidationTable] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [AddressForeign] Address - Foreign; [AddressLine1] Address line 1"
 /IRS990ScheduleN/LiquidationTable/LiquidationDetail/AddressForeign/AddressLine2,2009,2012,"[LiquidationTable] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [AddressForeign] Address - Foreign; [AddressLine2] Address line 2"
 /IRS990ScheduleN/LiquidationTable/LiquidationDetail/AddressForeign/City,2009,2012,"[LiquidationTable] Complete Part I if the organization ceased its operations and any remaining activities are for the purpose of dissolving, paying debts, or distributing any remaining assets; [AddressForeign] Address - Foreign; [City] City"
@@ -6488,7 +6435,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/IdDisregardedEntitiesGrp/USAddress/State,2013,2013,[IdDisregardedEntitiesGrp] Part I content - Identification of disregarded entities; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/IdDisregardedEntitiesGrp/USAddress/ZIPCd,2014,,[IdDisregardedEntitiesGrp] Part I content - Identification of disregarded entities; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/IdDisregardedEntitiesGrp/USAddress/ZIPCode,2013,2013,[IdDisregardedEntitiesGrp] Part I content - Identification of disregarded entities; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/IRS990ScheduleR/IdDisregardedEntitiesGrp,2013,,[IdDisregardedEntitiesGrp] Part I content - Identification of disregarded entities
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/ControlledOrganizationInd,2013,,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [ControlledOrganizationInd] 512(b)(13) controlled organization? (Y-N)
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/DirectControllingEntityName/BusinessNameLine1Txt,2014,,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1Txt] Business name line 1
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/DirectControllingEntityName/BusinessNameLine1,2013,2013,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1] Business name line 1
@@ -6529,7 +6475,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/USAddress/State,2013,2013,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/USAddress/ZIPCd,2014,,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp/USAddress/ZIPCode,2013,2013,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/IRS990ScheduleR/IdRelatedOrgTxblCorpTrGrp,2013,,[IdRelatedOrgTxblCorpTrGrp] Part IV content - Identification of related organizations taxable as a corporation or trust
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/DirectControllingEntityName/BusinessNameLine1Txt,2014,,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1Txt] Business name line 1
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/DirectControllingEntityName/BusinessNameLine1,2013,2013,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/DirectControllingEntityName/BusinessNameLine2Txt,2014,,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine2Txt] Business name line 2
@@ -6572,7 +6517,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/USAddress/State,2013,2013,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/USAddress/ZIPCd,2014,,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp/USAddress/ZIPCode,2013,2013,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/IRS990ScheduleR/IdRelatedOrgTxblPartnershipGrp,2013,,[IdRelatedOrgTxblPartnershipGrp] Part III content - Identification of related organizations taxable as a partnership
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/ControlledOrganizationInd,2013,,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [ControlledOrganizationInd] 512(b)(13) controlled organization? (Y-N)
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/DirectControllingEntityName/BusinessNameLine1Txt,2014,,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1Txt] Business name line 1
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/DirectControllingEntityName/BusinessNameLine1,2013,2013,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [DirectControllingEntityName] Direct controlling entity business name; [BusinessNameLine1] Business name line 1
@@ -6611,7 +6555,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/USAddress/State,2013,2013,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/USAddress/ZIPCd,2014,,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/IdRelatedTaxExemptOrgGrp/USAddress/ZIPCode,2013,2013,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/IRS990ScheduleR/IdRelatedTaxExemptOrgGrp,2013,,[IdRelatedTaxExemptOrgGrp] Part II content - Identification of related tax-exempt organizations
 /IRS990ScheduleR/LoansOrGuaranteesFromOthOrgInd,2013,,[LoansOrGuaranteesFromOthOrgInd] Loans or loan guarantees by other organization?
 /IRS990ScheduleR/LoansOrGuaranteesFromOtherOrg,2009,2012,[LoansOrGuaranteesFromOtherOrg] Loans or loan guarantees by other organization?
 /IRS990ScheduleR/LoansOrGuaranteesToOtherOrgInd,2013,,[LoansOrGuaranteesToOtherOrgInd] Loans or loan guarantees to or for other organization?
@@ -6693,7 +6636,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/State,2013,2013,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCd,2014,,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCode,2013,2013,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp,2013,,[UnrelatedOrgTxblPartnershipGrp] Part VI content
 /ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,2013,,
 /ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,2013,,
 /ReturnHeader/BusinessOfficerGrp/PersonNm,2013,,
@@ -6701,7 +6643,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/BusinessOfficerGrp/PhoneNum,2013,,
 /ReturnHeader/BusinessOfficerGrp/SignatureDt,2013,,
 /ReturnHeader/BusinessOfficerGrp/TaxpayerPIN,2013,,
-/ReturnHeader/BusinessOfficerGrp,2013,,
 /ReturnHeader/DeviceId,2014,2015,
 /ReturnHeader/DisasterReliefTxt,2013,,
 /ReturnHeader/DisasterRelief,2009,2012,
@@ -6740,7 +6681,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/Filer/USAddress/State,2009,2013,[State] State
 /ReturnHeader/Filer/USAddress/ZIPCd,2014,,[ZIPCd] ZIP code
 /ReturnHeader/Filer/USAddress/ZIPCode,2009,2013,[ZIPCode] ZIP code
-/ReturnHeader/Filer,2009,,
 /ReturnHeader/FilingSecurityInformation/AtSubmissionCreationDeviceId,2016,,
 /ReturnHeader/FilingSecurityInformation/AtSubmissionFilingDeviceId,2016,,
 /ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionIdDt,2016,,
@@ -6751,7 +6691,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/FilingSecurityInformation/IPDt,2016,,
 /ReturnHeader/FilingSecurityInformation/IPTimezoneCd,2016,,
 /ReturnHeader/FilingSecurityInformation/IPTm,2016,,
-/ReturnHeader/FilingSecurityInformation,2016,,
 /ReturnHeader/IPAddress/IPv4AddressTxt,2014,2015,
 /ReturnHeader/IPAddress/IPv4Address,2010,2013,
 /ReturnHeader/IPAddress/IPv6AddressTxt,2014,2015,
@@ -6784,7 +6723,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp,2013,,
-/ReturnHeader/OriginatorGrp,2013,,
 /ReturnHeader/Originator,2009,2012,
 /ReturnHeader/PINEnteredByCd,2013,,
 /ReturnHeader/PINEnteredBy,2009,2012,
@@ -6836,7 +6774,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/PreparerFirmGrp/PreparerUSAddress/State,2013,2013,[State] State
 /ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCd,2014,,[ZIPCd] ZIP code
 /ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,2013,2013,[ZIPCode] ZIP code
-/ReturnHeader/PreparerFirmGrp,2013,,
 /ReturnHeader/PreparerFirm,2009,2012,
 /ReturnHeader/PreparerPersonGrp/EmailAddressTxt,2013,,
 /ReturnHeader/PreparerPersonGrp/PTIN,2013,,
@@ -6845,7 +6782,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/PreparerPersonGrp/PreparerPersonNm,2013,,
 /ReturnHeader/PreparerPersonGrp/SSN,2013,,
 /ReturnHeader/PreparerPersonGrp/SelfEmployedInd,2013,,
-/ReturnHeader/PreparerPersonGrp,2013,,
 /ReturnHeader/Preparer,2009,2012,
 /ReturnHeader/ReturnTs,2013,,[ReturnTs] The date and time when the return was created
 /ReturnHeader/ReturnTypeCd,2013,,
