@@ -1438,7 +1438,6 @@ xpath,version_start,version_end,description
 /IRS990EZ/NetAssetsOrFundBalancesEOY,2009,2012,[NetAssetsOrFundBalancesEOY] Net assets EOY
 /IRS990EZ/NetAssetsOrFundBalancesGrp/BOYAmt,2013,,[NetAssetsOrFundBalancesGrp] Net assets or fund balances; [BOYAmt] Beginnning of year
 /IRS990EZ/NetAssetsOrFundBalancesGrp/EOYAmt,2013,,[NetAssetsOrFundBalancesGrp] Net assets or fund balances; [EOYAmt] Ending of year
-/IRS990EZ/NetAssetsOrFundBalancesGrp,2013,,[NetAssetsOrFundBalancesGrp] Net assets or fund balances
 /IRS990EZ/NetAssetsOrFundBalances,2009,2012,[NetAssetsOrFundBalances] Net assets or fund balances
 /IRS990EZ/OccupancyRentUtilitiesAndMaint,2009,2012,"[OccupancyRentUtilitiesAndMaint] Occupancy, rent, utilities, and maintenance"
 /IRS990EZ/OccupancyRentUtltsAndMaintAmt,2013,,"[OccupancyRentUtltsAndMaintAmt] Occupancy, rent, utilities, and maintenance"
@@ -2607,7 +2606,6 @@ xpath,version_start,version_end,description
 /IRS990PF/RlnOfActyToAccomOfExemptPrps,2009,2012,
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/LineNumberTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes; [LineNumberTxt] Line number
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/RelationshipStatementTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes; [RelationshipStatementTxt] Relationship statement
-/IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Relationship of activities to the accomplishment of exempt purposes
 /IRS990PF/SpecialConditionDesc,2013,,[SpecialConditionDesc] Special condition description
 /IRS990PF/SpecialConditionDescription,2009,2012,[SpecialConditionDescription] Special condition description
 /IRS990PF/StatementsRegardingActivities/ActivitiesNotPrevReported,2009,2012,[ActivitiesNotPrevReported] Activities Not Previously Reported?
@@ -3199,7 +3197,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/Form990SchASupportingOrgGrp/SuprtOrgNoIRSDeterminationInd,2014,,[Form990SchASupportingOrgGrp] All supporting organizations; [SuprtOrgNoIRSDeterminationInd] Any supported organization that does not have IRS determination?
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/OperateBenefitNonSuprtOrgInd,2014,,[Form990SchAType1SuprtOrgGrp] Type I supporting organizations; [OperateBenefitNonSuprtOrgInd] Operate for the benefit of any other supported organization?
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/PowerAppointMajorityDirTrstInd,2014,,"[Form990SchAType1SuprtOrgGrp] Type I supporting organizations; [PowerAppointMajorityDirTrstInd] Directors, trustees, or membership of supported org have power to regularly appoint or elect at least majority of orgs directors or trustees?"
-/IRS990ScheduleA/Form990SchAType1SuprtOrgGrp,2014,,[Form990SchAType1SuprtOrgGrp] Type I supporting organizations
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesEngagedOrgInvlmntInd,2014,,"[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [ActivitiesEngagedOrgInvlmntInd] Constitute activities that, but for the organization’s involvement, supported org would have been engaged?"
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesFurtherExemptPrpsInd,2014,,[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [ActivitiesFurtherExemptPrpsInd] Substantially all activities during the year directly further exempt purposes of the supported organization?
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesTestInd,2014,,[Form990SchAType3FuncIntGrp] Type III functionally-integrated supporting organizations; [ActivitiesTestInd] Satisfied activities test
@@ -3214,7 +3211,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/Form990ScheduleAPartIVGrp/FormAndLineReferenceDesc,2013,2013,"[Form990ScheduleAPartIVGrp] Supplemental information for schedule A; [FormAndLineReferenceDesc] Form, part and line number reference"
 /IRS990ScheduleA/Form990ScheduleAPartVIGrp/ExplanationTxt,2014,,"[Form990ScheduleAPartVIGrp] Supplemental information for schedule A; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleA/Form990ScheduleAPartVIGrp/FormAndLineReferenceDesc,2014,,"[Form990ScheduleAPartVIGrp] Supplemental information for schedule A; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleA/Form990ScheduleAPartVIGrp,2014,,[Form990ScheduleAPartVIGrp] Supplemental information for schedule A
 /IRS990ScheduleA/GeneralExplanation,2009,2012,[GeneralExplanation] Additional explanations provided by the taxpayer
 /IRS990ScheduleA/GiftsGrantsContriRcvd170Grp/CurrentTaxYearAmt,2013,,"[GiftsGrantsContriRcvd170Grp] Gifts, grants and contributions received; [CurrentTaxYearAmt] Current tax year"
 /IRS990ScheduleA/GiftsGrantsContriRcvd170Grp/CurrentTaxYearMinus1YearAmt,2013,,"[GiftsGrantsContriRcvd170Grp] Gifts, grants and contributions received; [CurrentTaxYearMinus1YearAmt] Current tax year minus one year"
@@ -3907,7 +3903,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleC/SubstantiallyAllDuesNondeduct,2009,2012,[SubstantiallyAllDuesNondeduct] Were substantially all (90% or more) dues received nondeductible by members?
 /IRS990ScheduleC/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part IV contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleC/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part IV contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleC/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part IV contents
 /IRS990ScheduleC/Tax4912Amt,2013,,"[Tax4912Amt] If ""Yes,"" enter the amount of any tax incurred under section 4912"
 /IRS990ScheduleC/TaxableAmount,2009,2012,[TaxableAmount] Taxable amount of lobbying and political expenditures (line 2c total minus 3 and 4)
 /IRS990ScheduleC/TaxableAmt,2013,,[TaxableAmt] Taxable amount of lobbying and political expenditures (line 2c total minus 3 and 4)
@@ -4021,7 +4016,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleD/CollectionUsedForOther,2009,2012,[CollectionUsedForOther] Collection used for other purposes and description
 /IRS990ScheduleD/CollectionUsedOtherPurposesGrp/CollectionUsedOtherPurposesInd,2013,,[CollectionUsedOtherPurposesGrp] Collection used for other purposes and description
 /IRS990ScheduleD/CollectionUsedOtherPurposesGrp/OtherPurposesDesc,2013,,[CollectionUsedOtherPurposesGrp] Collection used for other purposes and description
-/IRS990ScheduleD/CollectionUsedOtherPurposesGrp,2013,,[CollectionUsedOtherPurposesGrp] Collection used for other purposes and description
 /IRS990ScheduleD/CollectionUsedPreservationInd,2013,,[CollectionUsedPreservationInd] Collection used for preservation
 /IRS990ScheduleD/CollectionUsedPubExhibitionInd,2013,,[CollectionUsedPubExhibitionInd] Collection used for public exhibition
 /IRS990ScheduleD/ContribToFundsAndOtherAccounts,2009,2012,"[ContribToFundsAndOtherAccounts] Contributions, gifts, grants, and similar amounts received: funds and other accounts"
@@ -4235,7 +4229,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleD/StatesEasementsHeldCnt,2013,,[StatesEasementsHeldCnt] Number of states in which the organization held an easement
 /IRS990ScheduleD/SupplementalInformationDetail/ExplanationTxt,2013,,[SupplementalInformationDetail] Part XIII contents; [ExplanationTxt] Form part and line number reference explanation
 /IRS990ScheduleD/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[SupplementalInformationDetail] Part XIII contents; [FormAndLineReferenceDesc] Form part and line number reference
-/IRS990ScheduleD/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part XIII contents
 /IRS990ScheduleD/TermEndowmentBalanceEOYPct,2013,,[TermEndowmentBalanceEOYPct] Term endowment EOY balance
 /IRS990ScheduleD/TermEndowmentEOYBalance,2009,2012,[TermEndowmentEOYBalance] Term endowment EOY balance
 /IRS990ScheduleD/TotExpensesEtcAuditedFinclStmt,2009,2012,"[TotExpensesEtcAuditedFinclStmt] Total Expenses, and Losses per audited financial statments"
@@ -4312,7 +4305,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleE/PubViaBroadcastMediaExpln,2009,2009,"[PubViaBroadcastMediaExpln] If answered ""Has the Organization Publicized the Policy through Broadcast Media?"", explain"
 /IRS990ScheduleE/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part II contents; [ExplanationTxt] Form, part, and line number reference explanation"
 /IRS990ScheduleE/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part II contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleE/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part II contents
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/EmployeeCnt,2013,,[AccountActivitiesOutsideUSGrp] General Information on Accounts and Activities Outside the United States; [EmployeeCnt] Number of employees or agents in region
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/OfficesCnt,2013,,[AccountActivitiesOutsideUSGrp] General Information on Accounts and Activities Outside the United States; [OfficesCnt] Number of offices in the region
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/RegionTotalExpendituresAmt,2013,,[AccountActivitiesOutsideUSGrp] General Information on Accounts and Activities Outside the United States; [RegionTotalExpendituresAmt] Total expenditures in region
@@ -4394,7 +4386,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleF/SubtotalSpentAmt,2013,,[SubtotalSpentAmt] Subtotal amount spent
 /IRS990ScheduleF/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part V contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleF/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part V contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleF/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part V contents
 /IRS990ScheduleF/Total501c3OrgCnt,2013,,[Total501c3OrgCnt] Total number of 501(c)(3) organizations
 /IRS990ScheduleF/TotalAmountSpent,2009,2012,[TotalAmountSpent] Total amount spent
 /IRS990ScheduleF/TotalEmployeeCnt,2013,,[TotalEmployeeCnt] Total number of employees
@@ -4725,7 +4716,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleG/StatesWhereGamingConducted,2009,2012,[StatesWhereGamingConducted] Enter state where organization conducts gaming activities
 /IRS990ScheduleG/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part IV contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleG/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part IV contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleG/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part IV contents
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine1Txt,2014,,[ThirdPartyBusinessName] Business name of third party; [BusinessNameLine1Txt] Business name line 1
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine1,2013,2013,[ThirdPartyBusinessName] Business name of third party; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine2Txt,2014,,[ThirdPartyBusinessName] Business name of third party; [BusinessNameLine2Txt] Business name line 2
@@ -4836,7 +4826,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/CostingMethodologyUsed,2009,2012,[CostingMethodologyUsed] Checkbox choice
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/DiscountedCareOtherPct,2013,,[DiscountedCareOtherPct] Discounted other percentage
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/OtherInd,2013,,[OtherInd] Other
-/IRS990ScheduleH/DiscountedCareOthPercentageGrp,2013,,
 /IRS990ScheduleH/DiscountedOther/DiscountedOtherPercentage,2009,2012,[DiscountedOtherPercentage] Discounted other percentage
 /IRS990ScheduleH/DiscountedOther/Other,2009,2012,[Other] Other
 /IRS990ScheduleH/DiscountedOther,2009,2012,
@@ -5046,7 +5035,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/FreeCareMedicallyIndigentInd,2013,,[FreeCareMedicallyIndigentInd] Free or discounted care to medically indigent?
 /IRS990ScheduleH/FreeCareOthPercentageGrp/FreeCareOtherPct,2013,,[FreeCareOtherPct] Free other percentage
 /IRS990ScheduleH/FreeCareOthPercentageGrp/OtherInd,2013,,[OtherInd] Other
-/IRS990ScheduleH/FreeCareOthPercentageGrp,2013,,
 /IRS990ScheduleH/FreeDiscCareMedicallyIndigent,2009,2012,[FreeDiscCareMedicallyIndigent] Free or discounted care to medically indigent?
 /IRS990ScheduleH/HealthImprovementAdvocacy/DirectOffsettingRevenue,2009,2012,[HealthImprovementAdvocacy] Health improvement advocacy; [DirectOffsettingRevenue] Direct offsetting revenue
 /IRS990ScheduleH/HealthImprovementAdvocacy/NetCommunityBuildingExpense,2009,2012,[HealthImprovementAdvocacy] Health improvement advocacy; [NetCommunityBuildingExpense] Net community building expense
@@ -5362,10 +5350,8 @@ xpath,version_start,version_end,description
 /IRS990ScheduleH/SubsidizedHealthServicesGrp/TotalExpensePct,2013,,[SubsidizedHealthServicesGrp] Subsidized health services; [TotalExpensePct] Percent of total expense
 /IRS990ScheduleH/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part VI contents; [ExplanationTxt] Form, part and line number explanation"
 /IRS990ScheduleH/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part VI contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleH/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part VI contents
 /IRS990ScheduleH/SupplementalInformationGrp/ExplanationTxt,2013,,"[SupplementalInformationGrp] Part V Section C, Supplemental Information for Part V Section B; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleH/SupplementalInformationGrp/FormAndLineReferenceDesc,2013,,"[SupplementalInformationGrp] Part V Section C, Supplemental Information for Part V Section B; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleH/SupplementalInformationGrp,2013,,"[SupplementalInformationGrp] Part V Section C, Supplemental Information for Part V Section B"
 /IRS990ScheduleH/Total/DirectOffsettingRevenue,2009,2012,[Total] Total; [DirectOffsettingRevenue] Direct offsetting revenue
 /IRS990ScheduleH/Total/NetCommunityBuildingExpense,2009,2012,[Total] Total; [NetCommunityBuildingExpense] Net community building expense
 /IRS990ScheduleH/Total/NumberOfActivitiesOrPrograms,2009,2012,[Total] Total; [NumberOfActivitiesOrPrograms] Number of activities or programs
@@ -5531,7 +5517,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleI/RecordsMaintained,2009,2012,"[RecordsMaintained] Does the organization maintain records to substantiate the amount of the grants or assistance, the grantees' eligibility for the grants or assistance, and the selection criteria used to award the grants or assistance?"
 /IRS990ScheduleI/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part IV content; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleI/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part IV content; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleI/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part IV content
 /IRS990ScheduleI/Total501c3OrgCnt,2013,,[Total501c3OrgCnt] Enter total number of 501(c)(3) and government organizations
 /IRS990ScheduleI/TotalNbrOf501C3AndGovtGrants,2009,2012,[TotalNbrOf501C3AndGovtGrants] Enter total number of 501(c)(3) and government organizations
 /IRS990ScheduleI/TotalNbrOfOtherOrganizations,2009,2012,[TotalNbrOfOtherOrganizations] Enter total number of other organizations
@@ -5625,7 +5610,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleJ/SubstantiationRequired,2009,2012,[SubstantiationRequired] Substantiation required?
 /IRS990ScheduleJ/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part III contents; [ExplanationTxt] Form, Part and line number reference explanation"
 /IRS990ScheduleJ/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part III contents; [FormAndLineReferenceDesc] Form, Part and line number reference"
-/IRS990ScheduleJ/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part III contents
 /IRS990ScheduleJ/SupplementalNonqualRetirePlan,2009,2012,[SupplementalNonqualRetirePlan] Supplemental nonqualified retirement plan?
 /IRS990ScheduleJ/SupplementalNonqualRtrPlanInd,2013,,[SupplementalNonqualRtrPlanInd] Supplemental nonqualified retirement plan?
 /IRS990ScheduleJ/TravelForCompanionsInd,2013,,[TravelForCompanionsInd] Travel for companions
@@ -5732,7 +5716,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleK/ProceduresCorrectiveActionGrp/ProceduresCorrectiveActionInd,2013,,[ProceduresCorrectiveActionGrp] Violations identified and corrected; [ProceduresCorrectiveActionInd] Procedures to ensure violations identified and corrected?
 /IRS990ScheduleK/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part VI contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleK/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part VI contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleK/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part VI contents
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/BondReferenceCd,2013,,[TaxExemptBondsArbitrageGrp] Arbitrage; [BondReferenceCd] Bond issue reference number (A-D)
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/ExceptionToRebateInd,2013,,[TaxExemptBondsArbitrageGrp] Arbitrage; [ExceptionToRebateInd] Exception to rebate?
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/Form8038TFiledInd,2013,,[TaxExemptBondsArbitrageGrp] Arbitrage; [Form8038TFiledInd] Form 8038-T filed?
@@ -5885,7 +5868,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleL/LoansBtwnOrgInterestedPrsnGrp/WrittenAgreementInd,2013,,[LoansBtwnOrgInterestedPrsnGrp] Loan information; [WrittenAgreementInd] Written agreement?
 /IRS990ScheduleL/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part V contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleL/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part V contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleL/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part V contents
 /IRS990ScheduleL/TaxImposedAmt,2013,,[TaxImposedAmt] Amount of tax imposed
 /IRS990ScheduleL/TaxReimbursedAmt,2013,,[TaxReimbursedAmt] Amount of tax reimbursed
 /IRS990ScheduleL/TotalBalanceDueAmt,2013,,[TotalBalanceDueAmt] Total balance due
@@ -6088,7 +6070,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleM/SecuritiesPubliclyTradedGrp/NoncashContributionsRptF990Amt,2013,,"[SecuritiesPubliclyTradedGrp] Securities - publicly traded; [NoncashContributionsRptF990Amt] Revenues reported on F990, Pt VIII, line 1g"
 /IRS990ScheduleM/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Explanation repeating group; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleM/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Explanation repeating group; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleM/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Explanation repeating group
 /IRS990ScheduleM/Taxidermy/MethodOfDeterminingRevenues,2009,2012,[Taxidermy] Taxidermy; [MethodOfDeterminingRevenues] Method of determining revenues
 /IRS990ScheduleM/Taxidermy/NonCashCheckbox,2009,2012,[Taxidermy] Taxidermy; [NonCashCheckbox] Checkbox for lines on Part I
 /IRS990ScheduleM/Taxidermy/NoncashContribsRptdF990,2009,2012,"[Taxidermy] Taxidermy; [NoncashContribsRptdF990] Revenues reported on F990, Pt VIII, line 1g"
@@ -6251,7 +6232,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleN/RequiredToNotifyAG,2009,2012,[RequiredToNotifyAG] Is the organization required to notify the attorney general or other appropriate state official of its intent to dissolve?
 /IRS990ScheduleN/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part III contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleN/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part III contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleN/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part III contents
 /IRS990ScheduleO/GeneralExplanation/Explanation,2009,2012,[Explanation] Explanation
 /IRS990ScheduleO/GeneralExplanation/Identifier,2009,2012,[Identifier] Identifier
 /IRS990ScheduleO/GeneralExplanation/ReturnReference,2009,2012,[ReturnReference] Return reference
@@ -6583,7 +6563,6 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/SharingOfPaidEmployees,2009,2012,[SharingOfPaidEmployees] Sharing of paid employees?
 /IRS990ScheduleR/SupplementalInformationDetail/ExplanationTxt,2013,,"[SupplementalInformationDetail] Part VII contents; [ExplanationTxt] Form, part and line number reference explanation"
 /IRS990ScheduleR/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,"[SupplementalInformationDetail] Part VII contents; [FormAndLineReferenceDesc] Form, part and line number reference"
-/IRS990ScheduleR/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part VII contents
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/InvolvedAmt,2013,,"[TransactionsRelatedOrgGrp] If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; [InvolvedAmt] Amount involved ($)"
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/MethodOfAmountDeterminationTxt,2013,,"[TransactionsRelatedOrgGrp] If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; [MethodOfAmountDeterminationTxt] Method of determining amount involved"
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/OtherOrganizationName/BusinessNameLine1Txt,2014,,"[TransactionsRelatedOrgGrp] If the answer to any of lines 1a - 1r is ""Yes,"" provide information on the transaction of the related organization; [OtherOrganizationName] Name of other organization; [BusinessNameLine1Txt] Business name line 1"
@@ -6722,7 +6701,6 @@ xpath,version_start,version_end,description
 /ReturnHeader/OriginatorGrp/OriginatorTypeCd,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,2013,,
-/ReturnHeader/OriginatorGrp/PractitionerPINGrp,2013,,
 /ReturnHeader/Originator,2009,2012,
 /ReturnHeader/PINEnteredByCd,2013,,
 /ReturnHeader/PINEnteredBy,2009,2012,

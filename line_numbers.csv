@@ -1468,7 +1468,6 @@ xpath,version_start,version_end,line_number
 /IRS990EZ/NetAssetsOrFundBalancesEOY,2009,2012,[NetAssetsOrFundBalancesEOY] Part I Line 21
 /IRS990EZ/NetAssetsOrFundBalancesGrp/BOYAmt,2013,,[NetAssetsOrFundBalancesGrp] Part II Line 27; [BOYAmt] Part II Line 27 Column (A)
 /IRS990EZ/NetAssetsOrFundBalancesGrp/EOYAmt,2013,,[NetAssetsOrFundBalancesGrp] Part II Line 27; [EOYAmt] Part II Line 27 Column (B)
-/IRS990EZ/NetAssetsOrFundBalancesGrp,2013,,[NetAssetsOrFundBalancesGrp] Part II Line 27
 /IRS990EZ/NetAssetsOrFundBalances,2009,2012,[NetAssetsOrFundBalances] Part II Line 27
 /IRS990EZ/OccupancyRentUtilitiesAndMaint,2009,2012,[OccupancyRentUtilitiesAndMaint] Part I Line 14
 /IRS990EZ/OccupancyRentUtltsAndMaintAmt,2013,,[OccupancyRentUtltsAndMaintAmt] Part I Line 14
@@ -2648,7 +2647,6 @@ xpath,version_start,version_end,line_number
 /IRS990PF/RlnOfActyToAccomOfExemptPrps,2009,2012,
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/LineNumberTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Part XVI-B
 /IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp/RelationshipStatementTxt,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Part XVI-B
-/IRS990PF/RlnOfActyToAccomOfExmptPrpsGrp/RlnOfActyToAccomOfExmptPrpsGrp,2013,,[RlnOfActyToAccomOfExmptPrpsGrp] Part XVI-B
 /IRS990PF/SpecialConditionDesc,2013,,
 /IRS990PF/SpecialConditionDescription,2009,2012,
 /IRS990PF/StatementsRegardingActivities/ActivitiesNotPrevReported,2009,2012,[ActivitiesNotPrevReported] Part VII-A Line 2
@@ -3240,7 +3238,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleA/Form990SchASupportingOrgGrp/SuprtOrgNoIRSDeterminationInd,2014,,[Form990SchASupportingOrgGrp] Part IV Section A Group; [SuprtOrgNoIRSDeterminationInd] Part IV Section A Line 2
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/OperateBenefitNonSuprtOrgInd,2014,,[Form990SchAType1SuprtOrgGrp] Part IV Section B Group; [OperateBenefitNonSuprtOrgInd] Part IV Section B Line 2
 /IRS990ScheduleA/Form990SchAType1SuprtOrgGrp/PowerAppointMajorityDirTrstInd,2014,,[Form990SchAType1SuprtOrgGrp] Part IV Section B Group; [PowerAppointMajorityDirTrstInd] Part IV Section B Line 1
-/IRS990ScheduleA/Form990SchAType1SuprtOrgGrp,2014,,[Form990SchAType1SuprtOrgGrp] Part IV Section B Group
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesEngagedOrgInvlmntInd,2014,,[Form990SchAType3FuncIntGrp] Part IV Section E Group; [ActivitiesEngagedOrgInvlmntInd] Part IV Section E Line 2b
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesFurtherExemptPrpsInd,2014,,[Form990SchAType3FuncIntGrp] Part IV Section E Group; [ActivitiesFurtherExemptPrpsInd] Part IV Section E Line 2a
 /IRS990ScheduleA/Form990SchAType3FuncIntGrp/ActivitiesTestInd,2014,,[Form990SchAType3FuncIntGrp] Part IV Section E Group; [ActivitiesTestInd] Part IV Section E Line 1a
@@ -3255,7 +3252,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleA/Form990ScheduleAPartIVGrp/FormAndLineReferenceDesc,2013,2013,"[Form990ScheduleAPartIVGrp] Schedule A, Part IV; [FormAndLineReferenceDesc] Schedule A, Part IV"
 /IRS990ScheduleA/Form990ScheduleAPartVIGrp/ExplanationTxt,2014,,"[Form990ScheduleAPartVIGrp] Schedule A, Part VI; [ExplanationTxt] Schedule A Part VI"
 /IRS990ScheduleA/Form990ScheduleAPartVIGrp/FormAndLineReferenceDesc,2014,,"[Form990ScheduleAPartVIGrp] Schedule A, Part VI; [FormAndLineReferenceDesc] Schedule A Part VI"
-/IRS990ScheduleA/Form990ScheduleAPartVIGrp,2014,,"[Form990ScheduleAPartVIGrp] Schedule A, Part VI"
 /IRS990ScheduleA/GeneralExplanation,2009,2012,[GeneralExplanation] Part IV
 /IRS990ScheduleA/GiftsGrantsContriRcvd170Grp/CurrentTaxYearAmt,2013,,[GiftsGrantsContriRcvd170Grp] Part II Line 1; [CurrentTaxYearAmt] Part II and III Column (e)
 /IRS990ScheduleA/GiftsGrantsContriRcvd170Grp/CurrentTaxYearMinus1YearAmt,2013,,[GiftsGrantsContriRcvd170Grp] Part II Line 1; [CurrentTaxYearMinus1YearAmt] Part II and III Column (d)
@@ -3972,7 +3968,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleC/SubstantiallyAllDuesNondeduct,2009,2012,[SubstantiallyAllDuesNondeduct] Part III-A Line 1
 /IRS990ScheduleC/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part IV
 /IRS990ScheduleC/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part IV
-/IRS990ScheduleC/SupplementalInformationDetail,2013,,
 /IRS990ScheduleC/Tax4912Amt,2013,,[Tax4912Amt] Part II-B Line 2b Column (b)
 /IRS990ScheduleC/TaxableAmount,2009,2012,[TaxableAmount] Part III-B Line 5
 /IRS990ScheduleC/TaxableAmt,2013,,[TaxableAmt] Part III-B Line 5
@@ -4086,7 +4081,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleD/CollectionUsedForOther,2009,2012,[CollectionUsedForOther] Part III Line 3e
 /IRS990ScheduleD/CollectionUsedOtherPurposesGrp/CollectionUsedOtherPurposesInd,2013,,[CollectionUsedOtherPurposesGrp] Part III Line 3e
 /IRS990ScheduleD/CollectionUsedOtherPurposesGrp/OtherPurposesDesc,2013,,[CollectionUsedOtherPurposesGrp] Part III Line 3e
-/IRS990ScheduleD/CollectionUsedOtherPurposesGrp,2013,,[CollectionUsedOtherPurposesGrp] Part III Line 3e
 /IRS990ScheduleD/CollectionUsedPreservationInd,2013,,[CollectionUsedPreservationInd] Part III Line 3c
 /IRS990ScheduleD/CollectionUsedPubExhibitionInd,2013,,[CollectionUsedPubExhibitionInd] Part III Line 3a
 /IRS990ScheduleD/ContribToFundsAndOtherAccounts,2009,2012,[ContribToFundsAndOtherAccounts] Part I Line 2 Column (b)
@@ -4316,7 +4310,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleD/StatesEasementsHeldCnt,2013,,[StatesEasementsHeldCnt] Part II Line 4
 /IRS990ScheduleD/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part XIII
 /IRS990ScheduleD/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part XIII
-/IRS990ScheduleD/SupplementalInformationDetail,2013,,
 /IRS990ScheduleD/TermEndowmentBalanceEOYPct,2013,,[TermEndowmentBalanceEOYPct] Part V Line 2c
 /IRS990ScheduleD/TermEndowmentEOYBalance,2009,2012,[TermEndowmentEOYBalance] Part V Line 2c
 /IRS990ScheduleD/TotExpensesEtcAuditedFinclStmt,2009,2011,[TotExpensesEtcAuditedFinclStmt] Part XIII Line 1
@@ -4397,7 +4390,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleE/PubViaBroadcastMediaExpln,2009,2009,[PubViaBroadcastMediaExpln] Line 3
 /IRS990ScheduleE/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part II
 /IRS990ScheduleE/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part II
-/IRS990ScheduleE/SupplementalInformationDetail,2013,,
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/EmployeeCnt,2013,,[AccountActivitiesOutsideUSGrp] Part I; [EmployeeCnt] Part I Line 3 Column (c)
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/OfficesCnt,2013,,[AccountActivitiesOutsideUSGrp] Part I; [OfficesCnt] Part I Line 3 Column (b)
 /IRS990ScheduleF/AccountActivitiesOutsideUSGrp/RegionTotalExpendituresAmt,2013,,[AccountActivitiesOutsideUSGrp] Part I; [RegionTotalExpendituresAmt] Part I Line 3 Column (f)
@@ -4479,7 +4471,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleF/SubtotalSpentAmt,2013,,[SubtotalSpentAmt] Part I Line 3a Column (f)
 /IRS990ScheduleF/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part V
 /IRS990ScheduleF/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part V
-/IRS990ScheduleF/SupplementalInformationDetail,2013,,
 /IRS990ScheduleF/Total501c3OrgCnt,2013,,[Total501c3OrgCnt] Part II line 2
 /IRS990ScheduleF/TotalAmountSpent,2009,2009,[TotalAmountSpent] Part I Column (f)
 /IRS990ScheduleF/TotalAmountSpent,2010,2012,[TotalAmountSpent] Part I Line 3c Column (f)
@@ -4813,7 +4804,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleG/StatesWhereGamingConducted,2009,2012,[StatesWhereGamingConducted] Part III Line 9
 /IRS990ScheduleG/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part IV
 /IRS990ScheduleG/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part IV
-/IRS990ScheduleG/SupplementalInformationDetail,2013,,
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine1Txt,2014,,[ThirdPartyBusinessName] Part III Line 15c
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine1,2013,2013,[ThirdPartyBusinessName] Part III Line 15c
 /IRS990ScheduleG/ThirdPartyBusinessName/BusinessNameLine2Txt,2014,,[ThirdPartyBusinessName] Part III Line 15c
@@ -4924,7 +4914,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleH/CostingMethodologyUsed,2009,2012,
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/DiscountedCareOtherPct,2013,,[DiscountedCareOtherPct] Part I Line 3b
 /IRS990ScheduleH/DiscountedCareOthPercentageGrp/OtherInd,2013,,[OtherInd] Part I Line 3b
-/IRS990ScheduleH/DiscountedCareOthPercentageGrp,2013,,
 /IRS990ScheduleH/DiscountedOther/DiscountedOtherPercentage,2009,2012,[DiscountedOtherPercentage] Part I Line 3b
 /IRS990ScheduleH/DiscountedOther/Other,2009,2012,[Other] Part I Line 3b
 /IRS990ScheduleH/DiscountedOther,2009,2012,
@@ -5184,7 +5173,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleH/FreeCareMedicallyIndigentInd,2013,,[FreeCareMedicallyIndigentInd] Part I Line 4
 /IRS990ScheduleH/FreeCareOthPercentageGrp/FreeCareOtherPct,2013,,[FreeCareOtherPct] Part I Line 3a
 /IRS990ScheduleH/FreeCareOthPercentageGrp/OtherInd,2013,,[OtherInd] Part I Line 3a
-/IRS990ScheduleH/FreeCareOthPercentageGrp,2013,,
 /IRS990ScheduleH/FreeDiscCareMedicallyIndigent,2009,2012,[FreeDiscCareMedicallyIndigent] Part I Line 4
 /IRS990ScheduleH/HealthImprovementAdvocacy/DirectOffsettingRevenue,2009,2012,[HealthImprovementAdvocacy] Part II Line 7; [DirectOffsettingRevenue] Column (d)
 /IRS990ScheduleH/HealthImprovementAdvocacy/NetCommunityBuildingExpense,2009,2012,[HealthImprovementAdvocacy] Part II Line 7; [NetCommunityBuildingExpense] Column (e)
@@ -5558,10 +5546,8 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleH/SubsidizedHealthServicesGrp/TotalExpensePct,2013,,[SubsidizedHealthServicesGrp] Part I Line 7g; [TotalExpensePct] Column (f)
 /IRS990ScheduleH/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part VI
 /IRS990ScheduleH/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part VI
-/IRS990ScheduleH/SupplementalInformationDetail,2013,,
 /IRS990ScheduleH/SupplementalInformationGrp/ExplanationTxt,2013,,[ExplanationTxt] Part V
 /IRS990ScheduleH/SupplementalInformationGrp/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part V
-/IRS990ScheduleH/SupplementalInformationGrp,2013,,
 /IRS990ScheduleH/Total/DirectOffsettingRevenue,2009,2012,[Total] Part II Line 10; [DirectOffsettingRevenue] Column (d)
 /IRS990ScheduleH/Total/NetCommunityBuildingExpense,2009,2012,[Total] Part II Line 10; [NetCommunityBuildingExpense] Column (e)
 /IRS990ScheduleH/Total/NumberOfActivitiesOrPrograms,2009,2012,[Total] Part II Line 10; [NumberOfActivitiesOrPrograms] Column (a)
@@ -5727,7 +5713,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleI/RecordsMaintained,2009,2012,[RecordsMaintained] Part I Line 1
 /IRS990ScheduleI/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part IV
 /IRS990ScheduleI/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part IV
-/IRS990ScheduleI/SupplementalInformationDetail,2013,,
 /IRS990ScheduleI/Total501c3OrgCnt,2013,,[Total501c3OrgCnt] Part II Line 2
 /IRS990ScheduleI/TotalNbrOf501C3AndGovtGrants,2009,2012,[TotalNbrOf501C3AndGovtGrants] Part II Line 2
 /IRS990ScheduleI/TotalNbrOfOtherOrganizations,2009,2012,[TotalNbrOfOtherOrganizations] Part II Line 3
@@ -5821,7 +5806,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleJ/SubstantiationRequired,2009,2012,[SubstantiationRequired] Part I Line 2
 /IRS990ScheduleJ/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part III
 /IRS990ScheduleJ/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part III
-/IRS990ScheduleJ/SupplementalInformationDetail,2013,,
 /IRS990ScheduleJ/SupplementalNonqualRetirePlan,2009,2012,[SupplementalNonqualRetirePlan] Part I Line 4b
 /IRS990ScheduleJ/SupplementalNonqualRtrPlanInd,2013,,[SupplementalNonqualRtrPlanInd] Part I Line 4b
 /IRS990ScheduleJ/TravelForCompanionsInd,2013,,[TravelForCompanionsInd] Part I Line 1a
@@ -5937,7 +5921,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleK/ProceduresCorrectiveActionGrp/ProceduresCorrectiveActionInd,2013,,[ProceduresCorrectiveActionGrp] Part V; [ProceduresCorrectiveActionInd] Part V
 /IRS990ScheduleK/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part VI
 /IRS990ScheduleK/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part VI
-/IRS990ScheduleK/SupplementalInformationDetail,2013,,
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/BondReferenceCd,2013,,[TaxExemptBondsArbitrageGrp] Part IV; [BondReferenceCd] Part IV
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/ExceptionToRebateInd,2013,,[TaxExemptBondsArbitrageGrp] Part IV; [ExceptionToRebateInd] Part IV Line 2b
 /IRS990ScheduleK/TaxExemptBondsArbitrageGrp/Form8038TFiledInd,2013,,[TaxExemptBondsArbitrageGrp] Part IV; [Form8038TFiledInd] Part IV Line 1
@@ -6119,7 +6102,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleL/LoansBtwnOrgInterestedPrsnGrp/WrittenAgreementInd,2013,,[LoansBtwnOrgInterestedPrsnGrp] Part II; [WrittenAgreementInd] Part II Column (i)
 /IRS990ScheduleL/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part V
 /IRS990ScheduleL/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part V
-/IRS990ScheduleL/SupplementalInformationDetail,2013,,
 /IRS990ScheduleL/TaxImposedAmt,2013,,[TaxImposedAmt] Part I Line 2
 /IRS990ScheduleL/TaxReimbursedAmt,2013,,[TaxReimbursedAmt] Part I Line 3
 /IRS990ScheduleL/TotalBalanceDueAmt,2013,,[TotalBalanceDueAmt] Part II Column d
@@ -6322,7 +6304,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleM/SecuritiesPubliclyTradedGrp/NoncashContributionsRptF990Amt,2013,,[SecuritiesPubliclyTradedGrp] Part I Line 9; [NoncashContributionsRptF990Amt] Column (c)
 /IRS990ScheduleM/SupplementalInformationDetail/ExplanationTxt,2013,,[SupplementalInformationDetail] Part II; [ExplanationTxt] Part II
 /IRS990ScheduleM/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[SupplementalInformationDetail] Part II; [FormAndLineReferenceDesc] Part II
-/IRS990ScheduleM/SupplementalInformationDetail,2013,,[SupplementalInformationDetail] Part II
 /IRS990ScheduleM/Taxidermy/MethodOfDeterminingRevenues,2009,2012,[Taxidermy] Part I Line 21; [MethodOfDeterminingRevenues] Column (d)
 /IRS990ScheduleM/Taxidermy/NonCashCheckbox,2009,2012,[Taxidermy] Part I Line 21; [NonCashCheckbox] Column (a)
 /IRS990ScheduleM/Taxidermy/NoncashContribsRptdF990,2009,2012,[Taxidermy] Part I Line 21; [NoncashContribsRptdF990] Column (c)
@@ -6490,7 +6471,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleN/RequiredToNotifyAG,2010,2012,[RequiredToNotifyAG] Part I Line 4a
 /IRS990ScheduleN/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part III
 /IRS990ScheduleN/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part III
-/IRS990ScheduleN/SupplementalInformationDetail,2013,,
 /IRS990ScheduleO/GeneralExplanation/Explanation,2009,2012,
 /IRS990ScheduleO/GeneralExplanation/Identifier,2009,2012,
 /IRS990ScheduleO/GeneralExplanation/ReturnReference,2009,2012,
@@ -6956,7 +6936,6 @@ xpath,version_start,version_end,line_number
 /IRS990ScheduleR/SharingOfPaidEmployees,2012,2012,[SharingOfPaidEmployees] Part V Line 1o
 /IRS990ScheduleR/SupplementalInformationDetail/ExplanationTxt,2013,,[ExplanationTxt] Part VII
 /IRS990ScheduleR/SupplementalInformationDetail/FormAndLineReferenceDesc,2013,,[FormAndLineReferenceDesc] Part VII
-/IRS990ScheduleR/SupplementalInformationDetail,2013,,
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/InvolvedAmt,2013,,[TransactionsRelatedOrgGrp] Part V Line 2; [InvolvedAmt] Part V Line 2 Column (c)
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/MethodOfAmountDeterminationTxt,2013,,[TransactionsRelatedOrgGrp] Part V Line 2; [MethodOfAmountDeterminationTxt] Part V Line 2 Column (d)
 /IRS990ScheduleR/TransactionsRelatedOrgGrp/OtherOrganizationName/BusinessNameLine1Txt,2014,,[TransactionsRelatedOrgGrp] Part V Line 2; [OtherOrganizationName] Part V Line 2 Column (a)
@@ -7099,7 +7078,6 @@ xpath,version_start,version_end,line_number
 /ReturnHeader/OriginatorGrp/OriginatorTypeCd,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,2013,,
 /ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,2013,,
-/ReturnHeader/OriginatorGrp/PractitionerPINGrp,2013,,
 /ReturnHeader/Originator,2009,2012,
 /ReturnHeader/PINEnteredByCd,2013,,
 /ReturnHeader/PINEnteredBy,2009,2012,
