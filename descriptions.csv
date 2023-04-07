@@ -75,6 +75,7 @@ xpath,version_start,version_end,description
 /IRS990/AmtReservesMaintained,2010,2012,[AmtReservesMaintained] Reserves maintained amount
 /IRS990/AnnualDisclosureCoveredPersons,2009,2012,[AnnualDisclosureCoveredPersons] Annual disclosure by covered persons?
 /IRS990/AnnualDisclosureCoveredPrsnInd,2013,,[AnnualDisclosureCoveredPrsnInd] Annual disclosure by covered persons?
+/IRS990/ApplicationPendingInd,2020,,[ApplicationPendingInd] Indicates this return has an application pending
 /IRS990/AuditCommitteeInd,2013,,[AuditCommitteeInd] Does the organization have an audit committee?
 /IRS990/AuditCommittee,2009,2012,[AuditCommittee] Does the organization have an audit committee?
 /IRS990/AuditedFinancialStmtAttInd,2013,,[AuditedFinancialStmtAttInd] Audited financial statement attached?
@@ -116,8 +117,9 @@ xpath,version_start,version_end,description
 /IRS990/BooksInCareOfDetail/USAddress/ZIPCode,2013,2013,[BooksInCareOfDetail] The books are in care of; [USAddress] Address - US; [ZIPCode] ZIP code
 /IRS990/BsnssRltnshpThruFamilyMember,2009,2012,[BsnssRltnshpThruFamilyMember] Business relationship thru family member?
 /IRS990/BsnssRltnshpWithOrganization,2009,2012,[BsnssRltnshpWithOrganization] Business relationship with organization?
+/IRS990/BusinessRlnWith35CtrlEntInd,2019,,[BusinessRlnWith35CtrlEntInd] Business relationship with 35% controlled entity?
 /IRS990/BusinessRlnWithFamMemInd,2013,,[BusinessRlnWithFamMemInd] Business relationship thru family member?
-/IRS990/BusinessRlnWithOfficerEntInd,2013,,"[BusinessRlnWithOfficerEntInd] Officer, etc. of entity with business relationship?"
+/IRS990/BusinessRlnWithOfficerEntInd,2013,2018,"[BusinessRlnWithOfficerEntInd] Officer, etc. of entity with business relationship?"
 /IRS990/BusinessRlnWithOrgMemInd,2013,,[BusinessRlnWithOrgMemInd] Business relationship with organization?
 /IRS990/CYBenefitsPaidToMembersAmt,2013,,[CYBenefitsPaidToMembersAmt] Benefits paid to members - current year
 /IRS990/CYContributionsGrantsAmt,2013,,[CYContributionsGrantsAmt] Contributions and grants - current year
@@ -281,6 +283,9 @@ xpath,version_start,version_end,description
 /IRS990/DonatedServicesAndUseFcltsAmt,2013,,[DonatedServicesAndUseFcltsAmt] Donated services and use of facilities
 /IRS990/DonorAdvisedFundInd,2013,,[DonorAdvisedFundInd] Donor advised funds?
 /IRS990/DonorAdvisedFunds,2009,2012,[DonorAdvisedFunds] Donor advised funds?
+/IRS990/DonorRestrictionNetAssetsGrp/BOYAmt,2019,,[DonorRestrictionNetAssetsGrp] Net assets with donor restrictions; [BOYAmt] Beginnning of year
+/IRS990/DonorRestrictionNetAssetsGrp/EOYAmt,2019,,[DonorRestrictionNetAssetsGrp] Net assets with donor restrictions; [EOYAmt] Ending of year
+/IRS990/DonorRstrOrQuasiEndowmentsInd,2019,,[DonorRstrOrQuasiEndowmentsInd] Donor restricted or quasi endowments?
 /IRS990/ElectionOfBoardMembersInd,2013,,[ElectionOfBoardMembersInd] election of board members?
 /IRS990/ElectionOfBoardMembers,2009,2012,[ElectionOfBoardMembers] election of board members?
 /IRS990/EmployeeCnt,2013,,[EmployeeCnt] Number of employees
@@ -296,6 +301,7 @@ xpath,version_start,version_end,description
 /IRS990/ExcessBenefitTransaction,2009,2012,[ExcessBenefitTransaction] Excess benefit transaction?
 /IRS990/ExcessBusinessHoldingsInd,2013,2013,[ExcessBusinessHoldingsInd] Excess business holdings?
 /IRS990/ExcessBusinessHoldings,2009,2012,[ExcessBusinessHoldings] Excess business holdings?
+/IRS990/ExcsTaxSect4951Or4952Or4953Ind,2021,,"[ExcsTaxSect4951Or4952Or4953Ind] Did the trust, any disqualified person, or mine operator engage in any activities that would result in the imposition of an excise tax under section 4951, 4952 or 4953?"
 /IRS990/ExpenseAmt,2013,,[ExpenseAmt] Expense
 /IRS990/Expense,2009,2012,[Expense] Expense
 /IRS990/FSAuditedBasis/FinancialStatementBoth,2012,2012,[FSAuditedBasis] Basis in which the financial statements were audited by an independent accountant; [FinancialStatementBoth] Financial statement issued on consolidated and separate basis
@@ -634,7 +640,8 @@ xpath,version_start,version_end,description
 /IRS990/LessRentalExpensesGrp/RealAmt,2013,,"[LessRentalExpensesGrp] Other revenue, less rental expenses; [RealAmt] Real amount"
 /IRS990/LicensedMoreThanOneStateInd,2013,,[LicensedMoreThanOneStateInd] Is the organization licensed to issue qualified health plans in more than one state?
 /IRS990/LicensedMoreThanOneState,2010,2012,[LicensedMoreThanOneState] Is the organization licensed to issue qualified health plans in more than one state?
-/IRS990/LoanOutstandingInd,2013,,[LoanOutstandingInd] Loan to officer or DQP?
+/IRS990/LoanOutstandingInd,2013,2018,[LoanOutstandingInd] Loan to officer or DQP?
+/IRS990/LoanOutstandingInd,2019,,"[LoanOutstandingInd] Loan to officer, director, etc?"
 /IRS990/LoanToOfficerOrDQP,2009,2012,[LoanToOfficerOrDQP] Loan to officer or DQP?
 /IRS990/LoansFromOfficersDirectors/BOY,2009,2012,"[LoansFromOfficersDirectors] Payable to current and former officers, directors, trustees, or key employees; [BOY] Beginnning of year"
 /IRS990/LoansFromOfficersDirectors/EOY,2009,2012,"[LoansFromOfficersDirectors] Payable to current and former officers, directors, trustees, or key employees; [EOY] Ending of year"
@@ -679,6 +686,7 @@ xpath,version_start,version_end,description
 /IRS990/MortNotesPyblSecuredInvestProp/EOY,2009,2012,[MortNotesPyblSecuredInvestProp] Mortgages and notes payable secured by investment property; [EOY] Ending of year
 /IRS990/MortgNotesPyblScrdInvstPropGrp/BOYAmt,2013,,[MortgNotesPyblScrdInvstPropGrp] Mortgages and notes payable secured by investment property; [BOYAmt] Beginnning of year
 /IRS990/MortgNotesPyblScrdInvstPropGrp/EOYAmt,2013,,[MortgNotesPyblScrdInvstPropGrp] Mortgages and notes payable secured by investment property; [EOYAmt] Ending of year
+/IRS990/NameChangeInd,2020,,[NameChangeInd] Indicates this return has a name change
 /IRS990/NameOfForeignCountry,2009,2012,[NameOfForeignCountry] Name of foreign country
 /IRS990/NameOfPrincipalOfficerBusiness/BusinessNameLine1,2009,2012,[NameOfPrincipalOfficerBusiness] Name of principal officer - Business; [BusinessNameLine1] Business name line 1
 /IRS990/NameOfPrincipalOfficerBusiness/BusinessNameLine2,2009,2012,[NameOfPrincipalOfficerBusiness] Name of principal officer - Business; [BusinessNameLine2] Business name line 2
@@ -732,6 +740,8 @@ xpath,version_start,version_end,description
 /IRS990/NetUnrelatedBusTxblIncmAmt,2013,,[NetUnrelatedBusTxblIncmAmt] Net unrelated business taxable income
 /IRS990/NetUnrelatedBusinessTxblIncome,2009,2012,[NetUnrelatedBusinessTxblIncome] Net unrelated business taxable income
 /IRS990/NetUnrlzdGainsLossesInvstAmt,2013,,[NetUnrlzdGainsLossesInvstAmt] Net unrealized gains (losses) on investments
+/IRS990/NoDonorRestrictionNetAssetsGrp/BOYAmt,2019,,[NoDonorRestrictionNetAssetsGrp] Net assets without donor restrictions; [BOYAmt] Beginnning of year
+/IRS990/NoDonorRestrictionNetAssetsGrp/EOYAmt,2019,,[NoDonorRestrictionNetAssetsGrp] Net assets without donor restrictions; [EOYAmt] Ending of year
 /IRS990/NoListedPersonsCompensatedInd,2013,,[NoListedPersonsCompensatedInd] No listed persons compensated
 /IRS990/NoListedPersonsCompensated,2009,2012,[NoListedPersonsCompensated] No listed persons compensated
 /IRS990/NonDeductibleContributions,2009,2012,[NonDeductibleContributions] Non-deductible contributions?
@@ -769,7 +779,8 @@ xpath,version_start,version_end,description
 /IRS990/OnBehalfOfIssuerInd,2013,,[OnBehalfOfIssuerInd] On behalf of issuer?
 /IRS990/OnBehalfOfIssuer,2009,2012,[OnBehalfOfIssuer] On behalf of issuer?
 /IRS990/OperateHospitalInd,2013,,[OperateHospitalInd] Hospital?
-/IRS990/OrgDoesNotFollowSFAS117Ind,2013,,"[OrgDoesNotFollowSFAS117Ind] Organizations that do not follow SFAS 117, check here"
+/IRS990/OrgDoesNotFollowFASB117Ind,2019,,"[OrgDoesNotFollowFASB117Ind] Organizations that do not follow FASB 117, check here"
+/IRS990/OrgDoesNotFollowSFAS117Ind,2013,2018,"[OrgDoesNotFollowSFAS117Ind] Organizations that do not follow SFAS 117, check here"
 /IRS990/OrgFiledInLieuOfForm1041Ind,2013,,[OrgFiledInLieuOfForm1041Ind] Filed lieu 1041?
 /IRS990/Organization4947a1NotPFInd,2013,,[Organization4947a1NotPFInd] Indicates a 4947(a)(1) organization
 /IRS990/Organization4947a1,2009,2012,[Organization4947a1] Indicates a 4947(a)(1) organization
@@ -779,7 +790,8 @@ xpath,version_start,version_end,description
 /IRS990/Organization501c,2009,2012,[Organization501c] Indicates a 501(c) organization
 /IRS990/Organization527Ind,2013,,[Organization527Ind] Indicates a 527 organization
 /IRS990/Organization527,2009,2012,[Organization527] Indicates a 527 organization
-/IRS990/OrganizationFollowsSFAS117Ind,2013,,"[OrganizationFollowsSFAS117Ind] Organizations that follow SFAS 117, check here"
+/IRS990/OrganizationFollowsFASB117Ind,2019,,"[OrganizationFollowsFASB117Ind] Organizations that follow FASB 117, check here"
+/IRS990/OrganizationFollowsSFAS117Ind,2013,2018,"[OrganizationFollowsSFAS117Ind] Organizations that follow SFAS 117, check here"
 /IRS990/OthNotesLoansReceivableNetGrp/BOYAmt,2013,,[OthNotesLoansReceivableNetGrp] Other notes and loans receivable net; [BOYAmt] Beginnning of year
 /IRS990/OthNotesLoansReceivableNetGrp/EOYAmt,2013,,[OthNotesLoansReceivableNetGrp] Other notes and loans receivable net; [EOYAmt] Ending of year
 /IRS990/OtherAssetsTotal/BOY,2009,2012,[OtherAssetsTotal] Other assets; [BOY] Beginnning of year
@@ -890,8 +902,8 @@ xpath,version_start,version_end,description
 /IRS990/PensionPlanContributionsGrp/TotalAmt,2013,,[PensionPlanContributionsGrp] Pension plan contributions; [TotalAmt] Total
 /IRS990/PermanentlyRestrictedNetAssets/BOY,2009,2012,[PermanentlyRestrictedNetAssets] Permanently restricted net assets; [BOY] Beginnning of year
 /IRS990/PermanentlyRestrictedNetAssets/EOY,2009,2012,[PermanentlyRestrictedNetAssets] Permanently restricted net assets; [EOY] Ending of year
-/IRS990/PermanentlyRstrNetAssetsGrp/BOYAmt,2013,,[PermanentlyRstrNetAssetsGrp] Permanently restricted net assets; [BOYAmt] Beginnning of year
-/IRS990/PermanentlyRstrNetAssetsGrp/EOYAmt,2013,,[PermanentlyRstrNetAssetsGrp] Permanently restricted net assets; [EOYAmt] Ending of year
+/IRS990/PermanentlyRstrNetAssetsGrp/BOYAmt,2013,2018,[PermanentlyRstrNetAssetsGrp] Permanently restricted net assets; [BOYAmt] Beginnning of year
+/IRS990/PermanentlyRstrNetAssetsGrp/EOYAmt,2013,2018,[PermanentlyRstrNetAssetsGrp] Permanently restricted net assets; [EOYAmt] Ending of year
 /IRS990/PledgesAndGrantsReceivable/BOY,2009,2012,"[PledgesAndGrantsReceivable] Pledges and grants receivable, net; [BOY] Beginnning of year"
 /IRS990/PledgesAndGrantsReceivable/EOY,2009,2012,"[PledgesAndGrantsReceivable] Pledges and grants receivable, net; [EOY] Ending of year"
 /IRS990/PledgesAndGrantsReceivableGrp/BOYAmt,2013,,"[PledgesAndGrantsReceivableGrp] Pledges and grants receivable, net; [BOYAmt] Beginnning of year"
@@ -1042,6 +1054,8 @@ xpath,version_start,version_end,description
 /IRS990/StateRequiredReserves,2010,2012,[StateRequiredReserves] State required reserves amount
 /IRS990/StatesWhereCopyOfReturnIsFiled,2009,2012,[StatesWhereCopyOfReturnIsFiled] States where return filed
 /IRS990/StatesWhereCopyOfReturnIsFldCd,2013,,[StatesWhereCopyOfReturnIsFldCd] States where return filed
+/IRS990/SubjToTaxRmnrtnExPrchtPymtInd,2018,,[SubjToTaxRmnrtnExPrchtPymtInd] Subject to the section 4960 tax on remuneration or excess parachute payments?
+/IRS990/SubjectToExcsTaxNetInvstIncInd,2018,,[SubjectToExcsTaxNetInvstIncInd] Subject to the section 4968 excise tax on net investment income?
 /IRS990/SubjectToProxyTaxInd,2013,,[SubjectToProxyTaxInd] Subject to proxy tax?
 /IRS990/SubjectToProxyTax,2009,2012,[SubjectToProxyTax] Subject to proxy tax?
 /IRS990/TaxExemptBondLiabilities/BOY,2009,2012,[TaxExemptBondLiabilities] Tax-exempt bond liabilities; [BOY] Beginnning of year
@@ -1055,11 +1069,11 @@ xpath,version_start,version_end,description
 /IRS990/TaxableDistributions,2009,2012,[TaxableDistributions] Taxable distributions?
 /IRS990/TaxablePartyNotificationInd,2013,,[TaxablePartyNotificationInd] Taxable party notification?
 /IRS990/TaxablePartyNotification,2009,2012,[TaxablePartyNotification] Taxable party notification?
-/IRS990/TempOrPermanentEndowmentsInd,2013,,[TempOrPermanentEndowmentsInd] Term or permanent endowments?
+/IRS990/TempOrPermanentEndowmentsInd,2013,2018,[TempOrPermanentEndowmentsInd] Term or permanent endowments?
 /IRS990/TemporarilyRestrictedNetAssets/BOY,2009,2012,[TemporarilyRestrictedNetAssets] Temporarily restricted net assets; [BOY] Beginnning of year
 /IRS990/TemporarilyRestrictedNetAssets/EOY,2009,2012,[TemporarilyRestrictedNetAssets] Temporarily restricted net assets; [EOY] Ending of year
-/IRS990/TemporarilyRstrNetAssetsGrp/BOYAmt,2013,,[TemporarilyRstrNetAssetsGrp] Temporarily restricted net assets; [BOYAmt] Beginnning of year
-/IRS990/TemporarilyRstrNetAssetsGrp/EOYAmt,2013,,[TemporarilyRstrNetAssetsGrp] Temporarily restricted net assets; [EOYAmt] Ending of year
+/IRS990/TemporarilyRstrNetAssetsGrp/BOYAmt,2013,2018,[TemporarilyRstrNetAssetsGrp] Temporarily restricted net assets; [BOYAmt] Beginnning of year
+/IRS990/TemporarilyRstrNetAssetsGrp/EOYAmt,2013,2018,[TemporarilyRstrNetAssetsGrp] Temporarily restricted net assets; [EOYAmt] Ending of year
 /IRS990/TermOrPermanentEndowments,2009,2012,[TermOrPermanentEndowments] Term or permanent endowments?
 /IRS990/TerminateOperationsInd,2013,,[TerminateOperationsInd] Terminated?
 /IRS990/TerminatedReturn,2009,2012,[TerminatedReturn] Indicates this return is a terminated return
@@ -1210,8 +1224,8 @@ xpath,version_start,version_end,description
 /IRS990/UnrelatedBusinessIncome,2009,2012,[UnrelatedBusinessIncome] Unrelated business income?
 /IRS990/UnrestrictedNetAssets/BOY,2009,2012,[UnrestrictedNetAssets] Unrestricted net assets; [BOY] Beginnning of year
 /IRS990/UnrestrictedNetAssets/EOY,2009,2012,[UnrestrictedNetAssets] Unrestricted net assets; [EOY] Ending of year
-/IRS990/UnrestrictedNetAssetsGrp/BOYAmt,2013,,[UnrestrictedNetAssetsGrp] Unrestricted net assets; [BOYAmt] Beginnning of year
-/IRS990/UnrestrictedNetAssetsGrp/EOYAmt,2013,,[UnrestrictedNetAssetsGrp] Unrestricted net assets; [EOYAmt] Ending of year
+/IRS990/UnrestrictedNetAssetsGrp/BOYAmt,2013,2018,[UnrestrictedNetAssetsGrp] Unrestricted net assets; [BOYAmt] Beginnning of year
+/IRS990/UnrestrictedNetAssetsGrp/EOYAmt,2013,2018,[UnrestrictedNetAssetsGrp] Unrestricted net assets; [EOYAmt] Ending of year
 /IRS990/UnsecuredNotesLoansPayable/BOY,2009,2012,[UnsecuredNotesLoansPayable] Unsecured notes and loans payable; [BOY] Beginnning of year
 /IRS990/UnsecuredNotesLoansPayable/EOY,2009,2012,[UnsecuredNotesLoansPayable] Unsecured notes and loans payable; [EOY] Ending of year
 /IRS990/UnsecuredNotesLoansPayableGrp/BOYAmt,2013,,[UnsecuredNotesLoansPayableGrp] Unsecured notes and loans payable; [BOYAmt] Beginnning of year
@@ -1235,6 +1249,7 @@ xpath,version_start,version_end,description
 /IRS990EZ/AmendedReturn,2009,2012,[AmendedReturn] Amended return
 /IRS990EZ/AmountOfTaxImposedOnOrgMgr,2009,2012,"[AmountOfTaxImposedOnOrgMgr] Amount of tax imposed on the organization managers etc during the year under sections 4912, 4955, and 4958"
 /IRS990EZ/AmountOfTaxReimbursedByOrg,2009,2012,"[AmountOfTaxReimbursedByOrg] Amount of tax on line 40c, above, reimbursed by the organization"
+/IRS990EZ/ApplicationPendingInd,2020,,[ApplicationPendingInd] Indicates this return has an application pending
 /IRS990EZ/BenefitsPaidToOrForMembersAmt,2013,,[BenefitsPaidToOrForMembersAmt] Benefits paid to or for members
 /IRS990EZ/BenefitsPaidToOrForMembers,2009,2012,[BenefitsPaidToOrForMembers] Benefits paid to or for members
 /IRS990EZ/BooksInCareOfDetail/BusinessName/BusinessNameLine1Txt,2014,,[BooksInCareOfDetail] The books are in care of; [BusinessName] Name - Business; [BusinessNameLine1Txt] Business name line 1
@@ -1430,6 +1445,7 @@ xpath,version_start,version_end,description
 /IRS990EZ/MethodOfAccountingOther,2009,2012,[MethodOfAccountingOther] Method of accounting - Other
 /IRS990EZ/NECTFilingForm990Ind,2013,,[NECTFilingForm990Ind] Indicates section 4947(a)(1) nonexempt charitable trusts filing Form 990 in lieu of Form 1041
 /IRS990EZ/NECTFilingForm990,2009,2012,[NECTFilingForm990] Indicates section 4947(a)(1) nonexempt charitable trusts filing Form 990 in lieu of Form 1041
+/IRS990EZ/NameChangeInd,2020,,[NameChangeInd] Indicates this return has an name change
 /IRS990EZ/NetAssetsOrFundBalances/BOY,2009,2012,[NetAssetsOrFundBalances] Net assets or fund balances; [BOY] Beginnning of year
 /IRS990EZ/NetAssetsOrFundBalances/EOY,2009,2012,[NetAssetsOrFundBalances] Net assets or fund balances; [EOY] Ending of year
 /IRS990EZ/NetAssetsOrFundBalancesBOYAmt,2013,,[NetAssetsOrFundBalancesBOYAmt] Net assets BOY
@@ -1666,11 +1682,16 @@ xpath,version_start,version_end,description
 /IRS990PF/AnalysisIncomeProducingActy/SubtotalsPartXVIA/UnrelatedBusinessIncomeAmount,2009,2012,"[SubtotalsPartXVIA] Subtotal (add columns (B), (D), and (E)); [UnrelatedBusinessIncomeAmount] Amount"
 /IRS990PF/AnalysisIncomeProducingActy/SubtotalsPartXVIA,2009,2012,"[SubtotalsPartXVIA] Subtotal (add columns (B), (D), and (E))"
 /IRS990PF/AnalysisIncomeProducingActy/TotalPartXVIA,2009,2012,"[TotalPartXVIA] Total (add line 104, columns (B), (D), and (E))"
-/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/BusinessCd,2013,,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [BusinessCd] Business code
-/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/ExclusionAmt,2013,,"[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
-/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/ExclusionCd,2013,,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [ExclusionCd] Exclusion code (01 through 43)
-/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
-/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/BusinessCd,2013,2020,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/ExclusionAmt,2013,2020,"[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/ExclusionCd,2013,2020,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,2020,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/DivAndIntFromSecPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,2020,[DivAndIntFromSecPartVIIGrp] Dividends and interest from securities; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/BusinessCd,2021,,[DividendsAndInterestFromSecDtl] Dividends and interest from securities; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionAmt,2021,,"[DividendsAndInterestFromSecDtl] Dividends and interest from securities; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionCd,2021,,[DividendsAndInterestFromSecDtl] Dividends and interest from securities; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/RelatedOrExemptFunctionIncmAmt,2021,,[DividendsAndInterestFromSecDtl] Dividends and interest from securities; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/UnrelatedBusinessTaxblIncmAmt,2021,,[DividendsAndInterestFromSecDtl] Dividends and interest from securities; [UnrelatedBusinessTaxblIncmAmt] Amount
 /IRS990PF/AnalysisIncomeProducingActyGrp/FeesContractsFromGovtAgGrp/BusinessCd,2013,,[FeesContractsFromGovtAgGrp] Program service revenue: Fees and contracts from government agencies; [BusinessCd] Business code
 /IRS990PF/AnalysisIncomeProducingActyGrp/FeesContractsFromGovtAgGrp/ExclusionAmt,2013,,"[FeesContractsFromGovtAgGrp] Program service revenue: Fees and contracts from government agencies; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
 /IRS990PF/AnalysisIncomeProducingActyGrp/FeesContractsFromGovtAgGrp/ExclusionCd,2013,,[FeesContractsFromGovtAgGrp] Program service revenue: Fees and contracts from government agencies; [ExclusionCd] Exclusion code (01 through 43)
@@ -1716,23 +1737,34 @@ xpath,version_start,version_end,description
 /IRS990PF/AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/ExclusionCd,2013,,[NetRntlIncmReNotDebtFincdProp] Net rental income or (loss) from real estate: debt-financed property; [ExclusionCd] Exclusion code (01 through 43)
 /IRS990PF/AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/RelatedOrExemptFunctionIncmAmt,2013,,[NetRntlIncmReNotDebtFincdProp] Net rental income or (loss) from real estate: debt-financed property; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
 /IRS990PF/AnalysisIncomeProducingActyGrp/NetRntlIncmReNotDebtFincdProp/UnrelatedBusinessTaxblIncmAmt,2013,,[NetRntlIncmReNotDebtFincdProp] Net rental income or (loss) from real estate: debt-financed property; [UnrelatedBusinessTaxblIncmAmt] Amount
-/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/BusinessCd,2013,,[OtherInvestmentIncmPartVIIGrp] Other investment income; [BusinessCd] Business code
-/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/ExclusionAmt,2013,,"[OtherInvestmentIncmPartVIIGrp] Other investment income; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
-/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/ExclusionCd,2013,,[OtherInvestmentIncmPartVIIGrp] Other investment income; [ExclusionCd] Exclusion code (01 through 43)
-/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,,[OtherInvestmentIncmPartVIIGrp] Other investment income; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
-/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,,[OtherInvestmentIncmPartVIIGrp] Other investment income; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/BusinessCd,2013,2020,[OtherInvestmentIncmPartVIIGrp] Other investment income; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/ExclusionAmt,2013,2020,"[OtherInvestmentIncmPartVIIGrp] Other investment income; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/ExclusionCd,2013,2020,[OtherInvestmentIncmPartVIIGrp] Other investment income; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,2020,[OtherInvestmentIncmPartVIIGrp] Other investment income; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncmPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,2020,[OtherInvestmentIncmPartVIIGrp] Other investment income; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/BusinessCd,2021,,[OtherInvestmentIncomeGrp] Other investment income; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionAmt,2021,,"[OtherInvestmentIncomeGrp] Other investment income; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionCd,2021,,[OtherInvestmentIncomeGrp] Other investment income; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/RelatedOrExemptFunctionIncmAmt,2021,,[OtherInvestmentIncomeGrp] Other investment income; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/UnrelatedBusinessTaxblIncmAmt,2021,,[OtherInvestmentIncomeGrp] Other investment income; [UnrelatedBusinessTaxblIncmAmt] Amount
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/BusinessCd,2013,,[OtherRevenueDescribedGrp] Other revenue: described; [BusinessCd] Business code
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/Desc,2013,,[OtherRevenueDescribedGrp] Other revenue: described; [Desc] Description
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/ExclusionAmt,2013,,"[OtherRevenueDescribedGrp] Other revenue: described; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/ExclusionCd,2013,,[OtherRevenueDescribedGrp] Other revenue: described; [ExclusionCd] Exclusion code (01 through 43)
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/RelatedOrExemptFunctionIncmAmt,2013,,[OtherRevenueDescribedGrp] Other revenue: described; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
 /IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp/UnrelatedBusinessTaxblIncmAmt,2013,,[OtherRevenueDescribedGrp] Other revenue: described; [UnrelatedBusinessTaxblIncmAmt] Amount
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/BusinessCd,2013,,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [BusinessCd] Business code
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/Desc,2013,,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [Desc] Description
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/ExclusionAmt,2013,,"[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/ExclusionCd,2013,,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [ExclusionCd] Exclusion code (01 through 43)
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
-/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/BusinessCd,2013,2020,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/Desc,2013,2020,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [Desc] Description
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/ExclusionAmt,2013,2020,"[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/ExclusionCd,2013,2020,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/RelatedOrExemptFunctionIncmAmt,2013,2020,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp/UnrelatedBusinessTaxblIncmAmt,2013,2020,[ProgramServiceRevPartVIIGrp] Program service revenue: Described; [UnrelatedBusinessTaxblIncmAmt] Amount
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/BusinessCd,2021,,[ProgramServiceRevenueDtl] Program service revenue: Described; [BusinessCd] Business code
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/Desc,2021,,[ProgramServiceRevenueDtl] Program service revenue: Described; [Desc] Description
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/ExclusionAmt,2021,,"[ProgramServiceRevenueDtl] Program service revenue: Described; [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/ExclusionCd,2021,,[ProgramServiceRevenueDtl] Program service revenue: Described; [ExclusionCd] Exclusion code (01 through 43)
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/RelatedOrExemptFunctionIncmAmt,2021,,[ProgramServiceRevenueDtl] Program service revenue: Described; [RelatedOrExemptFunctionIncmAmt] Related or exempt function income
+/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/UnrelatedBusinessTaxblIncmAmt,2021,,[ProgramServiceRevenueDtl] Program service revenue: Described; [UnrelatedBusinessTaxblIncmAmt] Amount
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/ExclusionAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [ExclusionAmt] Excluded by section 512, 513, or 514: Amount"
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/RelatedOrExemptFunctionIncmAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [RelatedOrExemptFunctionIncmAmt] Related or exempt function income"
 /IRS990PF/AnalysisIncomeProducingActyGrp/SubtotalsIncmProducingActyGrp/UnrelatedBusinessTaxblIncmAmt,2013,,"[SubtotalsIncmProducingActyGrp] Subtotal (add columns (B), (D), and (E)); [UnrelatedBusinessTaxblIncmAmt] Amount"
@@ -1920,6 +1952,7 @@ xpath,version_start,version_end,description
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingNetInvstIncm,2009,2012,"[TravConfMeetingNetInvstIncm] Travel, Conferences, and Meetings - Net Investment Income"
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingRevAndExpnssAmt,2013,,"[TravConfMeetingRevAndExpnssAmt] Travel, Conferences, and Meetings - Revenue and Expenses per Books"
 /IRS990PF/AnalysisOfRevenueAndExpenses/TravConfMeetingRevAndExpnss,2009,2012,"[TravConfMeetingRevAndExpnss] Travel, Conferences, and Meetings - Revenue and Expenses per Books"
+/IRS990PF/ApplicationPendingInd,2020,,[ApplicationPendingInd] Indicates this return has an application pending
 /IRS990PF/BalanceSheets/AccountsPayableBOY,2009,2012,[AccountsPayableBOY] Accounts Payable - Beginning of Year - Book Value
 /IRS990PF/BalanceSheets/AccountsPayableEOY,2009,2012,[AccountsPayableEOY] Accounts Payable - End of Year - Book Value
 /IRS990PF/BalanceSheets/AccountsReceivableBOY,2009,2012,[AccountsReceivableBOY] Accounts Receivable - Beginning of Year - Book Value
@@ -2107,9 +2140,10 @@ xpath,version_start,version_end,description
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,2016,[AppliedToEsTaxAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/AppliedToEsTaxAmt,2013,,[AppliedToEsTaxAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/BackupWithholdingWithheldAmt,2013,,[BackupWithholdingWithheldAmt] Backup Withholding Erroneously Withheld
-/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/DomesticOrgMeetingSect4940eInd,2013,,[DomesticOrgMeetingSect4940eInd] Domestic Organizations Meeting Section 4940(e) Requirements
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/DomesticOrgMeetingSect4940eInd,2013,2019,[DomesticOrgMeetingSect4940eInd] Domestic Organizations Meeting Section 4940(e) Requirements
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EsPenaltyAmt,2013,,[EsPenaltyAmt] Penalty for Underpayment
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/EstimatedPlusOvpmtIncmTxAmt,2013,,[EstimatedPlusOvpmtIncmTxAmt] Estimated Tax Payments and Overpayment Credited
+/IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExemptFrgnOrgTaxWthldAtSrceAmt,2020,,[ExemptFrgnOrgTaxWthldAtSrceAmt] Exempt foreign organizations - tax withheld at source
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExemptOperatingFoundationsInd,2013,,[ExemptOperatingFoundationsInd] Exempt Operating Foundations
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/ExtsnRequestIncomeTaxPaidAmt,2017,,[ExtsnRequestIncomeTaxPaidAmt] Tax Paid with Extension
 /IRS990PF/ExciseTaxBasedOnInvstIncmGrp/Form2220AttachedInd,2013,,[Form2220AttachedInd] Indicates Form 2220 is attached
@@ -2131,6 +2165,8 @@ xpath,version_start,version_end,description
 /IRS990PF/FMVAssetsEOY,2009,2012,[FMVAssetsEOY] Fair market value of all assets at end of year
 /IRS990PF/FinalReturnInd,2013,,[FinalReturnInd] Final return
 /IRS990PF/FinalReturn,2009,2012,[FinalReturn] Final return
+/IRS990PF/ForeignOrgMeeting85PctTestInd,2020,,[ForeignOrgMeeting85PctTestInd] Indicates this return is for a foreign organization meeting 85% test
+/IRS990PF/ForeignOrganizationInd,2020,,[ForeignOrganizationInd] Indicates this return is for a foreign organization
 /IRS990PF/Form990PFBalanceSheetsGrp/AccountsPayableBOYAmt,2013,,[AccountsPayableBOYAmt] Accounts Payable - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/AccountsPayableEOYAmt,2013,,[AccountsPayableEOYAmt] Accounts Payable - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/AcctRcvblAllwncDbtflAcctAmt,2013,,[AcctRcvblAllwncDbtflAcctAmt] Allowance for Doubtful Accounts (for Accounts Receivable)
@@ -2153,6 +2189,8 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/CorporateStockEOYFMVAmt,2013,,"[CorporateStockEOYFMVAmt] Investments, Corporate Stock - End of Year - Fair Market Value"
 /IRS990PF/Form990PFBalanceSheetsGrp/DeferredRevenueBOYAmt,2013,,[DeferredRevenueBOYAmt] Deferred Revenue - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/DeferredRevenueEOYAmt,2013,,[DeferredRevenueEOYAmt] Deferred Revenue - End of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/DonorRstrNetAssetsBOYAmt,2019,,[DonorRstrNetAssetsBOYAmt] Net assets with donor restrictions - BOY - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/DonorRstrNetAssetsEOYAmt,2019,,[DonorRstrNetAssetsEOYAmt] Net assets with donor restrictions - EOY - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/GrantsPayableBOYAmt,2013,,[GrantsPayableBOYAmt] Grants Payable - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/GrantsPayableEOYAmt,2013,,[GrantsPayableEOYAmt] Grants Payable - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/GrantsReceivableBOYAmt,2013,,[GrantsReceivableBOYAmt] Grants Receivable - Beginning of Year - Book Value
@@ -2178,8 +2216,12 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/MortgageLoansEOYFMVAmt,2013,,"[MortgageLoansEOYFMVAmt] Investments, Mortgage Loans - End of Year - Fair Market Value"
 /IRS990PF/Form990PFBalanceSheetsGrp/MortgagesAndNotesPayableBOYAmt,2013,,[MortgagesAndNotesPayableBOYAmt] Mortgages and Notes Payable - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/MortgagesAndNotesPayableEOYAmt,2013,,[MortgagesAndNotesPayableEOYAmt] Mortgages and Notes Payable - End of Year - Book Value
-/IRS990PF/Form990PFBalanceSheetsGrp/OrgDoesNotFollowSFAS117Ind,2013,,[OrgDoesNotFollowSFAS117Ind] Organizations That Do Not Follow SFAS 117
-/IRS990PF/Form990PFBalanceSheetsGrp/OrganizationFollowsSFAS117Ind,2013,,[OrganizationFollowsSFAS117Ind] Organizations That Follow SFAS 117
+/IRS990PF/Form990PFBalanceSheetsGrp/NoDonorRstrNetAssestsBOYAmt,2019,,[NoDonorRstrNetAssestsBOYAmt] Net assets without donor restrictions - BOY - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/NoDonorRstrNetAssestsEOYAmt,2019,,[NoDonorRstrNetAssestsEOYAmt] Net assets without donor restrictions - EOY - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/OrgDoesNotFollowFASB117Ind,2019,,[OrgDoesNotFollowFASB117Ind] Organizations That Do Not Follow FASB 117
+/IRS990PF/Form990PFBalanceSheetsGrp/OrgDoesNotFollowSFAS117Ind,2013,2018,[OrgDoesNotFollowSFAS117Ind] Organizations That Do Not Follow SFAS 117
+/IRS990PF/Form990PFBalanceSheetsGrp/OrganizationFollowsFASB117Ind,2019,,[OrganizationFollowsFASB117Ind] Organizations That Follow FASB 117
+/IRS990PF/Form990PFBalanceSheetsGrp/OrganizationFollowsSFAS117Ind,2013,2018,[OrganizationFollowsSFAS117Ind] Organizations That Follow SFAS 117
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherAssetsBOYAmt,2013,,[OtherAssetsBOYAmt] Other Assets - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherAssetsEOYAmt,2013,,[OtherAssetsEOYAmt] Other Assets - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherAssetsEOYFMVAmt,2013,,[OtherAssetsEOYFMVAmt] Other Assets - End of Year - Fair Market Value
@@ -2193,8 +2235,8 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblEOYAmt,2013,,[OtherNtsAndLoansRcvblEOYAmt] Other Notes and Loans Receivable - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherNtsAndLoansRcvblEOYFMVAmt,2013,,[OtherNtsAndLoansRcvblEOYFMVAmt] Other Notes and Loans Receivable - End of Year - Fair Market Value
 /IRS990PF/Form990PFBalanceSheetsGrp/OtherRcvblAllwncDbtflAcctAmt,2013,,[OtherRcvblAllwncDbtflAcctAmt] Allowance for Doubtful Accounts (for Other Notes and Loans Receivable)
-/IRS990PF/Form990PFBalanceSheetsGrp/PermanentlyRestrictedBOYAmt,2013,,[PermanentlyRestrictedBOYAmt] Permanently Restricted - Beginning of Year - Book Value
-/IRS990PF/Form990PFBalanceSheetsGrp/PermanentlyRestrictedEOYAmt,2013,,[PermanentlyRestrictedEOYAmt] Permanently Restricted - End of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/PermanentlyRestrictedBOYAmt,2013,2018,[PermanentlyRestrictedBOYAmt] Permanently Restricted - Beginning of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/PermanentlyRestrictedEOYAmt,2013,2018,[PermanentlyRestrictedEOYAmt] Permanently Restricted - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/PledgesRcvblAllwncDbtflAcctAmt,2013,,[PledgesRcvblAllwncDbtflAcctAmt] Allowance for Doubtful Accounts (for Pledges Receivable)
 /IRS990PF/Form990PFBalanceSheetsGrp/PledgesRcvblAmt,2013,,[PledgesRcvblAmt] Pledges Receivable
 /IRS990PF/Form990PFBalanceSheetsGrp/PledgesRcvblBOYAmt,2013,,[PledgesRcvblBOYAmt] Pledges Receivable - Beginning of Year - Book Value
@@ -2211,8 +2253,8 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/SavAndTempCashInvstBOYAmt,2013,,[SavAndTempCashInvstBOYAmt] Savings and Temporary Cash Investments - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/SavAndTempCashInvstEOYAmt,2013,,[SavAndTempCashInvstEOYAmt] Savings and Temporary Cash Investments - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/SavAndTempCashInvstEOYFMVAmt,2013,,[SavAndTempCashInvstEOYFMVAmt] Savings and Temporary Cash Investments - End of Year - Fair Market Value
-/IRS990PF/Form990PFBalanceSheetsGrp/TemporarilyRestrictedBOYAmt,2013,,[TemporarilyRestrictedBOYAmt] Temporarily Restricted - Beginning of Year - Book Value
-/IRS990PF/Form990PFBalanceSheetsGrp/TemporarilyRestrictedEOYAmt,2013,,[TemporarilyRestrictedEOYAmt] Temporarily Restricted - End of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/TemporarilyRestrictedBOYAmt,2013,2018,[TemporarilyRestrictedBOYAmt] Temporarily Restricted - Beginning of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/TemporarilyRestrictedEOYAmt,2013,2018,[TemporarilyRestrictedEOYAmt] Temporarily Restricted - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/TotNetAstOrFundBalancesBOYAmt,2013,,[TotNetAstOrFundBalancesBOYAmt] Total Net Assets or Fund Balances - Beginning of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/TotNetAstOrFundBalancesEOYAmt,2013,,[TotNetAstOrFundBalancesEOYAmt] Total Net Assets or Fund Balances - End of Year - Book Value
 /IRS990PF/Form990PFBalanceSheetsGrp/TotalAssetsBOYAmt,2013,,[TotalAssetsBOYAmt] Total Assets - Beginning of Year - Book Value
@@ -2225,8 +2267,8 @@ xpath,version_start,version_end,description
 /IRS990PF/Form990PFBalanceSheetsGrp/USGovernmentObligationsBOYAmt,2013,,"[USGovernmentObligationsBOYAmt] Investments, Government Obligations - Beginning of Year - Book Value"
 /IRS990PF/Form990PFBalanceSheetsGrp/USGovernmentObligationsEOYAmt,2013,,"[USGovernmentObligationsEOYAmt] Investments, Government Obligations - End of Year - Book Value"
 /IRS990PF/Form990PFBalanceSheetsGrp/USGovtObligationsEOYFMVAmt,2013,,"[USGovtObligationsEOYFMVAmt] Investments, Government Obligations - End of Year - Fair Market Value"
-/IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedBOYAmt,2013,,[UnrestrictedBOYAmt] Unrestricted - Beginning of Year - Book Value
-/IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedEOYAmt,2013,,[UnrestrictedEOYAmt] Unrestricted - End of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedBOYAmt,2013,2018,[UnrestrictedBOYAmt] Unrestricted - Beginning of Year - Book Value
+/IRS990PF/Form990PFBalanceSheetsGrp/UnrestrictedEOYAmt,2013,2018,[UnrestrictedEOYAmt] Unrestricted - End of Year - Book Value
 /IRS990PF/InitialReturnFormerPubChrtyInd,2013,,[InitialReturnFormerPubChrtyInd] Indicates this is an initial return of a former public charity
 /IRS990PF/InitialReturnFormerPublicChrty,2009,2012,[InitialReturnFormerPublicChrty] Indicates this is an initial return of a former public charity
 /IRS990PF/InitialReturnInd,2013,,[InitialReturnInd] Indicates this is an initial return
@@ -2259,6 +2301,7 @@ xpath,version_start,version_end,description
 /IRS990PF/MinimumInvestmentReturnGrp/TotalFMVOfUnusedAssetsAmt,2013,,[TotalFMVOfUnusedAssetsAmt] Total FMV of Unused Assets
 /IRS990PF/MinimumInvestmentReturn,2009,2012,
 /IRS990PF/NECT,2009,2012,[NECT] Section 4947(a)(1) nonexempt charitable trust
+/IRS990PF/NameChangeInd,2020,,[NameChangeInd] Indicates this return has an name change
 /IRS990PF/OfcrDirTrusteesKeyEmployeeInfo/CompOfHghstPaidCntrctNONE,2009,2012,"[CompOfHghstPaidCntrctNONE] If there are none, enter ""None"""
 /IRS990PF/OfcrDirTrusteesKeyEmployeeInfo/CompOfHighestPaidEmplNONE,2009,2012,"[CompOfHighestPaidEmplNONE] If there are none, enter ""None"""
 /IRS990PF/OfcrDirTrusteesKeyEmployeeInfo/CompensationOfHghstPaidCntrct/BusinessName,2009,2012,[CompensationOfHghstPaidCntrct] Compensation of the five highest paid independent contractors for professional services; [BusinessName] Highest paid contractor's name - Business
@@ -2407,6 +2450,13 @@ xpath,version_start,version_end,description
 /IRS990PF/Organization4947a1TrtdPFInd,2013,,[Organization4947a1TrtdPFInd] Section 4947(a)(1) nonexempt charitable trust
 /IRS990PF/Organization501c3ExemptPFInd,2013,,[Organization501c3ExemptPFInd] Section 501(c)(3) exempt private foundation
 /IRS990PF/Organization501c3TaxablePFInd,2013,,[Organization501c3TaxablePFInd] Other taxable private foundation
+/IRS990PF/PF60MonthTermSect507b1BInd,2020,,[PF60MonthTermSect507b1BInd] Indicates private foundation is in a 60-month termination under section 507(b)(1)(B)
+/IRS990PF/PFQualifyingDistributionsGrp/CharitableAssetsAcquisPaidAmt,2021,,[CharitableAssetsAcquisPaidAmt] Amounts Paid to Acquire Charitable Assets
+/IRS990PF/PFQualifyingDistributionsGrp/ExpensesAndContributionsAmt,2021,,[ExpensesAndContributionsAmt] Expenses and Contributions
+/IRS990PF/PFQualifyingDistributionsGrp/ProgramRelatedInvstTotalAmt,2021,,[ProgramRelatedInvstTotalAmt] Program Related Investments Total
+/IRS990PF/PFQualifyingDistributionsGrp/QualifyingDistributionsAmt,2021,,[QualifyingDistributionsAmt] Qualifying Distributions
+/IRS990PF/PFQualifyingDistributionsGrp/SetAsideCashDistriTestAmt,2021,,[SetAsideCashDistriTestAmt] Amounts Set Aside - Cash Distribution Test
+/IRS990PF/PFQualifyingDistributionsGrp/SetAsideSuitabilityTestAmt,2021,,[SetAsideSuitabilityTestAmt] Amounts Set Aside - Suitability Test
 /IRS990PF/PFStatusTermSect507b1AInd,2013,,[PFStatusTermSect507b1AInd] Indicates private foundation status terminated under section 507(b)(1)(A)
 /IRS990PF/PFStatusTerminatedSect507b1A,2009,2012,[PFStatusTerminatedSect507b1A] Indicates private foundation status terminated under section 507(b)(1)(A)
 /IRS990PF/PrivateOperatingFoundations/DateOfRuling,2009,2012,[DateOfRuling] Date of Ruling
@@ -2560,37 +2610,37 @@ xpath,version_start,version_end,description
 /IRS990PF/QlfyUndSect4940eForReducedTax/QualifyingDistributions,2009,2012,[QualifyingDistributions] Qualifying Distributions
 /IRS990PF/QlfyUndSect4940eForReducedTax/TotalDistributionRatio,2009,2012,[TotalDistributionRatio] Total Distribution Ratio
 /IRS990PF/QlfyUndSect4940eForReducedTax,2009,2012,
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjNetVlNoncharitableAssetsAmt,2013,,[AdjNetVlNoncharitableAssetsAmt] Adjusted Noncharitable Assets (multiply Line 4 by Line 3)
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjNonchrtblNetInvstIncmPctAmt,2013,,[AdjNonchrtblNetInvstIncmPctAmt] Adjusted Noncharitable Assets and 1% of Net Investment Income (add lines 5 and 6)
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr1Amt,2013,,[AdjustedQlfyDistriYr1Amt] Qualifying Distributions - Year 1
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr2Amt,2013,,[AdjustedQlfyDistriYr2Amt] Qualifying Distributions - Year 2
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr3Amt,2013,,[AdjustedQlfyDistriYr3Amt] Qualifying Distributions - Year 3
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr4Amt,2013,,[AdjustedQlfyDistriYr4Amt] Qualifying Distributions - Year 4
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr5Amt,2013,,[AdjustedQlfyDistriYr5Amt] Qualifying Distributions - Year 5
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AverageDistributionRt,2013,,[AverageDistributionRt] Average Distribution Ratio
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr1Rt,2013,,[DistributionYr1Rt] Distribution Ratio - Year 1
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr2Rt,2013,,[DistributionYr2Rt] Distribution Ratio - Year 2
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr3Rt,2013,,[DistributionYr3Rt] Distribution Ratio - Year 3
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr4Rt,2013,,[DistributionYr4Rt] Distribution Ratio - Year 4
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr5Rt,2013,,[DistributionYr5Rt] Distribution Ratio - Year 5
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/LiableSection4942TaxInd,2013,,[LiableSection4942TaxInd] Liable for 4942 Tax?
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetInvestmentIncomePctAmt,2013,,[NetInvestmentIncomePctAmt] 1% of Net Investment Income
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsAmt,2013,,[NetVlNoncharitableAssetsAmt] Net Noncharitable Assets
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr1Amt,2013,,[NetVlNoncharitableAssetsYr1Amt] Noncharitable Assets - Year 1
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr2Amt,2013,,[NetVlNoncharitableAssetsYr2Amt] Noncharitable Assets - Year 2
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr3Amt,2013,,[NetVlNoncharitableAssetsYr3Amt] Noncharitable Assets - Year 3
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr4Amt,2013,,[NetVlNoncharitableAssetsYr4Amt] Noncharitable Assets - Year 4
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr5Amt,2013,,[NetVlNoncharitableAssetsYr5Amt] Noncharitable Assets - Year 5
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/QualifyingDistributionsAmt,2013,,[QualifyingDistributionsAmt] Qualifying Distributions
-/IRS990PF/QlfyUndSect4940eReducedTaxGrp/TotalDistributionRt,2013,,[TotalDistributionRt] Total Distribution Ratio
-/IRS990PF/QualifyingDistriPartXIIGrp/AdjustedQualifyingDistriAmt,2013,,[AdjustedQualifyingDistriAmt] Adjusted Qualifying Distributions
-/IRS990PF/QualifyingDistriPartXIIGrp/CharitableAssetsAcquisPaidAmt,2013,,[CharitableAssetsAcquisPaidAmt] Amounts Paid to Acquire Charitable Assets
-/IRS990PF/QualifyingDistriPartXIIGrp/ExpensesAndContributionsAmt,2013,,[ExpensesAndContributionsAmt] Expenses and Contributions
-/IRS990PF/QualifyingDistriPartXIIGrp/PctSect4940eOrgNetInvstIncmAmt,2013,,[PctSect4940eOrgNetInvstIncmAmt] 1% of Section 4940(e) Organizations Net Investment Income
-/IRS990PF/QualifyingDistriPartXIIGrp/ProgramRelatedInvstTotalAmt,2013,,[ProgramRelatedInvstTotalAmt] Program Related Investments Total
-/IRS990PF/QualifyingDistriPartXIIGrp/QualifyingDistributionsAmt,2013,,[QualifyingDistributionsAmt] Qualifying Distributions
-/IRS990PF/QualifyingDistriPartXIIGrp/SetAsideCashDistriTestAmt,2013,,[SetAsideCashDistriTestAmt] Amounts Set Aside - Cash Distribution Test
-/IRS990PF/QualifyingDistriPartXIIGrp/SetAsideSuitabilityTestAmt,2013,,[SetAsideSuitabilityTestAmt] Amounts Set Aside - Suitability Test
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjNetVlNoncharitableAssetsAmt,2013,2019,[AdjNetVlNoncharitableAssetsAmt] Adjusted Noncharitable Assets (multiply Line 4 by Line 3)
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjNonchrtblNetInvstIncmPctAmt,2013,2019,[AdjNonchrtblNetInvstIncmPctAmt] Adjusted Noncharitable Assets and 1% of Net Investment Income (add lines 5 and 6)
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr1Amt,2013,2019,[AdjustedQlfyDistriYr1Amt] Qualifying Distributions - Year 1
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr2Amt,2013,2019,[AdjustedQlfyDistriYr2Amt] Qualifying Distributions - Year 2
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr3Amt,2013,2019,[AdjustedQlfyDistriYr3Amt] Qualifying Distributions - Year 3
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr4Amt,2013,2019,[AdjustedQlfyDistriYr4Amt] Qualifying Distributions - Year 4
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AdjustedQlfyDistriYr5Amt,2013,2019,[AdjustedQlfyDistriYr5Amt] Qualifying Distributions - Year 5
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/AverageDistributionRt,2013,2019,[AverageDistributionRt] Average Distribution Ratio
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr1Rt,2013,2019,[DistributionYr1Rt] Distribution Ratio - Year 1
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr2Rt,2013,2019,[DistributionYr2Rt] Distribution Ratio - Year 2
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr3Rt,2013,2019,[DistributionYr3Rt] Distribution Ratio - Year 3
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr4Rt,2013,2019,[DistributionYr4Rt] Distribution Ratio - Year 4
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/DistributionYr5Rt,2013,2019,[DistributionYr5Rt] Distribution Ratio - Year 5
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/LiableSection4942TaxInd,2013,2019,[LiableSection4942TaxInd] Liable for 4942 Tax?
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetInvestmentIncomePctAmt,2013,2019,[NetInvestmentIncomePctAmt] 1% of Net Investment Income
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsAmt,2013,2019,[NetVlNoncharitableAssetsAmt] Net Noncharitable Assets
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr1Amt,2013,2019,[NetVlNoncharitableAssetsYr1Amt] Noncharitable Assets - Year 1
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr2Amt,2013,2019,[NetVlNoncharitableAssetsYr2Amt] Noncharitable Assets - Year 2
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr3Amt,2013,2019,[NetVlNoncharitableAssetsYr3Amt] Noncharitable Assets - Year 3
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr4Amt,2013,2019,[NetVlNoncharitableAssetsYr4Amt] Noncharitable Assets - Year 4
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/NetVlNoncharitableAssetsYr5Amt,2013,2019,[NetVlNoncharitableAssetsYr5Amt] Noncharitable Assets - Year 5
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/QualifyingDistributionsAmt,2013,2019,[QualifyingDistributionsAmt] Qualifying Distributions
+/IRS990PF/QlfyUndSect4940eReducedTaxGrp/TotalDistributionRt,2013,2019,[TotalDistributionRt] Total Distribution Ratio
+/IRS990PF/QualifyingDistriPartXIIGrp/AdjustedQualifyingDistriAmt,2013,2020,[AdjustedQualifyingDistriAmt] Adjusted Qualifying Distributions
+/IRS990PF/QualifyingDistriPartXIIGrp/CharitableAssetsAcquisPaidAmt,2013,2020,[CharitableAssetsAcquisPaidAmt] Amounts Paid to Acquire Charitable Assets
+/IRS990PF/QualifyingDistriPartXIIGrp/ExpensesAndContributionsAmt,2013,2020,[ExpensesAndContributionsAmt] Expenses and Contributions
+/IRS990PF/QualifyingDistriPartXIIGrp/PctSect4940eOrgNetInvstIncmAmt,2013,2020,[PctSect4940eOrgNetInvstIncmAmt] 1% of Section 4940(e) Organizations Net Investment Income
+/IRS990PF/QualifyingDistriPartXIIGrp/ProgramRelatedInvstTotalAmt,2013,2020,[ProgramRelatedInvstTotalAmt] Program Related Investments Total
+/IRS990PF/QualifyingDistriPartXIIGrp/QualifyingDistributionsAmt,2013,2020,[QualifyingDistributionsAmt] Qualifying Distributions
+/IRS990PF/QualifyingDistriPartXIIGrp/SetAsideCashDistriTestAmt,2013,2020,[SetAsideCashDistriTestAmt] Amounts Set Aside - Cash Distribution Test
+/IRS990PF/QualifyingDistriPartXIIGrp/SetAsideSuitabilityTestAmt,2013,2020,[SetAsideSuitabilityTestAmt] Amounts Set Aside - Suitability Test
 /IRS990PF/QualifyingDistributions/AdjQualifyingDistributions,2009,2012,[AdjQualifyingDistributions] Adjusted Qualifying Distributions
 /IRS990PF/QualifyingDistributions/AmountsPaidAcqCharitableAssets,2009,2012,[AmountsPaidAcqCharitableAssets] Amounts Paid to Acquire Charitable Assets
 /IRS990PF/QualifyingDistributions/AmountsSetAsideCashDistriTest,2009,2012,[AmountsSetAsideCashDistriTest] Amounts Set Aside - Cash Distribution Test
@@ -2705,6 +2755,7 @@ xpath,version_start,version_end,description
 /IRS990PF/StatementsRegardingActy4720Grp/RelyingCurrentNtcDsstrAsst1Ind,2013,,[RelyingCurrentNtcDsstrAsst1Ind] Relying on Current Notice of Disaster Assistance
 /IRS990PF/StatementsRegardingActy4720Grp/RelyingCurrentNtcDsstrAsstInd,2013,,[RelyingCurrentNtcDsstrAsstInd] Relying on Current Notice of Disaster Assistance
 /IRS990PF/StatementsRegardingActy4720Grp/SaleOrExchDisqualifiedPrsnInd,2013,,[SaleOrExchDisqualifiedPrsnInd] Sale or Exchange with a Disqualified Person?
+/IRS990PF/StatementsRegardingActy4720Grp/SubjToTaxRmnrtnExPrchtPymtInd,2018,,[SubjToTaxRmnrtnExPrchtPymtInd] Subject to the section 4960 tax on remuneration or excess parachute payments?
 /IRS990PF/StatementsRegardingActy4720Grp/TransactionsFailToQlfyAsExcInd,2013,,[TransactionsFailToQlfyAsExcInd] Any Transactions Fail to Qualify as Exceptions?
 /IRS990PF/StatementsRegardingActy4720Grp/TransferAstDisqualifiedPrsnInd,2013,,[TransferAstDisqualifiedPrsnInd] Transfer Assets to a Disqualified Person?
 /IRS990PF/StatementsRegardingActy4720Grp/UncorrectedPYJeopardyInvstInd,2013,,[UncorrectedPYJeopardyInvstInd] Uncorrected Jeopardy Investments?
@@ -2724,7 +2775,7 @@ xpath,version_start,version_end,description
 /IRS990PF/StatementsRegardingActyGrp/AtLeast5000InAssetsInd,2013,,[AtLeast5000InAssetsInd] At least $5000 in Assets?
 /IRS990PF/StatementsRegardingActyGrp/ChangesToArticlesOrBylawsInd,2013,,[ChangesToArticlesOrBylawsInd] Changes to Articles or Bylaws?
 /IRS990PF/StatementsRegardingActyGrp/ComplyWithPublicInspRqrInd,2013,,[ComplyWithPublicInspRqrInd] Comply with Public Inspection Requirements?
-/IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2013,,[DonorAdvisedFundInd] Did Ihe organization acquire a direct or indirect interest in any applicable insurance contract?
+/IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2013,2016,[DonorAdvisedFundInd] Did Ihe organization acquire a direct or indirect interest in any applicable insurance contract?
 /IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2013,2016,[DonorAdvisedFundInd] Did Ihe organization acquire a direct or indirect interest in any applicable insurance contract?
 /IRS990PF/StatementsRegardingActyGrp/DonorAdvisedFundInd,2017,,[DonorAdvisedFundInd] Did the foundation make a distribution to a donor advised fund?
 /IRS990PF/StatementsRegardingActyGrp/ForeignAccountsQuestionInd,2013,,"[ForeignAccountsQuestionInd] Interest or a signature or other authority over a bank, securities, or other financial account in a foreign country?"
@@ -3139,6 +3190,7 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributionAllocationsGrp/CYDistribAppUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [CYDistribAppUnderdistriPYAmt] Current year distributions applied to underdistributions of prior years
 /IRS990ScheduleA/DistributionAllocationsGrp/CYDistributableAsAdjustedAmt,2014,,"[DistributionAllocationsGrp] Distribution allocations; [CYDistributableAsAdjustedAmt] Distributable amount for current year (from Section C, line 6)"
 /IRS990ScheduleA/DistributionAllocationsGrp/CYTotalAnnualDistributionsAmt,2014,,"[DistributionAllocationsGrp] Distribution allocations; [CYTotalAnnualDistributionsAmt] Total annual distributions from current year (from Section D, line 7)"
+/IRS990ScheduleA/DistributionAllocationsGrp/CarryoverPYNotAppliedAmt,2018,,[DistributionAllocationsGrp] Distribution allocations; [CarryoverPYNotAppliedAmt] Carryover from prior years not applied.
 /IRS990ScheduleA/DistributionAllocationsGrp/CyovAppliedUnderdistrCPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [CyovAppliedUnderdistrCPYAmt] Carryover applied to current year  distributable amount
 /IRS990ScheduleA/DistributionAllocationsGrp/CyovAppliedUnderdistriPYAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [CyovAppliedUnderdistriPYAmt] Carryover applied to underdistributions of prior years
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistriCyovToNextYrAmt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistriCyovToNextYrAmt] Excess distribution carryover to next year
@@ -3148,6 +3200,7 @@ xpath,version_start,version_end,description
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr2Amt,2015,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr2Amt] Excess distributions carryover - year 2
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr3Amt,2016,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr3Amt] Excess distributions carryover - year 3
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr4Amt,2017,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr4Amt] Excess distributions carryover - year 4
+/IRS990ScheduleA/DistributionAllocationsGrp/ExcessDistributionCyovYr5Amt,2018,,[DistributionAllocationsGrp] Distribution allocations; [ExcessDistributionCyovYr5Amt] Excess distributions carryover - year 5
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear1Amt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear1Amt] Excess from year 1
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear2Amt,2014,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear2Amt] Excess from year 2
 /IRS990ScheduleA/DistributionAllocationsGrp/ExcessFromYear3Amt,2015,,[DistributionAllocationsGrp] Distribution allocations; [ExcessFromYear3Amt] Excess from year 3
@@ -3660,6 +3713,7 @@ xpath,version_start,version_end,description
 /IRS990ScheduleB/ContributorInfo/PayrollContributionType,2009,2012,[ContributorInfo] Contributor information; [PayrollContributionType] Type of contribution - Payroll
 /IRS990ScheduleB/ContributorInfo/Pd527j1,2009,2012,[ContributorInfo] Contributor information; [Pd527j1] Pd. 527(j)(1)
 /IRS990ScheduleB/ContributorInfo/PersonContributionType,2009,2012,[ContributorInfo] Contributor information; [PersonContributionType] Type of contribution - Person
+/IRS990ScheduleB/ContributorInformationGrp/AddressNotApplicableCd,2018,,"[ContributorInformationGrp] Contributor information; [AddressNotApplicableCd] Contributor Address - ""N/A"
 /IRS990ScheduleB/ContributorInformationGrp/ContributorBusinessName/BusinessNameLine1Txt,2014,,[ContributorInformationGrp] Contributor information; [ContributorBusinessName] Contributor name - Business; [BusinessNameLine1Txt] Business name line 1
 /IRS990ScheduleB/ContributorInformationGrp/ContributorBusinessName/BusinessNameLine1,2013,2013,[ContributorInformationGrp] Contributor information; [ContributorBusinessName] Contributor name - Business; [BusinessNameLine1] Business name line 1
 /IRS990ScheduleB/ContributorInformationGrp/ContributorBusinessName/BusinessNameLine2Txt,2014,,[ContributorInformationGrp] Contributor information; [ContributorBusinessName] Contributor name - Business; [BusinessNameLine2Txt] Business name line 2
@@ -3688,6 +3742,7 @@ xpath,version_start,version_end,description
 /IRS990ScheduleB/ContributorInformationGrp/ContributorUSAddress/State,2013,2013,[ContributorInformationGrp] Contributor information; [ContributorUSAddress] Contributor address - US; [State] State
 /IRS990ScheduleB/ContributorInformationGrp/ContributorUSAddress/ZIPCd,2014,,[ContributorInformationGrp] Contributor information; [ContributorUSAddress] Contributor address - US; [ZIPCd] ZIP code
 /IRS990ScheduleB/ContributorInformationGrp/ContributorUSAddress/ZIPCode,2013,2013,[ContributorInformationGrp] Contributor information; [ContributorUSAddress] Contributor address - US; [ZIPCode] ZIP code
+/IRS990ScheduleB/ContributorInformationGrp/NameNotApplicableCd,2018,,"[ContributorInformationGrp] Contributor information; [NameNotApplicableCd] Contributor name - ""N/A"
 /IRS990ScheduleB/ContributorInformationGrp/NoncashContributionInd,2013,,[ContributorInformationGrp] Contributor information; [NoncashContributionInd] Type of contribution - Noncash
 /IRS990ScheduleB/ContributorInformationGrp/Paid527j1Ind,2013,,[ContributorInformationGrp] Contributor information; [Paid527j1Ind] Pd. 527(j)(1)
 /IRS990ScheduleB/ContributorInformationGrp/PayrollContributionInd,2013,,[ContributorInformationGrp] Contributor information; [PayrollContributionInd] Type of contribution - Payroll
@@ -5768,18 +5823,20 @@ xpath,version_start,version_end,description
 /IRS990ScheduleK/TaxExemptBondsPrivateBusUseGrp/RemedialActionTakenInd,2013,,[TaxExemptBondsPrivateBusUseGrp] Private Use; [RemedialActionTakenInd] Remedial action taken?
 /IRS990ScheduleK/TaxExemptBondsPrivateBusUseGrp/TotalPrivateBusinessUsePct,2013,,[TaxExemptBondsPrivateBusUseGrp] Private Use; [TotalPrivateBusinessUsePct] Total of lines 4 and 5
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/AdequateBooksAndRecMaintInd,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [AdequateBooksAndRecMaintInd] Adequate books and records maintained?
-/IRS990ScheduleK/TaxExemptBondsProceedsGrp/AdvanceRefundingInd,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [AdvanceRefundingInd] Advance refunding?
+/IRS990ScheduleK/TaxExemptBondsProceedsGrp/AdvanceRefundingInd,2013,2017,[TaxExemptBondsProceedsGrp] Proceeds; [AdvanceRefundingInd] Advance refunding?
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/BondDefeasedAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [BondDefeasedAmt] Amount of bonds defeased
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/BondReferenceCd,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [BondReferenceCd] Bond issue reference number (A-D)
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/CapitalExpendituresAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [CapitalExpendituresAmt] Capital expenditures from proceeds
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/CapitalizedInterestAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [CapitalizedInterestAmt] Capitalized interest from proceeds
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/CreditEnhancementAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [CreditEnhancementAmt] Credit enhancement from proceeds
-/IRS990ScheduleK/TaxExemptBondsProceedsGrp/CurrentRefundingInd,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [CurrentRefundingInd] Current refunding?
+/IRS990ScheduleK/TaxExemptBondsProceedsGrp/CurrentRefundingInd,2013,2017,[TaxExemptBondsProceedsGrp] Proceeds; [CurrentRefundingInd] Current refunding?
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/FinalAllocationMadeInd,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [FinalAllocationMadeInd] Final allocation made?
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/InReserveFundAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [InReserveFundAmt] Gross proceeds in reserve funds
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/IssuanceCostsFromProceedsAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [IssuanceCostsFromProceedsAmt] Issuance costs from proceeds
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/OtherSpentProceedsAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [OtherSpentProceedsAmt] Other spent proceeds
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/RefundingEscrowAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [RefundingEscrowAmt] Proceeds in refunding escrow
+/IRS990ScheduleK/TaxExemptBondsProceedsGrp/RefundingTaxExemptBondsInd,2018,,[TaxExemptBondsProceedsGrp] Proceeds; [RefundingTaxExemptBondsInd] Refunding tax-exempt bonds?
+/IRS990ScheduleK/TaxExemptBondsProceedsGrp/RefundingTaxableBondsInd,2018,,[TaxExemptBondsProceedsGrp] Proceeds; [RefundingTaxableBondsInd] Refunding taxable bonds?
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/RetiredAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [RetiredAmt] Amount of bonds retired
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/SubstantialCompletionYr,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [SubstantialCompletionYr] Year of substantial completion
 /IRS990ScheduleK/TaxExemptBondsProceedsGrp/TotalProceedsAmt,2013,,[TaxExemptBondsProceedsGrp] Proceeds; [TotalProceedsAmt] Total proceeds of issue
@@ -6617,6 +6674,7 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCode,2013,2013,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
 /ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,2013,,
 /ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,2013,,
+/ReturnHeader/BusinessOfficerGrp/ForeignPhoneNum,2020,,
 /ReturnHeader/BusinessOfficerGrp/PersonNm,2013,,
 /ReturnHeader/BusinessOfficerGrp/PersonTitleTxt,2013,,
 /ReturnHeader/BusinessOfficerGrp/PhoneNum,2013,,
@@ -6643,6 +6701,7 @@ xpath,version_start,version_end,description
 /ReturnHeader/Filer/ForeignAddress/PostalCode,2009,2013,[PostalCode] Postal code
 /ReturnHeader/Filer/ForeignAddress/ProvinceOrStateNm,2014,,[ProvinceOrStateNm] Province or state
 /ReturnHeader/Filer/ForeignAddress/ProvinceOrState,2009,2013,[ProvinceOrState] Province or state
+/ReturnHeader/Filer/ForeignPhoneNum,2020,,
 /ReturnHeader/Filer/InCareOfName,2009,2012,
 /ReturnHeader/Filer/InCareOfNm,2013,,
 /ReturnHeader/Filer/Name/BusinessNameLine1,2009,2012,[BusinessNameLine1] Business name line 1
@@ -6754,11 +6813,12 @@ xpath,version_start,version_end,description
 /ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,2013,2013,[ZIPCode] ZIP code
 /ReturnHeader/PreparerFirm,2009,2012,
 /ReturnHeader/PreparerPersonGrp/EmailAddressTxt,2013,,
-/ReturnHeader/PreparerPersonGrp/PTIN,2013,,
+/ReturnHeader/PreparerPersonGrp/ForeignPhoneNum,2020,,
+/ReturnHeader/PreparerPersonGrp/PTIN,2013,2017,
 /ReturnHeader/PreparerPersonGrp/PhoneNum,2013,,
 /ReturnHeader/PreparerPersonGrp/PreparationDt,2013,,
 /ReturnHeader/PreparerPersonGrp/PreparerPersonNm,2013,,
-/ReturnHeader/PreparerPersonGrp/SSN,2013,,
+/ReturnHeader/PreparerPersonGrp/SSN,2013,2017,
 /ReturnHeader/PreparerPersonGrp/SelfEmployedInd,2013,,
 /ReturnHeader/Preparer,2009,2012,
 /ReturnHeader/ReturnTs,2013,,[ReturnTs] The date and time when the return was created
