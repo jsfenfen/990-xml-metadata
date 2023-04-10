@@ -6688,7 +6688,7 @@ xpath,version_start,version_end,description
 /ReturnHeader/Filer/BusinessName/BusinessNameLine2Txt,2014,,Filer; Business name line 2
 /ReturnHeader/Filer/BusinessName/BusinessNameLine2,2013,2013,Filer; Business name line 2
 /ReturnHeader/Filer/BusinessNameControlTxt,2013,,Filer; Business name control text
-/ReturnHeader/Filer/EIN,2009,D,Filer; EIN
+/ReturnHeader/Filer/EIN,2009,,Filer; EIN
 /ReturnHeader/Filer/ForeignAddress/AddressLine1Txt,2014,,Filer; [AddressLine1Txt] Address line 1
 /ReturnHeader/Filer/ForeignAddress/AddressLine1,2009,2013,Filer; [AddressLine1] Address line 1
 /ReturnHeader/Filer/ForeignAddress/AddressLine2Txt,2014,,Filer; [AddressLine2Txt] Address line 2
