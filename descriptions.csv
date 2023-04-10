@@ -6672,167 +6672,167 @@ xpath,version_start,version_end,description
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/State,2013,2013,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [State] State
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCd,2014,,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [ZIPCd] ZIP code
 /IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCode,2013,2013,[UnrelatedOrgTxblPartnershipGrp] Part VI content; [USAddress] Address - US address of disregarded entity; [ZIPCode] ZIP code
-/ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,2013,,
-/ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,2013,,
-/ReturnHeader/BusinessOfficerGrp/ForeignPhoneNum,2020,,
-/ReturnHeader/BusinessOfficerGrp/PersonNm,2013,,
-/ReturnHeader/BusinessOfficerGrp/PersonTitleTxt,2013,,
-/ReturnHeader/BusinessOfficerGrp/PhoneNum,2013,,
-/ReturnHeader/BusinessOfficerGrp/SignatureDt,2013,,
-/ReturnHeader/BusinessOfficerGrp/TaxpayerPIN,2013,,
-/ReturnHeader/DeviceId,2014,2015,
+/ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,2013,,May the IRS discuss this return with the preparer shown above?
+/ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,2013,,Officer; Email address
+/ReturnHeader/BusinessOfficerGrp/ForeignPhoneNum,2020,,Officer; Telephone number
+/ReturnHeader/BusinessOfficerGrp/PersonNm,2013,,Officer; Name
+/ReturnHeader/BusinessOfficerGrp/PersonTitleTxt,2013,,Officer; Title
+/ReturnHeader/BusinessOfficerGrp/PhoneNum,2013,,Officer; Telephone number
+/ReturnHeader/BusinessOfficerGrp/SignatureDt,2013,,Officer; Signature date
+/ReturnHeader/BusinessOfficerGrp/TaxpayerPIN,2013,,Officer; Taxpayer PIN
+/ReturnHeader/DeviceId,2014,2015,Device ID
 /ReturnHeader/DisasterReliefTxt,2013,,
 /ReturnHeader/DisasterRelief,2009,2012,
-/ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt,2014,,[BusinessNameLine1Txt] Business name line 1
-/ReturnHeader/Filer/BusinessName/BusinessNameLine1,2013,2013,[BusinessNameLine1] Business name line 1
-/ReturnHeader/Filer/BusinessName/BusinessNameLine2Txt,2014,,[BusinessNameLine2Txt] Business name line 2
-/ReturnHeader/Filer/BusinessName/BusinessNameLine2,2013,2013,[BusinessNameLine2] Business name line 2
-/ReturnHeader/Filer/BusinessNameControlTxt,2013,,
-/ReturnHeader/Filer/EIN,2009,,
-/ReturnHeader/Filer/ForeignAddress/AddressLine1Txt,2014,,[AddressLine1Txt] Address line 1
-/ReturnHeader/Filer/ForeignAddress/AddressLine1,2009,2013,[AddressLine1] Address line 1
-/ReturnHeader/Filer/ForeignAddress/AddressLine2Txt,2014,,[AddressLine2Txt] Address line 2
-/ReturnHeader/Filer/ForeignAddress/AddressLine2,2009,2013,[AddressLine2] Address line 2
-/ReturnHeader/Filer/ForeignAddress/CityNm,2014,,[CityNm] City
-/ReturnHeader/Filer/ForeignAddress/City,2009,2013,[City] City
-/ReturnHeader/Filer/ForeignAddress/CountryCd,2014,,[CountryCd] Country
-/ReturnHeader/Filer/ForeignAddress/Country,2009,2013,[Country] Country
-/ReturnHeader/Filer/ForeignAddress/ForeignPostalCd,2014,,[ForeignPostalCd] Postal code
-/ReturnHeader/Filer/ForeignAddress/PostalCode,2009,2013,[PostalCode] Postal code
-/ReturnHeader/Filer/ForeignAddress/ProvinceOrStateNm,2014,,[ProvinceOrStateNm] Province or state
-/ReturnHeader/Filer/ForeignAddress/ProvinceOrState,2009,2013,[ProvinceOrState] Province or state
-/ReturnHeader/Filer/ForeignPhoneNum,2020,,
-/ReturnHeader/Filer/InCareOfName,2009,2012,
-/ReturnHeader/Filer/InCareOfNm,2013,,
-/ReturnHeader/Filer/Name/BusinessNameLine1,2009,2012,[BusinessNameLine1] Business name line 1
-/ReturnHeader/Filer/Name/BusinessNameLine2,2009,2012,[BusinessNameLine2] Business name line 2
-/ReturnHeader/Filer/NameControl,2009,2012,
-/ReturnHeader/Filer/PhoneNum,2013,,
-/ReturnHeader/Filer/Phone,2009,2012,
-/ReturnHeader/Filer/USAddress/AddressLine1Txt,2014,,[AddressLine1Txt] Address line 1
-/ReturnHeader/Filer/USAddress/AddressLine1,2009,2013,[AddressLine1] Address line 1
-/ReturnHeader/Filer/USAddress/AddressLine2Txt,2014,,[AddressLine2Txt] Address line 2
-/ReturnHeader/Filer/USAddress/AddressLine2,2009,2013,[AddressLine2] Address line 2
-/ReturnHeader/Filer/USAddress/CityNm,2014,,[CityNm] City
-/ReturnHeader/Filer/USAddress/City,2009,2013,[City] City
-/ReturnHeader/Filer/USAddress/StateAbbreviationCd,2014,,[StateAbbreviationCd] State
-/ReturnHeader/Filer/USAddress/State,2009,2013,[State] State
-/ReturnHeader/Filer/USAddress/ZIPCd,2014,,[ZIPCd] ZIP code
-/ReturnHeader/Filer/USAddress/ZIPCode,2009,2013,[ZIPCode] ZIP code
-/ReturnHeader/FilingSecurityInformation/AtSubmissionCreationDeviceId,2016,,
-/ReturnHeader/FilingSecurityInformation/AtSubmissionFilingDeviceId,2016,,
-/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionIdDt,2016,,
-/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionId,2016,,
-/ReturnHeader/FilingSecurityInformation/FilingLicenseTypeCd,2016,,
-/ReturnHeader/FilingSecurityInformation/IPAddress/IPv4AddressTxt,2016,,
-/ReturnHeader/FilingSecurityInformation/IPAddress/IPv6AddressTxt,2016,,
-/ReturnHeader/FilingSecurityInformation/IPDt,2016,,
-/ReturnHeader/FilingSecurityInformation/IPTimezoneCd,2016,,
-/ReturnHeader/FilingSecurityInformation/IPTm,2016,,
-/ReturnHeader/IPAddress/IPv4AddressTxt,2014,2015,
-/ReturnHeader/IPAddress/IPv4Address,2010,2013,
-/ReturnHeader/IPAddress/IPv6AddressTxt,2014,2015,
-/ReturnHeader/IPAddress/IPv6Address,2010,2013,
-/ReturnHeader/IPDate,2010,2012,
-/ReturnHeader/IPDt,2013,2015,
-/ReturnHeader/IPTime,2010,2012,
-/ReturnHeader/IPTimezoneCd,2013,2015,
-/ReturnHeader/IPTimezone,2010,2012,
-/ReturnHeader/IPTm,2013,2015,
-/ReturnHeader/ISPNum,2013,,
-/ReturnHeader/ISPNumber,2009,2012,
-/ReturnHeader/MultSoftwarePackagesUsedInd,2013,,
-/ReturnHeader/MultipleSoftwarePackagesUsed,2009,2012,
+/ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt,2014,,Filer; Business name line 1
+/ReturnHeader/Filer/BusinessName/BusinessNameLine1,2013,2013,Filer; Business name line 1
+/ReturnHeader/Filer/BusinessName/BusinessNameLine2Txt,2014,,Filer; Business name line 2
+/ReturnHeader/Filer/BusinessName/BusinessNameLine2,2013,2013,Filer; Business name line 2
+/ReturnHeader/Filer/BusinessNameControlTxt,2013,,Filer; Business name control text
+/ReturnHeader/Filer/EIN,2009,D,Filer; EIN
+/ReturnHeader/Filer/ForeignAddress/AddressLine1Txt,2014,,Filer; [AddressLine1Txt] Address line 1
+/ReturnHeader/Filer/ForeignAddress/AddressLine1,2009,2013,Filer; [AddressLine1] Address line 1
+/ReturnHeader/Filer/ForeignAddress/AddressLine2Txt,2014,,Filer; [AddressLine2Txt] Address line 2
+/ReturnHeader/Filer/ForeignAddress/AddressLine2,2009,2013,Filer; [AddressLine2] Address line 2
+/ReturnHeader/Filer/ForeignAddress/CityNm,2014,,Filer; [CityNm] City
+/ReturnHeader/Filer/ForeignAddress/City,2009,2013,Filer; [City] City
+/ReturnHeader/Filer/ForeignAddress/CountryCd,2014,,Filer; [CountryCd] Country
+/ReturnHeader/Filer/ForeignAddress/Country,2009,2013,Filer; [Country] Country
+/ReturnHeader/Filer/ForeignAddress/ForeignPostalCd,2014,,Filer; [ForeignPostalCd] Postal code
+/ReturnHeader/Filer/ForeignAddress/PostalCode,2009,2013,Filer; [PostalCode] Postal code
+/ReturnHeader/Filer/ForeignAddress/ProvinceOrStateNm,2014,,Filer; [ProvinceOrStateNm] Province or state
+/ReturnHeader/Filer/ForeignAddress/ProvinceOrState,2009,2013,Filer; [ProvinceOrState] Province or state
+/ReturnHeader/Filer/ForeignPhoneNum,2020,,Filer; Telephone Number
+/ReturnHeader/Filer/InCareOfName,2009,2012,Filer; In care of name
+/ReturnHeader/Filer/InCareOfNm,2013,,Filer; In care of name
+/ReturnHeader/Filer/Name/BusinessNameLine1,2009,2012,Filer; [BusinessNameLine1] Business name line 1
+/ReturnHeader/Filer/Name/BusinessNameLine2,2009,2012,Filer; [BusinessNameLine2] Business name line 2
+/ReturnHeader/Filer/NameControl,2009,2012,Filer; Name control
+/ReturnHeader/Filer/PhoneNum,2013,,Filer; Telephone number
+/ReturnHeader/Filer/Phone,2009,2012,Filer; Telephone number
+/ReturnHeader/Filer/USAddress/AddressLine1Txt,2014,,Filer; [AddressLine1Txt] Address line 1
+/ReturnHeader/Filer/USAddress/AddressLine1,2009,2013,Filer; [AddressLine1] Address line 1
+/ReturnHeader/Filer/USAddress/AddressLine2Txt,2014,,Filer; [AddressLine2Txt] Address line 2
+/ReturnHeader/Filer/USAddress/AddressLine2,2009,2013,Filer; [AddressLine2] Address line 2
+/ReturnHeader/Filer/USAddress/CityNm,2014,,Filer; [CityNm] City
+/ReturnHeader/Filer/USAddress/City,2009,2013,Filer; [City] City
+/ReturnHeader/Filer/USAddress/StateAbbreviationCd,2014,,Filer; [StateAbbreviationCd] State
+/ReturnHeader/Filer/USAddress/State,2009,2013,Filer; [State] State
+/ReturnHeader/Filer/USAddress/ZIPCd,2014,,Filer; [ZIPCd] ZIP code
+/ReturnHeader/Filer/USAddress/ZIPCode,2009,2013,Filer; [ZIPCode] ZIP code
+/ReturnHeader/FilingSecurityInformation/AtSubmissionCreationDeviceId,2016,,Filing security; Creation device ID
+/ReturnHeader/FilingSecurityInformation/AtSubmissionFilingDeviceId,2016,,Filing security; Creation device ID
+/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionIdDt,2016,,Filing security; Federal original submission ID date
+/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionId,2016,,Federal original submission ID
+/ReturnHeader/FilingSecurityInformation/FilingLicenseTypeCd,2016,,Filing security; Filing license type
+/ReturnHeader/FilingSecurityInformation/IPAddress/IPv4AddressTxt,2016,,Filing security; IP address
+/ReturnHeader/FilingSecurityInformation/IPAddress/IPv6AddressTxt,2016,,Filing security; IP address
+/ReturnHeader/FilingSecurityInformation/IPDt,2016,,Filing security; IP date
+/ReturnHeader/FilingSecurityInformation/IPTimezoneCd,2016,,Filing security; IP timezone
+/ReturnHeader/FilingSecurityInformation/IPTm,2016,,Filing security; IP time
+/ReturnHeader/IPAddress/IPv4AddressTxt,2014,2015,Filing security; IP address
+/ReturnHeader/IPAddress/IPv4Address,2010,2013,Filing security; IP address
+/ReturnHeader/IPAddress/IPv6AddressTxt,2014,2015,Filing security; IP address
+/ReturnHeader/IPAddress/IPv6Address,2010,2013,Filing security; IP address
+/ReturnHeader/IPDate,2010,2012,Filing security; IP date
+/ReturnHeader/IPDt,2013,2015,Filing security; IP date
+/ReturnHeader/IPTime,2010,2012,Filing security; IP time
+/ReturnHeader/IPTimezoneCd,2013,2015,Filing security; IP timezone
+/ReturnHeader/IPTimezone,2010,2012,Filing security; IP timezone
+/ReturnHeader/IPTm,2013,2015,Filing security; IP time
+/ReturnHeader/ISPNum,2013,,Filing security; ISP
+/ReturnHeader/ISPNumber,2009,2012,Filing security; ISP
+/ReturnHeader/MultSoftwarePackagesUsedInd,2013,,Multiple software packages used
+/ReturnHeader/MultipleSoftwarePackagesUsed,2009,2012,Multiple software packages used
 /ReturnHeader/Officer/AuthorizeThirdParty,2009,2012,
-/ReturnHeader/Officer/DateSigned,2009,2012,
-/ReturnHeader/Officer/EmailAddress,2009,2012,
-/ReturnHeader/Officer/Name,2009,2012,
-/ReturnHeader/Officer/Phone,2009,2012,
-/ReturnHeader/Officer/TaxpayerPIN,2009,2012,
-/ReturnHeader/Officer/Title,2009,2012,
-/ReturnHeader/Officer,2009,2012,
-/ReturnHeader/Originator/EFIN,2009,2012,
-/ReturnHeader/Originator/PractitionerPIN/EFIN,2009,2012,
-/ReturnHeader/Originator/PractitionerPIN/PIN,2009,2012,
-/ReturnHeader/Originator/PractitionerPIN,2009,2012,
-/ReturnHeader/Originator/Type,2009,2012,
-/ReturnHeader/OriginatorGrp/EFIN,2013,,
-/ReturnHeader/OriginatorGrp/OriginatorTypeCd,2013,,
-/ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,2013,,
-/ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,2013,,
-/ReturnHeader/Originator,2009,2012,
-/ReturnHeader/PINEnteredByCd,2013,,
-/ReturnHeader/PINEnteredBy,2009,2012,
-/ReturnHeader/Preparer/DatePrepared,2009,2012,
-/ReturnHeader/Preparer/EmailAddress,2009,2012,
-/ReturnHeader/Preparer/Name,2009,2012,
-/ReturnHeader/Preparer/PTIN,2009,2012,
-/ReturnHeader/Preparer/Phone,2009,2012,
-/ReturnHeader/Preparer/SSN,2009,2012,
-/ReturnHeader/Preparer/SelfEmployed,2009,2012,
-/ReturnHeader/PreparerFirm/EIN,2009,2012,
-/ReturnHeader/PreparerFirm/PreparerFirmBusinessName/BusinessNameLine1,2009,2012,[BusinessNameLine1] Business name line 1
-/ReturnHeader/PreparerFirm/PreparerFirmBusinessName/BusinessNameLine2,2009,2012,[BusinessNameLine2] Business name line 2
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/AddressLine1,2009,2012,[AddressLine1] Address line 1
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/AddressLine2,2009,2012,[AddressLine2] Address line 2
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/City,2009,2012,[City] City
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/Country,2009,2012,[Country] Country
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/PostalCode,2009,2012,[PostalCode] Postal code
-/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/ProvinceOrState,2009,2012,[ProvinceOrState] Province or state
-/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/AddressLine1,2009,2012,[AddressLine1] Address line 1
-/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/AddressLine2,2009,2012,[AddressLine2] Address line 2
-/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/City,2009,2012,[City] City
-/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/State,2009,2012,[State] State
-/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/ZIPCode,2009,2012,[ZIPCode] ZIP code
-/ReturnHeader/PreparerFirmGrp/PreparerFirmEIN,2013,,
-/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1Txt,2014,,[BusinessNameLine1Txt] Business name line 1
-/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1,2013,2013,[BusinessNameLine1] Business name line 1
-/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2Txt,2014,,[BusinessNameLine2Txt] Business name line 2
-/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2,2013,2013,[BusinessNameLine2] Business name line 2
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1Txt,2014,,[AddressLine1Txt] Address line 1
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1,2013,2013,[AddressLine1] Address line 1
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2Txt,2014,,[AddressLine2Txt] Address line 2
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2,2013,2013,[AddressLine2] Address line 2
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CityNm,2014,,[CityNm] City
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/City,2013,2013,[City] City
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CountryCd,2014,,[CountryCd] Country
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/Country,2013,2013,[Country] Country
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ForeignPostalCd,2014,,[ForeignPostalCd] Postal code
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/PostalCode,2013,2013,[PostalCode] Postal code
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrStateNm,2014,,[ProvinceOrStateNm] Province or state
-/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrState,2013,2013,[ProvinceOrState] Province or state
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1Txt,2014,,[AddressLine1Txt] Address line 1
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1,2013,2013,[AddressLine1] Address line 1
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2Txt,2014,,[AddressLine2Txt] Address line 2
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2,2013,2013,[AddressLine2] Address line 2
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/CityNm,2014,,[CityNm] City
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/City,2013,2013,[City] City
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/StateAbbreviationCd,2014,,[StateAbbreviationCd] State
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/State,2013,2013,[State] State
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCd,2014,,[ZIPCd] ZIP code
-/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,2013,2013,[ZIPCode] ZIP code
-/ReturnHeader/PreparerFirm,2009,2012,
-/ReturnHeader/PreparerPersonGrp/EmailAddressTxt,2013,,
-/ReturnHeader/PreparerPersonGrp/ForeignPhoneNum,2020,,
-/ReturnHeader/PreparerPersonGrp/PTIN,2013,2017,
-/ReturnHeader/PreparerPersonGrp/PhoneNum,2013,,
-/ReturnHeader/PreparerPersonGrp/PreparationDt,2013,,
-/ReturnHeader/PreparerPersonGrp/PreparerPersonNm,2013,,
-/ReturnHeader/PreparerPersonGrp/SSN,2013,2017,
-/ReturnHeader/PreparerPersonGrp/SelfEmployedInd,2013,,
-/ReturnHeader/Preparer,2009,2012,
+/ReturnHeader/Officer/DateSigned,2009,2012,Officer; Date signed
+/ReturnHeader/Officer/EmailAddress,2009,2012,Officer; Email address
+/ReturnHeader/Officer/Name,2009,2012,Officer; Name
+/ReturnHeader/Officer/Phone,2009,2012,Officer; Telephone number
+/ReturnHeader/Officer/TaxpayerPIN,2009,2012,Officer; Taxpayer PIN
+/ReturnHeader/Officer/Title,2009,2012,Officer; Title
+/ReturnHeader/Officer,2009,2012,Officer
+/ReturnHeader/Originator/EFIN,2009,2012,Originator; EFIN
+/ReturnHeader/Originator/PractitionerPIN/EFIN,2009,2012,Originator; EFIN
+/ReturnHeader/Originator/PractitionerPIN/PIN,2009,2012,Originator; PIN
+/ReturnHeader/Originator/PractitionerPIN,2009,2012,Originator; PIN
+/ReturnHeader/Originator/Type,2009,2012,Originator; Type
+/ReturnHeader/OriginatorGrp/EFIN,2013,,Originator; EFIN
+/ReturnHeader/OriginatorGrp/OriginatorTypeCd,2013,,Originator; Type
+/ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,2013,,Originator; EFIN
+/ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,2013,,Originator; PIN
+/ReturnHeader/Originator,2009,2012,Originator
+/ReturnHeader/PINEnteredByCd,2013,,PIN Entered By
+/ReturnHeader/PINEnteredBy,2009,2012,PIN Entered By
+/ReturnHeader/Preparer/DatePrepared,2009,2012,Preparer; Date prepared
+/ReturnHeader/Preparer/EmailAddress,2009,2012,Preparer; Email address
+/ReturnHeader/Preparer/Name,2009,2012,Preparer; Name
+/ReturnHeader/Preparer/PTIN,2009,2012,Preparer; PTIN
+/ReturnHeader/Preparer/Phone,2009,2012,Preparer; Telephone number
+/ReturnHeader/Preparer/SSN,2009,2012,Preparer; SSN
+/ReturnHeader/Preparer/SelfEmployed,2009,2012,Preparer; Self-employed?
+/ReturnHeader/PreparerFirm/EIN,2009,2012,Preparer; EIN
+/ReturnHeader/PreparerFirm/PreparerFirmBusinessName/BusinessNameLine1,2009,2012,Preparer Firm; [BusinessNameLine1] Business name line 1
+/ReturnHeader/PreparerFirm/PreparerFirmBusinessName/BusinessNameLine2,2009,2012,Preparer Firm; [BusinessNameLine2] Business name line 2
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/AddressLine1,2009,2012,Preparer Firm; [AddressLine1] Address line 1
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/AddressLine2,2009,2012,Preparer Firm; [AddressLine2] Address line 2
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/City,2009,2012,Preparer Firm; [City] City
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/Country,2009,2012,Preparer Firm; [Country] Country
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/PostalCode,2009,2012,Preparer Firm; [PostalCode] Postal code
+/ReturnHeader/PreparerFirm/PreparerFirmForeignAddress/ProvinceOrState,2009,2012,Preparer Firm; [ProvinceOrState] Province or state
+/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/AddressLine1,2009,2012,Preparer Firm; [AddressLine1] Address line 1
+/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/AddressLine2,2009,2012,Preparer Firm; [AddressLine2] Address line 2
+/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/City,2009,2012,Preparer Firm; [City] City
+/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/State,2009,2012,Preparer Firm; [State] State
+/ReturnHeader/PreparerFirm/PreparerFirmUSAddress/ZIPCode,2009,2012,Preparer Firm; [ZIPCode] ZIP code
+/ReturnHeader/PreparerFirmGrp/PreparerFirmEIN,2013,,Preparer Firm; EIN
+/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1Txt,2014,,Preparer Firm; [BusinessNameLine1Txt] Business name line 1
+/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1,2013,2013,Preparer Firm; [BusinessNameLine1] Business name line 1
+/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2Txt,2014,,Preparer Firm; [BusinessNameLine2Txt] Business name line 2
+/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2,2013,2013,Preparer Firm; [BusinessNameLine2] Business name line 2
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1Txt,2014,,Preparer Firm; [AddressLine1Txt] Address line 1
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1,2013,2013,Preparer Firm; [AddressLine1] Address line 1
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2Txt,2014,,Preparer Firm; [AddressLine2Txt] Address line 2
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2,2013,2013,Preparer Firm; [AddressLine2] Address line 2
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CityNm,2014,,Preparer Firm; [CityNm] City
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/City,2013,2013,Preparer Firm; [City] City
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CountryCd,2014,,Preparer Firm; [CountryCd] Country
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/Country,2013,2013,Preparer Firm; [Country] Country
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ForeignPostalCd,2014,,Preparer Firm; [ForeignPostalCd] Postal code
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/PostalCode,2013,2013,Preparer Firm; [PostalCode] Postal code
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrStateNm,2014,,Preparer Firm; [ProvinceOrStateNm] Province or state
+/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrState,2013,2013,Preparer Firm; [ProvinceOrState] Province or state
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1Txt,2014,,Preparer Firm; [AddressLine1Txt] Address line 1
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1,2013,2013,Preparer Firm; [AddressLine1] Address line 1
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2Txt,2014,,Preparer Firm; [AddressLine2Txt] Address line 2
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2,2013,2013,Preparer Firm; [AddressLine2] Address line 2
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/CityNm,2014,,Preparer Firm; [CityNm] City
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/City,2013,2013,Preparer Firm; [City] City
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/StateAbbreviationCd,2014,,Preparer Firm; [StateAbbreviationCd] State
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/State,2013,2013,Preparer Firm; [State] State
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCd,2014,,Preparer Firm; [ZIPCd] ZIP code
+/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,2013,2013,Preparer Firm; [ZIPCode] ZIP code
+/ReturnHeader/PreparerFirm,2009,2012,Preparer Firm
+/ReturnHeader/PreparerPersonGrp/EmailAddressTxt,2013,,Preparer; Email address
+/ReturnHeader/PreparerPersonGrp/ForeignPhoneNum,2020,,Preparer; Telephone number
+/ReturnHeader/PreparerPersonGrp/PTIN,2013,2017,Preparer; PTIN
+/ReturnHeader/PreparerPersonGrp/PhoneNum,2013,,Preparer; Telephone number
+/ReturnHeader/PreparerPersonGrp/PreparationDt,2013,,Preparer; Preparation date
+/ReturnHeader/PreparerPersonGrp/PreparerPersonNm,2013,,Preparer; Name - Person
+/ReturnHeader/PreparerPersonGrp/SSN,2013,2017,Preparer; SSN
+/ReturnHeader/PreparerPersonGrp/SelfEmployedInd,2013,,Preparer; Self-employed?
+/ReturnHeader/Preparer,2009,2012,Preparer
 /ReturnHeader/ReturnTs,2013,,[ReturnTs] The date and time when the return was created
-/ReturnHeader/ReturnTypeCd,2013,,
-/ReturnHeader/ReturnType,2009,2012,
-/ReturnHeader/SignatureOptionCd,2013,,
-/ReturnHeader/SignatureOption,2009,2012,
-/ReturnHeader/SoftwareId,2009,,
-/ReturnHeader/SoftwareVersionNum,2013,,
-/ReturnHeader/SoftwareVersion,2009,2012,
-/ReturnHeader/TaxPeriodBeginDate,2009,2012,
-/ReturnHeader/TaxPeriodBeginDt,2013,,
-/ReturnHeader/TaxPeriodEndDate,2009,2012,
-/ReturnHeader/TaxPeriodEndDt,2013,,
-/ReturnHeader/TaxYear,2009,2012,
-/ReturnHeader/TaxYr,2013,,
+/ReturnHeader/ReturnTypeCd,2013,,Return type
+/ReturnHeader/ReturnType,2009,2012,Return type
+/ReturnHeader/SignatureOptionCd,2013,,Signature option
+/ReturnHeader/SignatureOption,2009,2012,Signature option
+/ReturnHeader/SoftwareId,2009,,Software ID
+/ReturnHeader/SoftwareVersionNum,2013,,Software version
+/ReturnHeader/SoftwareVersion,2009,2012,Software version
+/ReturnHeader/TaxPeriodBeginDate,2009,2012,Tax period begin date
+/ReturnHeader/TaxPeriodBeginDt,2013,,Tax period begin date
+/ReturnHeader/TaxPeriodEndDate,2009,2012,Tax period end date
+/ReturnHeader/TaxPeriodEndDt,2013,,Tax period end date
+/ReturnHeader/TaxYear,2009,2012,Tax year
+/ReturnHeader/TaxYr,2013,,Tax year
 /ReturnHeader/Timestamp,2009,2012,[Timestamp] The date and time when the return was created

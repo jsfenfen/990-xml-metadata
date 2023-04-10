@@ -3522,25 +3522,25 @@ IRS990ScheduleR,skedr_part_vi,True,SkdRUnrltdOrgTxblPrtnrshp,101,USAddrss_SttAbb
 IRS990ScheduleR,skedr_part_vi,True,SkdRUnrltdOrgTxblPrtnrshp,202,USAddrss_SttAbbrvtnCd,/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/StateAbbreviationCd,StateType,String(length=2),Part VI Column (a),Part VI content; Address - US address of disregarded entity; State,2014,
 IRS990ScheduleR,skedr_part_vi,True,SkdRUnrltdOrgTxblPrtnrshp,70,USAddrss_ZIPCd,/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCd,ZIPCodeType,String(length=15),Part VI Column (a),Part VI content; Address - US address of disregarded entity; ZIP code,2014,
 IRS990ScheduleR,skedr_part_vi,True,SkdRUnrltdOrgTxblPrtnrshp,136,USAddrss_ZIPCd,/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp/USAddress/ZIPCode,ZIPCodeType,String(length=15),Part VI Column (a),Part VI content; Address - US address of disregarded entity; ZIP code,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,103,BsnssOffcr_DscssWthPdPrprrInd,/ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,BooleanType,String(length=5),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,92,BsnssOffcr_EmlAddrssTxt,/ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,EmailAddressType,String(length=75),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,87,BsnssOffcr_FrgnPhnNm,/ReturnHeader/BusinessOfficerGrp/ForeignPhoneNum,ForeignPhoneNumberType,Text,,,2020,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,93,BsnssOffcr_PrsnNm,/ReturnHeader/BusinessOfficerGrp/PersonNm,PersonNameType,String(length=35),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,47,BsnssOffcr_PrsnTtlTxt,/ReturnHeader/BusinessOfficerGrp/PersonTitleTxt,PersonTitleType,String(length=35),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,29,BsnssOffcr_PhnNm,/ReturnHeader/BusinessOfficerGrp/PhoneNum,PhoneNumberType,String(length=10),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,101,BsnssOffcr_SgntrDt,/ReturnHeader/BusinessOfficerGrp/SignatureDt,DateType,String(length=31),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,31,BsnssOffcr_TxpyrPIN,/ReturnHeader/BusinessOfficerGrp/TaxpayerPIN,PINType,String(length=5),,,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,103,BsnssOffcr_DscssWthPdPrprrInd,/ReturnHeader/BusinessOfficerGrp/DiscussWithPaidPreparerInd,BooleanType,String(length=5),,May the IRS discuss this return with the preparer shown above?,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,92,BsnssOffcr_EmlAddrssTxt,/ReturnHeader/BusinessOfficerGrp/EmailAddressTxt,EmailAddressType,String(length=75),,Officer; Email address,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,87,BsnssOffcr_FrgnPhnNm,/ReturnHeader/BusinessOfficerGrp/ForeignPhoneNum,ForeignPhoneNumberType,Text,,Officer; Telephone number,2020,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,93,BsnssOffcr_PrsnNm,/ReturnHeader/BusinessOfficerGrp/PersonNm,PersonNameType,String(length=35),,Officer; Name,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,47,BsnssOffcr_PrsnTtlTxt,/ReturnHeader/BusinessOfficerGrp/PersonTitleTxt,PersonTitleType,String(length=35),,Officer; Title,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,29,BsnssOffcr_PhnNm,/ReturnHeader/BusinessOfficerGrp/PhoneNum,PhoneNumberType,String(length=10),,Officer; Telephone number,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,101,BsnssOffcr_SgntrDt,/ReturnHeader/BusinessOfficerGrp/SignatureDt,DateType,String(length=31),,Officer; Signature date,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,31,BsnssOffcr_TxpyrPIN,/ReturnHeader/BusinessOfficerGrp/TaxpayerPIN,PINType,String(length=5),,Officer; Taxpayer PIN,2013,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,7,RtrnHdr_DsstrRlfTxt,/ReturnHeader/DisasterReliefTxt,LineExplanationType,String(length=100),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,77,BsnssNm_BsnssNmLn1Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine1,BusinessNameLine1Type,String(length=75),,Business name line 1,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,26,BsnssNm_BsnssNmLn1Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt,BusinessNameLine1Type,String(length=75),,Business name line 1,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,55,BsnssNm_BsnssNmLn2Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine2,BusinessNameLine2Type,String(length=75),,Business name line 2,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,15,BsnssNm_BsnssNmLn2Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine2Txt,BusinessNameLine2Type,String(length=75),,Business name line 2,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,3,Flr_BsnssNmCntrlTxt,/ReturnHeader/Filer/BusinessNameControlTxt,BusinessNameControlType,String(length=7),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,33,Flr_EIN,/ReturnHeader/Filer/EIN,EINType,String(length=9),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,84,FrgnAddrss_AddrssLn1Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine1,StreetAddressType,String(length=35),,Address line 1,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,67,FrgnAddrss_AddrssLn1Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Address line 1,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,98,FrgnAddrss_AddrssLn2Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine2,StreetAddressType,String(length=35),,Address line 2,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,96,FrgnAddrss_AddrssLn2Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Address line 2,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,77,BsnssNm_BsnssNmLn1Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine1,BusinessNameLine1Type,String(length=75),,Filer; Business name line 1,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,26,BsnssNm_BsnssNmLn1Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine1Txt,BusinessNameLine1Type,String(length=75),,Filer; Business name line 1,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,55,BsnssNm_BsnssNmLn2Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine2,BusinessNameLine2Type,String(length=75),,Filer; Business name line 2,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,15,BsnssNm_BsnssNmLn2Txt,/ReturnHeader/Filer/BusinessName/BusinessNameLine2Txt,BusinessNameLine2Type,String(length=75),,Filer; Business name line 2,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,3,Flr_BsnssNmCntrlTxt,/ReturnHeader/Filer/BusinessNameControlTxt,BusinessNameControlType,String(length=7),,Filer; Business name control text,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,33,Flr_EIN,/ReturnHeader/Filer/EIN,EINType,String(length=9),,Filer; EIN,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,84,FrgnAddrss_AddrssLn1Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine1,StreetAddressType,String(length=35),,Filer; Address line 1,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,67,FrgnAddrss_AddrssLn1Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Filer; Address line 1,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,98,FrgnAddrss_AddrssLn2Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine2,StreetAddressType,String(length=35),,Filer; Address line 2,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,96,FrgnAddrss_AddrssLn2Txt,/ReturnHeader/Filer/ForeignAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Filer; Address line 2,2014,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,88,FrgnAddrss_CtyNm,/ReturnHeader/Filer/ForeignAddress/City,,Text,,City,2013,2013
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,38,FrgnAddrss_CtyNm,/ReturnHeader/Filer/ForeignAddress/CityNm,,Text,,City,2014,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,91,FrgnAddrss_CntryCd,/ReturnHeader/Filer/ForeignAddress/Country,CountryType,String(length=2),,Country,2013,2013
@@ -3549,9 +3549,9 @@ ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,68,FrgnAd
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,59,FrgnAddrss_FrgnPstlCd,/ReturnHeader/Filer/ForeignAddress/PostalCode,,Text,,Postal code,2013,2013
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,62,FrgnAddrss_PrvncOrSttNm,/ReturnHeader/Filer/ForeignAddress/ProvinceOrState,,Text,,Province or state,2013,2013
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,30,FrgnAddrss_PrvncOrSttNm,/ReturnHeader/Filer/ForeignAddress/ProvinceOrStateNm,,Text,,Province or state,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,34,Flr_FrgnPhnNm,/ReturnHeader/Filer/ForeignPhoneNum,ForeignPhoneNumberType,Text,,,2020,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,73,Flr_InCrOfNm,/ReturnHeader/Filer/InCareOfNm,InCareOfNameType,String(length=35),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,97,Flr_PhnNm,/ReturnHeader/Filer/PhoneNum,PhoneNumberType,String(length=10),,,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,34,Flr_FrgnPhnNm,/ReturnHeader/Filer/ForeignPhoneNum,ForeignPhoneNumberType,Text,,Filer; Telephone number,2020,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,73,Flr_InCrOfNm,/ReturnHeader/Filer/InCareOfNm,InCareOfNameType,String(length=35),,Filer; In care of name,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,97,Flr_PhnNm,/ReturnHeader/Filer/PhoneNum,PhoneNumberType,String(length=10),,Filer; Telephone number,2013,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,85,USAddrss_AddrssLn1Txt,/ReturnHeader/Filer/USAddress/AddressLine1,StreetAddressType,String(length=35),,Address line 1,2013,2013
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,34,USAddrss_AddrssLn1Txt,/ReturnHeader/Filer/USAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Address line 1,2014,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,83,USAddrss_AddrssLn2Txt,/ReturnHeader/Filer/USAddress/AddressLine2,StreetAddressType,String(length=35),,Address line 2,2013,2013
@@ -3562,63 +3562,63 @@ ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,63,USAddr
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,13,USAddrss_SttAbbrvtnCd,/ReturnHeader/Filer/USAddress/StateAbbreviationCd,StateType,String(length=2),,State,2014,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,90,USAddrss_ZIPCd,/ReturnHeader/Filer/USAddress/ZIPCd,ZIPCodeType,String(length=15),,ZIP code,2014,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,78,USAddrss_ZIPCd,/ReturnHeader/Filer/USAddress/ZIPCode,ZIPCodeType,String(length=15),,ZIP code,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,39,FlngScrtyInfrmtn_AtSbmssnCrtnDvcId,/ReturnHeader/FilingSecurityInformation/AtSubmissionCreationDeviceId,DeviceIdType,String(length=40),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,57,FlngScrtyInfrmtn_AtSbmssnFlngDvcId,/ReturnHeader/FilingSecurityInformation/AtSubmissionFilingDeviceId,DeviceIdType,String(length=40),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,100,FlngScrtyInfrmtn_FdrlOrgnlSbmssnId,/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionId,SubmissionIdType,Text,,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,5,FlngScrtyInfrmtn_FdrlOrgnlSbmssnIdDt,/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionIdDt,DateType,String(length=31),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,41,FlngScrtyInfrmtn_FlngLcnsCd,/ReturnHeader/FilingSecurityInformation/FilingLicenseTypeCd,,Text,,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,79,IPAddrss_IPv4AddrssTxt,/ReturnHeader/FilingSecurityInformation/IPAddress/IPv4AddressTxt,IPv4Type,String(length=31),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,95,IPAddrss_IPv6AddrssTxt,/ReturnHeader/FilingSecurityInformation/IPAddress/IPv6AddressTxt,IPv6Type,String(length=31),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,6,FlngScrtyInfrmtn_IPDt,/ReturnHeader/FilingSecurityInformation/IPDt,DateType,String(length=31),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,80,FlngScrtyInfrmtn_IPTmznCd,/ReturnHeader/FilingSecurityInformation/IPTimezoneCd,TimezoneType,String(length=31),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,89,FlngScrtyInfrmtn_IPTm,/ReturnHeader/FilingSecurityInformation/IPTm,TimeType,String(length=15),,,2016,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,48,RtrnHdr_ISPNm,/ReturnHeader/ISPNum,ISPType,String(length=6),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,16,RtrnHdr_MltSftwrPckgsUsdInd,/ReturnHeader/MultSoftwarePackagesUsedInd,BooleanType,String(length=5),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,72,Orgntr_EFIN,/ReturnHeader/OriginatorGrp/EFIN,EFINType,String(length=6),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,23,Orgntr_OrgntrCd,/ReturnHeader/OriginatorGrp/OriginatorTypeCd,OriginatorType,String(length=15),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,8,PrcttnrPIN_EFIN,/ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,EFINType,String(length=6),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,20,PrcttnrPIN_PIN,/ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,PINType,String(length=5),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,94,RtrnHdr_PINEntrdByCd,/ReturnHeader/PINEnteredByCd,,Text,,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,44,PrprrFrm_PrprrFrmEIN,/ReturnHeader/PreparerFirmGrp/PreparerFirmEIN,EINType,String(length=9),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,21,PrprrFrmNm_BsnssNmLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1,BusinessNameLine1Type,String(length=75),,Business name line 1,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,50,PrprrFrmNm_BsnssNmLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1Txt,BusinessNameLine1Type,String(length=75),,Business name line 1,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,65,PrprrFrmNm_BsnssNmLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2,BusinessNameLine2Type,String(length=75),,Business name line 2,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,45,PrprrFrmNm_BsnssNmLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2Txt,BusinessNameLine2Type,String(length=75),,Business name line 2,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,66,PrprrFrgnAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1,StreetAddressType,String(length=35),,Address line 1,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,58,PrprrFrgnAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Address line 1,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,2,PrprrFrgnAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2,StreetAddressType,String(length=35),,Address line 2,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,43,PrprrFrgnAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Address line 2,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,71,PrprrFrgnAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/City,,Text,,City,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,54,PrprrFrgnAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CityNm,,Text,,City,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,56,PrprrFrgnAddrss_CntryCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/Country,CountryType,String(length=2),,Country,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,17,PrprrFrgnAddrss_CntryCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CountryCd,CountryType,String(length=2),,Country,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,40,PrprrFrgnAddrss_FrgnPstlCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ForeignPostalCd,,Text,,Postal code,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,24,PrprrFrgnAddrss_FrgnPstlCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/PostalCode,,Text,,Postal code,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,86,PrprrFrgnAddrss_PrvncOrSttNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrState,,Text,,Province or state,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,64,PrprrFrgnAddrss_PrvncOrSttNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrStateNm,,Text,,Province or state,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,25,PrprrUSAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1,StreetAddressType,String(length=35),,Address line 1,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,14,PrprrUSAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Address line 1,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,37,PrprrUSAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2,StreetAddressType,String(length=35),,Address line 2,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,12,PrprrUSAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Address line 2,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,10,PrprrUSAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/City,CityType,String(length=22),,City,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,53,PrprrUSAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/CityNm,CityType,String(length=22),,City,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,104,PrprrUSAddrss_SttAbbrvtnCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/State,StateType,String(length=2),,State,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,60,PrprrUSAddrss_SttAbbrvtnCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/StateAbbreviationCd,StateType,String(length=2),,State,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,82,PrprrUSAddrss_ZIPCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCd,ZIPCodeType,String(length=15),,ZIP code,2014,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,76,PrprrUSAddrss_ZIPCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,ZIPCodeType,String(length=15),,ZIP code,2013,2013
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,1,PrprrPrsn_EmlAddrssTxt,/ReturnHeader/PreparerPersonGrp/EmailAddressTxt,EmailAddressType,String(length=75),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,5,PrprrPrsn_FrgnPhnNm,/ReturnHeader/PreparerPersonGrp/ForeignPhoneNum,ForeignPhoneNumberType,Text,,,2020,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,49,PrprrPrsn_PTIN,/ReturnHeader/PreparerPersonGrp/PTIN,PTINType,String(length=9),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,9,PrprrPrsn_PhnNm,/ReturnHeader/PreparerPersonGrp/PhoneNum,PhoneNumberType,String(length=10),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,61,PrprrPrsn_PrprtnDt,/ReturnHeader/PreparerPersonGrp/PreparationDt,DateType,String(length=31),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,70,PrprrPrsn_PrprrPrsnNm,/ReturnHeader/PreparerPersonGrp/PreparerPersonNm,PersonNameType,String(length=35),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,22,PrprrPrsn_SSN,/ReturnHeader/PreparerPersonGrp/SSN,SSNType,String(length=12),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,18,PrprrPrsn_SlfEmplydInd,/ReturnHeader/PreparerPersonGrp/SelfEmployedInd,CheckboxType,String(length=1),,,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,39,FlngScrtyInfrmtn_AtSbmssnCrtnDvcId,/ReturnHeader/FilingSecurityInformation/AtSubmissionCreationDeviceId,DeviceIdType,String(length=40),,Filing security; Creation device ID,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,57,FlngScrtyInfrmtn_AtSbmssnFlngDvcId,/ReturnHeader/FilingSecurityInformation/AtSubmissionFilingDeviceId,DeviceIdType,String(length=40),,Filing security; Filing device ID,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,100,FlngScrtyInfrmtn_FdrlOrgnlSbmssnId,/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionId,SubmissionIdType,Text,,Filing security; Federal original submission ID,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,5,FlngScrtyInfrmtn_FdrlOrgnlSbmssnIdDt,/ReturnHeader/FilingSecurityInformation/FederalOriginalSubmissionIdDt,DateType,String(length=31),,Filing security; Federal original submission ID date,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,41,FlngScrtyInfrmtn_FlngLcnsCd,/ReturnHeader/FilingSecurityInformation/FilingLicenseTypeCd,,Text,,Filing security; Filing license type,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,79,IPAddrss_IPv4AddrssTxt,/ReturnHeader/FilingSecurityInformation/IPAddress/IPv4AddressTxt,IPv4Type,String(length=31),,Filing security; IP address,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,95,IPAddrss_IPv6AddrssTxt,/ReturnHeader/FilingSecurityInformation/IPAddress/IPv6AddressTxt,IPv6Type,String(length=31),,Filing security; IP address,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,6,FlngScrtyInfrmtn_IPDt,/ReturnHeader/FilingSecurityInformation/IPDt,DateType,String(length=31),,Filing security; IP date,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,80,FlngScrtyInfrmtn_IPTmznCd,/ReturnHeader/FilingSecurityInformation/IPTimezoneCd,TimezoneType,String(length=31),,Filing security; IP timezone,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,89,FlngScrtyInfrmtn_IPTm,/ReturnHeader/FilingSecurityInformation/IPTm,TimeType,String(length=15),,Filing security; IP time,2016,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,48,RtrnHdr_ISPNm,/ReturnHeader/ISPNum,ISPType,String(length=6),,Filing security; ISP,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,16,RtrnHdr_MltSftwrPckgsUsdInd,/ReturnHeader/MultSoftwarePackagesUsedInd,BooleanType,String(length=5),,Multiple software packages used,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,72,Orgntr_EFIN,/ReturnHeader/OriginatorGrp/EFIN,EFINType,String(length=6),,Originator; EFIN,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,23,Orgntr_OrgntrCd,/ReturnHeader/OriginatorGrp/OriginatorTypeCd,OriginatorType,String(length=15),,Originator; Type,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,8,PrcttnrPIN_EFIN,/ReturnHeader/OriginatorGrp/PractitionerPINGrp/EFIN,EFINType,String(length=6),,Originator; Electronic Filing Identification Number,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,20,PrcttnrPIN_PIN,/ReturnHeader/OriginatorGrp/PractitionerPINGrp/PIN,PINType,String(length=5),,Originator; PIN,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,94,RtrnHdr_PINEntrdByCd,/ReturnHeader/PINEnteredByCd,,Text,,PIN Entered By,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,44,PrprrFrm_PrprrFrmEIN,/ReturnHeader/PreparerFirmGrp/PreparerFirmEIN,EINType,String(length=9),,Preparer Firm; EIN,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,21,PrprrFrmNm_BsnssNmLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1,BusinessNameLine1Type,String(length=75),,Preparer Firm; Business name line 1,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,50,PrprrFrmNm_BsnssNmLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine1Txt,BusinessNameLine1Type,String(length=75),,Preparer Firm; Business name line 1,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,65,PrprrFrmNm_BsnssNmLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2,BusinessNameLine2Type,String(length=75),,Preparer Firm; Business name line 2,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,45,PrprrFrmNm_BsnssNmLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerFirmName/BusinessNameLine2Txt,BusinessNameLine2Type,String(length=75),,Preparer Firm; Business name line 2,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,66,PrprrFrgnAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1,StreetAddressType,String(length=35),,Preparer Firm; Address line 1,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,58,PrprrFrgnAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Preparer Firm; Address line 1,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,2,PrprrFrgnAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2,StreetAddressType,String(length=35),,Preparer Firm; Address line 2,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,43,PrprrFrgnAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Preparer Firm; Address line 2,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,71,PrprrFrgnAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/City,,Text,,Preparer Firm; City,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,54,PrprrFrgnAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CityNm,,Text,,Preparer Firm; City,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,56,PrprrFrgnAddrss_CntryCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/Country,CountryType,String(length=2),,Preparer Firm; Country,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,17,PrprrFrgnAddrss_CntryCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/CountryCd,CountryType,String(length=2),,Preparer Firm; Country,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,40,PrprrFrgnAddrss_FrgnPstlCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ForeignPostalCd,,Text,,Preparer Firm; Postal code,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,24,PrprrFrgnAddrss_FrgnPstlCd,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/PostalCode,,Text,,Preparer Firm; Postal code,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,86,PrprrFrgnAddrss_PrvncOrSttNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrState,,Text,,Preparer Firm; Province or state,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,64,PrprrFrgnAddrss_PrvncOrSttNm,/ReturnHeader/PreparerFirmGrp/PreparerForeignAddress/ProvinceOrStateNm,,Text,,Preparer Firm; Province or state,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,25,PrprrUSAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1,StreetAddressType,String(length=35),,Preparer Firm; Address line 1,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,14,PrprrUSAddrss_AddrssLn1Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine1Txt,StreetAddressType,String(length=35),,Preparer Firm; Address line 1,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,37,PrprrUSAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2,StreetAddressType,String(length=35),,Preparer Firm; Address line 2,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,12,PrprrUSAddrss_AddrssLn2Txt,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/AddressLine2Txt,StreetAddressType,String(length=35),,Preparer Firm; Address line 2,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,10,PrprrUSAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/City,CityType,String(length=22),,Preparer Firm; City,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,53,PrprrUSAddrss_CtyNm,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/CityNm,CityType,String(length=22),,Preparer Firm; City,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,104,PrprrUSAddrss_SttAbbrvtnCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/State,StateType,String(length=2),,Preparer Firm; State,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,60,PrprrUSAddrss_SttAbbrvtnCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/StateAbbreviationCd,StateType,String(length=2),,Preparer Firm; State,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,82,PrprrUSAddrss_ZIPCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCd,ZIPCodeType,String(length=15),,Preparer Firm; ZIP code,2014,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,76,PrprrUSAddrss_ZIPCd,/ReturnHeader/PreparerFirmGrp/PreparerUSAddress/ZIPCode,ZIPCodeType,String(length=15),,Preparer Firm; ZIP code,2013,2013
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,1,PrprrPrsn_EmlAddrssTxt,/ReturnHeader/PreparerPersonGrp/EmailAddressTxt,EmailAddressType,String(length=75),,Preparer; Email address,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,5,PrprrPrsn_FrgnPhnNm,/ReturnHeader/PreparerPersonGrp/ForeignPhoneNum,ForeignPhoneNumberType,Text,,Preparer; Telephone number,2020,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,49,PrprrPrsn_PTIN,/ReturnHeader/PreparerPersonGrp/PTIN,PTINType,String(length=9),,Preparer Tax Identification Number,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,9,PrprrPrsn_PhnNm,/ReturnHeader/PreparerPersonGrp/PhoneNum,PhoneNumberType,String(length=10),,Preparer; Telephone number,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,61,PrprrPrsn_PrprtnDt,/ReturnHeader/PreparerPersonGrp/PreparationDt,DateType,String(length=31),,Preparer; Preparation date,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,70,PrprrPrsn_PrprrPrsnNm,/ReturnHeader/PreparerPersonGrp/PreparerPersonNm,PersonNameType,String(length=35),,Preparer; Name - Person,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,22,PrprrPrsn_SSN,/ReturnHeader/PreparerPersonGrp/SSN,SSNType,String(length=12),,Preparer; SSN,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,18,PrprrPrsn_SlfEmplydInd,/ReturnHeader/PreparerPersonGrp/SelfEmployedInd,CheckboxType,String(length=1),,Preparer; Self-employed?,2013,
 ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,46,RtrnHdr_RtrnTs,/ReturnHeader/ReturnTs,TimestampType,String(length=63),,The date and time when the return was created,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,35,RtrnHdr_RtrnCd,/ReturnHeader/ReturnTypeCd,,Text,,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,81,RtrnHdr_SgntrOptnCd,/ReturnHeader/SignatureOptionCd,,Text,,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,99,RtrnHdr_SftwrId,/ReturnHeader/SoftwareId,SoftwareIdType,String(length=8),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,74,RtrnHdr_SftwrVrsnNm,/ReturnHeader/SoftwareVersionNum,SoftwareVersionType,String(length=20),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,32,RtrnHdr_TxPrdBgnDt,/ReturnHeader/TaxPeriodBeginDt,DateType,String(length=31),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,42,RtrnHdr_TxPrdEndDt,/ReturnHeader/TaxPeriodEndDt,DateType,String(length=31),,,2013,
-ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,4,RtrnHdr_TxYr,/ReturnHeader/TaxYr,YearType,Integer,,,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,35,RtrnHdr_RtrnCd,/ReturnHeader/ReturnTypeCd,,Text,,Return type,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,81,RtrnHdr_SgntrOptnCd,/ReturnHeader/SignatureOptionCd,,Text,,Signature Option,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,99,RtrnHdr_SftwrId,/ReturnHeader/SoftwareId,SoftwareIdType,String(length=8),,Software ID,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,74,RtrnHdr_SftwrVrsnNm,/ReturnHeader/SoftwareVersionNum,SoftwareVersionType,String(length=20),,Software version number,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,32,RtrnHdr_TxPrdBgnDt,/ReturnHeader/TaxPeriodBeginDt,DateType,String(length=31),A,Tax period begin date,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,42,RtrnHdr_TxPrdEndDt,/ReturnHeader/TaxPeriodEndDt,DateType,String(length=31),A,Tax period end date,2013,
+ReturnHeader990x,returnheader990x_part_i,False,returnheader990x_part_i,4,RtrnHdr_TxYr,/ReturnHeader/TaxYr,YearType,Integer,,Tax year,2013,

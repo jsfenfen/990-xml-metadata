@@ -7640,10 +7640,10 @@ xpath,version_start,version_end,line_number
 /ReturnHeader/SoftwareId,2009,,
 /ReturnHeader/SoftwareVersionNum,2013,,
 /ReturnHeader/SoftwareVersion,2009,2012,
-/ReturnHeader/TaxPeriodBeginDate,2009,2012,
-/ReturnHeader/TaxPeriodBeginDt,2013,,
-/ReturnHeader/TaxPeriodEndDate,2009,2012,
-/ReturnHeader/TaxPeriodEndDt,2013,,
+/ReturnHeader/TaxPeriodBeginDate,2009,2012,A
+/ReturnHeader/TaxPeriodBeginDt,2013,,A
+/ReturnHeader/TaxPeriodEndDate,2009,2012,A
+/ReturnHeader/TaxPeriodEndDt,2013,,A
 /ReturnHeader/TaxYear,2009,2012,
 /ReturnHeader/TaxYr,2013,,
 /ReturnHeader/Timestamp,2009,2012,
