@@ -411,6 +411,7 @@ IRS990,part_v,False,part_v,442,OrgFldInLOfFrm1041Ind,/IRS990/OrgFiledInLieuOfFor
 IRS990,part_0,False,part_0,503,Orgnztn49471NtPFInd,/IRS990/Organization4947a1NotPFInd,CheckboxType,String(length=1),I,Indicates a 4947(a)(1) organization,2013,
 IRS990,part_0,False,part_0,514,Orgnztn501c3Ind,/IRS990/Organization501c3Ind,CheckboxType,String(length=1),I,Indicates a 501(c)(3) organization,2013,
 IRS990,part_0,False,part_0,293,Orgnztn501cInd,/IRS990/Organization501cInd,,Text,I,Indicates a 501(c) organization,2013,
+IRS990,part_0,False,part_0,294,Orgnztn501cType,/IRS990/Organization501cInd/@organization501cTypeTxt,IntegerNNType,Integer,I,Insert 501(c) no,2013,
 IRS990,part_0,False,part_0,238,Orgnztn527Ind,/IRS990/Organization527Ind,CheckboxType,String(length=1),I,Indicates a 527 organization,2013,
 IRS990,part_x,False,part_x,354,OrgnztnFllwsSFAS117Ind,/IRS990/OrganizationFollowsFASB117Ind,CheckboxType,String(length=1),Part X,"Organizations that follow SFAS 117, check here",2019,
 IRS990,part_x,False,part_x,468,OrgnztnFllwsSFAS117Ind,/IRS990/OrganizationFollowsSFAS117Ind,CheckboxType,String(length=1),Part X,"Organizations that follow SFAS 117, check here",2013,2018
