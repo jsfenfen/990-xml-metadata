@@ -784,6 +784,7 @@ IRS990EZ,ez_part_v,False,ez_part_v,109,EZ_OprtHsptlInd,/IRS990EZ/OperateHospital
 IRS990EZ,ez_part_0,False,ez_part_0,131,Orgnztn49471NtPFInd,/IRS990EZ/Organization4947a1NotPFInd,,Text,J,Indicates a 4947(a)(1) organization,2013,
 IRS990EZ,ez_part_0,False,ez_part_0,110,Orgnztn501c3Ind,/IRS990EZ/Organization501c3Ind,,Text,J,Indicates a 501(c)(3) organization,2013,
 IRS990EZ,ez_part_0,False,ez_part_0,140,Orgnztn501cInd,/IRS990EZ/Organization501cInd,,Text,J,Indicates a 501(c) organization,2013,
+IRS990EZ,ez_part_0,False,ez_part_0,141,Orgnztn501cType,/IRS990EZ/Organization501cInd/@organization501cTypeTxt,IntegerNNType,Integer,J,Insert 501(c) no,2013,
 IRS990EZ,ez_part_0,False,ez_part_0,102,Orgnztn527Ind,/IRS990EZ/Organization527Ind,CheckboxType,String(length=1),J,Indicates a 527 organization,2013,
 IRS990EZ,ez_part_v,False,ez_part_v,148,EZ_OrgnztnDsslvdEtcInd,/IRS990EZ/OrganizationDissolvedEtcInd,,Text,Part V Line 36,"Was there a liquidation, dissolution, termination, or substantial contraction during the year?",2013,
 IRS990EZ,ez_part_v,False,ez_part_v,45,EZ_OrgnztnFld990TInd,/IRS990EZ/OrganizationFiled990TInd,BooleanType,String(length=5),Part V Line 35b,"If ""Yes"" for Line 35a, has it filed a tax return on Form 990-T for this year?",2013,

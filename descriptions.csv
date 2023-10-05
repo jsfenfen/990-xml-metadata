@@ -1490,6 +1490,7 @@ xpath,version_start,version_end,description
 /IRS990EZ/Organization501c3Ind,2013,,[Organization501c3Ind] Indicates a 501(c)(3) organization
 /IRS990EZ/Organization501c3,2010,2012,[Organization501c3] Indicates a 501(c)(3) organization
 /IRS990EZ/Organization501cInd,2013,,[Organization501cInd] Indicates a 501(c) organization
+/IRS990EZ/Organization501cInd/@organization501cTypeTxt,2013,,[Organization501cInd] Indicates a 501(c) organization
 /IRS990EZ/Organization501c,2009,2012,[Organization501c] Indicates a 501(c) organization
 /IRS990EZ/Organization527Ind,2013,,[Organization527Ind] Indicates a 527 organization
 /IRS990EZ/Organization527,2009,2012,[Organization527] Indicates a 527 organization
