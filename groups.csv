@@ -36,7 +36,8 @@ IRS990EZ,ez_part_v,6,/IRS990EZ/StatesWhereCopyOfReturnIsFldCd,EZSttsWhrCpyOfRtrn
 IRS990PF,pf_part_xvia,18,/IRS990PF/AnalysisIncomeProducingActy/OtherRevenueDescribed,PFOthrRvnDscrbd,,,,2010,2012
 IRS990PF,pf_part_xvia,19,/IRS990PF/AnalysisIncomeProducingActy/ProgramServiceRevenuePartVII,PFPrgrmSrvcRvPrtVII,,,,2010,2012
 IRS990PF,pf_part_xvia,13,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherRevenueDescribedGrp,PFOthrRvnDscrbd,,,,2013,
-IRS990PF,pf_part_xvia,14,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp,PFPrgrmSrvcRvPrtVII,,,,2013,
+IRS990PF,pf_part_xvia,14,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevPartVIIGrp,PFPrgrmSrvcRvPrtVII,,,,2013,2020
+IRS990PF,pf_part_xvia,14,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl,PFPrgrmSrvcRvPrtVII,,,,2021,
 IRS990PF,pf_part_iv,2,/IRS990PF/CapGainsLossTxInvstIncmDetail/CapGainsLossTxInvstIncmGrp,PFCpGnsLssTxInvstIncm,,,,2013,
 IRS990PF,pf_part_iv,20,/IRS990PF/CapitalGainsAndLosses/CapitalGainsAndLossesInfo,PFCpGnsLssTxInvstIncm,,,,2010,2012
 IRS990PF,pf_part_viii,21,/IRS990PF/OfcrDirTrusteesKeyEmployeeInfo/CompensationOfHghstPaidCntrct,PFCmpnstnOfHghstPdCntrct,,,,2010,2012
