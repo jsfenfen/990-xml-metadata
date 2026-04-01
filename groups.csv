@@ -182,3 +182,78 @@ IRS990ScheduleR,skedr_part_vii,7,/IRS990ScheduleR/SupplementalInformationDetail,
 IRS990ScheduleR,skedr_part_v,5,/IRS990ScheduleR/TransactionsRelatedOrgGrp,SkdRTrnsctnsRltdOrg,,,,2013,
 IRS990ScheduleR,skedr_part_v,14,/IRS990ScheduleR/TransactionsRelatedOrgsTable,SkdRTrnsctnsRltdOrg,,,,2010,2012
 IRS990ScheduleR,skedr_part_vi,6,/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp,SkdRUnrltdOrgTxblPrtnrshp,,Part VI content,,2013,
+IRS990PF,pf_part_xvia,999,/IRS990PF/AnalysisIncomeProducingActyGrp,AnlyssIncmPrdcngActy,Part XVI-A,,,2013,2019
+IRS990PF,pf_part_ixb,999,/IRS990PF/SumOfProgramRelatedInvstGrp,SmOfPrgrmRltdInvst,Part IX-B,,,2013,2019
+IRS990PF,pf_part_ixa,999,/IRS990PF/SummaryOfDirectChrtblActyGrp,SmmryOfDrctChrtblActy,Part IX-A,,,2013,2018
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/AmountsRcvdDsqlfyPersonGrp,AmntsRcvdDsqlfyPrsn,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iv,999,/IRS990ScheduleA/Form990SchAType3FuncIntGrp,Frm990SchA3FncInt,Part IV Section E Group; Part IV Section E,,,2014,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/GiftsGrantsContriRcvd170Grp,GftsGrntsCntrRcvd170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/GiftsGrantsContrisRcvd509Grp,GftsGrntsCntrsRcvd509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/GovtFurnSrvcFcltsVl170Grp,GvtFrnSrvcFcltsVl170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/GovtFurnSrvcFcltsVl509Grp,GvtFrnSrvcFcltsVl509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/GrossInvestmentIncome170Grp,GrssInvstmntIncm170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/GrossInvestmentIncome509Grp,GrssInvstmntIncm509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/GrossReceiptsAdmissionsGrp,GrssRcptsAdmssns,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/GrossReceiptsNonUnrltBusGrp,GrssRcptsNnUnrltBs,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/InvestmentIncomeAndUBTIGrp,InvstmntIncmAndUBTI,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/NetIncomeFromOtherUBIGrp,NtIncmFrmOthrUBI,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/OtherIncome170Grp,OthrIncm170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/OtherIncome509Grp,OthrIncm509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/Post1975UBTIGrp,Pst1975UBTI,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/SubstAndDsqlfyPrsnsTotGrp,SbstAndDsqlfyPrsnsTt,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/SubstantialContributorsAmtGrp,SbstntlCntrbtrsAmt,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/TaxRevLeviedOrgnztnlBnft170Grp,TxRvLvdOrgnztnlBnft170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/TaxRevLeviedOrgnztnlBnft509Grp,TxRvLvdOrgnztnlBnft509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_iii,999,/IRS990ScheduleA/Total509Grp,Ttl509,Part III,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/TotalCalendarYear170Grp,TtlClndrYr170,Part II,,,2013,2019
+IRS990ScheduleA,skeda_part_ii,999,/IRS990ScheduleA/UnrelatedBusinessNetIncm170Grp,UnrltdBsnssNtIncm170,Part II,,,2013,2019
+IRS990ScheduleL,skedl_part_iv,999,/IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested,BsTrInvlvIntrstdPrsn_NmOfIntrstd,Part IV Column (a),,,2013,2016
+IRS990ScheduleN,skedn_part_i,999,/IRS990ScheduleN/LiquidationOfAssetsTableGrp,LqdtnOfAsstsTbl,Part I,,,2013,2019
+IRS990PF,pf_part_xiv,999,/IRS990PF/PrivateOperatingFoundationsGrp,PrvtOprtngFndtns,Part XIV,,,2013,2019
+IRS990,part_xii,999,/IRS990/AcctCompileOrReviewBasisGrp,AcctCmplOrRvwBss,Part XII,,,2013,
+IRS990,part_xii,999,/IRS990/FSAuditedBasisGrp,FSAdtdBss,Part XII,,,2013,
+IRS990ScheduleH,skedh_part_iii,999,/IRS990ScheduleH/CostingMethodologyUsedGrp,CstngMthdlgyUsd,Part III Section B,,,2013,
+IRS990,part_x,999,/IRS990/AccountsReceivableGrp,AccntsRcvbl,Part X,,,2013,
+IRS990,part_x,999,/IRS990/CapStkTrPrinCurrentFundsGrp,CpStkTrPrnCrrntFnds,Part X,,,2013,
+IRS990,part_iii,999,/IRS990/DonorRestrictionNetAssetsGrp,DnrRstrctnNtAssts,,,,2019,2021
+IRS990,part_viii,999,/IRS990/IncmFromInvestBondProceedsGrp,IncmFrmInvstBndPrcds,Part VIII,,,2013,
+IRS990,part_x,999,/IRS990/InventoriesForSaleOrUseGrp,InvntrsFrSlOrUs,Part X,,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsOtherSecuritiesGrp,InvstmntsOthrScrts,Part X,,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsProgramRelatedGrp,InvstmntsPrgrmRltd,Part X,,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsPubTradedSecGrp,InvstmntsPbTrddSc,Part X,,,2013,
+IRS990,part_viii,999,/IRS990/LessCostOthBasisSalesExpnssGrp,LssCstOthBssSlsExpnss,Part VIII,,,2013,
+IRS990,part_viii,999,/IRS990/LessRentalExpensesGrp,LssRntlExpnss,Part VIII,,,2013,
+IRS990,part_x,999,/IRS990/MortgNotesPyblScrdInvstPropGrp,MrtgNtsPyblScrdInvstPrp,Part X,,,2013,
+IRS990,part_x,999,/IRS990/NoDonorRestrictionNetAssetsGrp,NDnrRstrctnNtAssts,Part X,,,2019,2021
+IRS990,part_x,999,/IRS990/PdInCapSrplsLandBldgEqpFundGrp,PdInCpSrplsLndBldgEqpFnd,Part X,,,2013,
+IRS990,part_iii,999,/IRS990/ProgSrvcAccomActy2Grp,PrgSrvcAccmActy2,Part III,,,2013,
+IRS990,part_iii,999,/IRS990/ProgSrvcAccomActy3Grp,PrgSrvcAccmActy3,Part III,,,2013,
+IRS990,part_x,999,/IRS990/RcvblFromDisqualifiedPrsnGrp,RcvblFrmDsqlfdPrsn,Part X,,,2013,
+IRS990,part_x,999,/IRS990/RtnEarnEndowmentIncmOthFndsGrp,RtnErnEndwmntIncmOthFnds,Part X,,,2013,
+IRS990,part_x,999,/IRS990/UnsecuredNotesLoansPayableGrp,UnscrdNtsLnsPybl,Part X,,,2013,
+IRS990PF,pf_part_xiii,999,/IRS990PF/UndistributedIncomeGrp,UndstrbtdIncm,Part XIII,,,2013,
+IRS990ScheduleD,skedd_part_iii,999,/IRS990ScheduleD/ArtPublicExhibitionAmountsGrp,ArtPblcExhbtnAmnts,Part III,,,2013,
+IRS990ScheduleD,skedd_part_vi,999,/IRS990ScheduleD/BuildingsGrp,Bldngs,Part VI,,,2013,
+IRS990ScheduleD,skedd_part_v,999,/IRS990ScheduleD/CYEndwmtFundGrp,CYEndwmtFnd,Part V Column (a); Part V,,,2013,
+IRS990ScheduleD,skedd_part_v,999,/IRS990ScheduleD/CYMinus1YrEndwmtFundGrp,CYMns1YrEndwmtFnd,Part V Column (b); Part V,,,2013,
+IRS990ScheduleD,skedd_part_v,999,/IRS990ScheduleD/CYMinus2YrEndwmtFundGrp,CYMns2YrEndwmtFnd,Part V Column (c); Part V,,,2013,
+IRS990ScheduleD,skedd_part_v,999,/IRS990ScheduleD/CYMinus3YrEndwmtFundGrp,CYMns3YrEndwmtFnd,Part V Column (d); Part V,,,2013,
+IRS990ScheduleD,skedd_part_v,999,/IRS990ScheduleD/CYMinus4YrEndwmtFundGrp,CYMns4YrEndwmtFnd,Part V Column (e); Part V,,,2013,
+IRS990ScheduleD,skedd_part_vii,999,/IRS990ScheduleD/CloselyHeldEquityInterestsGrp,ClslyHldEqtyIntrsts,Part VII Column(a); Column (,,,2013,
+IRS990ScheduleD,skedd_part_vi,999,/IRS990ScheduleD/EquipmentGrp,Eqpmnt,Part VI,,,2013,
+IRS990ScheduleD,skedd_part_vii,999,/IRS990ScheduleD/FinancialDerivativesGrp,FnnclDrvtvs,Part VII Column(a); Column (,,,2013,
+IRS990ScheduleD,skedd_part_iii,999,/IRS990ScheduleD/HeldWorksArtGrp,HldWrksArt,Part III,,,2013,
+IRS990ScheduleD,skedd_part_vi,999,/IRS990ScheduleD/LandGrp,Lnd,Part VI,,,2013,
+IRS990ScheduleD,skedd_part_vi,999,/IRS990ScheduleD/LeaseholdImprovementsGrp,LshldImprvmnts,Part VI,,,2013,
+IRS990ScheduleD,skedd_part_vi,999,/IRS990ScheduleD/OtherLandBuildingsGrp,OthrLndBldngs,Part VI,,,2013,
+IRS990,part_ix,999,/IRS990/AllOtherExpensesGrp,AllOthrExpnss,Part IX,,,2013,
+IRS990,part_x,999,/IRS990/SavingsAndTempCashInvstGrp,SvngsAndTmpCshInvst,Part X,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/GrassrootsNontaxableGrp,GrssrtsNntxbl,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/LobbyingNontaxableAmountGrp,LbbyngNntxblAmnt,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/OtherExemptPurposeExpendGrp,OthrExmptPrpsExpnd,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotLbbyExpendMnsLbbyngNonTxGrp,TtLbbyExpndMnsLbbyngNnTx,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotLbbyngGrassrootMnsNonTxGrp,TtLbbyngGrssrtMnsNnTx,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalDirectLobbyingGrp,TtlDrctLbbyng,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalExemptPurposeExpendGrp,TtlExmptPrpsExpnd,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalGrassrootsLobbyingGrp,TtlGrssrtsLbbyng,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalLobbyingExpendGrp,TtlLbbyngExpnd,Part II-A,,,2013,
