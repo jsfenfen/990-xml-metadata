@@ -182,3 +182,95 @@ IRS990ScheduleR,skedr_part_vii,7,/IRS990ScheduleR/SupplementalInformationDetail,
 IRS990ScheduleR,skedr_part_v,5,/IRS990ScheduleR/TransactionsRelatedOrgGrp,SkdRTrnsctnsRltdOrg,,,,2013,
 IRS990ScheduleR,skedr_part_v,14,/IRS990ScheduleR/TransactionsRelatedOrgsTable,SkdRTrnsctnsRltdOrg,,,,2010,2012
 IRS990ScheduleR,skedr_part_vi,6,/IRS990ScheduleR/UnrelatedOrgTxblPartnershipGrp,SkdRUnrltdOrgTxblPrtnrshp,,Part VI content,,2013,
+IRS990,part_0,999,/IRS990/AcctCompileOrReviewBasisGrp,AcctCmplOrRvwBss,,,,2020,2022
+IRS990,part_xi,999,/IRS990/CapStkTrPrinCurrentFundsGrp,CpStkTrPrnCrrntFnds,,,,2024,
+IRS990,part_xi,999,/IRS990/DonorRestrictionNetAssetsGrp,DnrRstrctnNtAssts,,,,2022,2024
+IRS990,part_0,999,/IRS990/FSAuditedBasisGrp,FSAdtdBss,,,,2020,2022
+IRS990,part_xi,999,/IRS990/IncmFromInvestBondProceedsGrp,IncmFrmInvstBndPrcds,,,,2022,2024
+IRS990,part_xi,999,/IRS990/InventoriesForSaleOrUseGrp,InvntrsFrSlOrUs,,,,2024,
+IRS990,part_xi,999,/IRS990/LessCostOthBasisSalesExpnssGrp,LssCstOthBssSlsExpnss,,,,2022,2024
+IRS990,part_xi,999,/IRS990/LessRentalExpensesGrp,LssRntlExpnss,,,,2022,2024
+IRS990,part_xi,999,/IRS990/NoDonorRestrictionNetAssetsGrp,NDnrRstrctnNtAssts,,,,2022,2024
+IRS990,part_xi,999,/IRS990/PdInCapSrplsLandBldgEqpFundGrp,PdInCpSrplsLndBldgEqpFnd,,,,2024,
+IRS990,part_xi,999,/IRS990/ProgSrvcAccomActy2Grp,PrgSrvcAccmActy2,,,,2022,2024
+IRS990,part_xi,999,/IRS990/ProgSrvcAccomActy3Grp,PrgSrvcAccmActy3,,,,2022,2024
+IRS990,part_xi,999,/IRS990/RtnEarnEndowmentIncmOthFndsGrp,RtnErnEndwmntIncmOthFnds,,,,2024,
+IRS990PF,pf_part_0,999,/IRS990PF/AnalysisIncomeProducingActyGrp,AnlyssIncmPrdcngActy,,,,2020,2022
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/BusinessCd,AnlyssIncmPrdcngActy_DvdndsAndIntrstFrmScDtl_BsnssCd,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionAmt,AnlyssIncmPrdcngActy_DvdndsAndIntrstFrmScDtl_ExclsnAmt,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/ExclusionCd,AnlyssIncmPrdcngActy_DvdndsAndIntrstFrmScDtl_ExclsnCd,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/RelatedOrExemptFunctionIncmAmt,AnlyssIncmPrdcngActy_DvdndsAndIntrstFrmScDtl_RltdOrExmptFnctnI,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/DividendsAndInterestFromSecDtl/UnrelatedBusinessTaxblIncmAmt,AnlyssIncmPrdcngActy_DvdndsAndIntrstFrmScDtl_UnrltdBsnssTxblIn,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/BusinessCd,AnlyssIncmPrdcngActy_OthrInvstmntIncm_BsnssCd,,,,2021,2022
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionAmt,AnlyssIncmPrdcngActy_OthrInvstmntIncm_ExclsnAmt,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/ExclusionCd,AnlyssIncmPrdcngActy_OthrInvstmntIncm_ExclsnCd,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/RelatedOrExemptFunctionIncmAmt,AnlyssIncmPrdcngActy_OthrInvstmntIncm_RltdOrExmptFnctnIncmAmt,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/OtherInvestmentIncomeGrp/UnrelatedBusinessTaxblIncmAmt,AnlyssIncmPrdcngActy_OthrInvstmntIncm_UnrltdBsnssTxblIncmAmt,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/BusinessCd,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_BsnssCd,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/Desc,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_Dsc,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/ExclusionAmt,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_ExclsnAmt,,,,2021,2024
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/ExclusionCd,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_ExclsnCd,,,,2021,2023
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/RelatedOrExemptFunctionIncmAmt,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_RltdOrExmptFnctnIncmAmt,,,,2021,2024
+IRS990PF,AnlyssIncmPrdcngActy,999,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl/UnrelatedBusinessTaxblIncmAmt,AnlyssIncmPrdcngActy_PrgrmSrvcRvnDtl_UnrltdBsnssTxblIncmAmt,,,,2021,2024
+IRS990PF,pf_part_0,999,/IRS990PF/PrivateOperatingFoundationsGrp,PrvtOprtngFndtns,,,,2020,2022
+IRS990PF,pf_part_0,999,/IRS990PF/SumOfProgramRelatedInvstGrp,SmOfPrgrmRltdInvst,,,,2018,2020
+IRS990PF,pf_part_0,999,/IRS990PF/SummaryOfDirectChrtblActyGrp,SmmryOfDrctChrtblActy,,,,2018,
+IRS990PF,pf_part_0,999,/IRS990PF/UndistributedIncomeGrp,UndstrbtdIncm,,,,2022,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/AmountsRcvdDsqlfyPersonGrp,AmntsRcvdDsqlfyPrsn,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/Form990SchAType3FuncIntGrp,Frm990SchA3FncInt,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GiftsGrantsContriRcvd170Grp,GftsGrntsCntrRcvd170,,,,2020,2022
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GiftsGrantsContrisRcvd509Grp,GftsGrntsCntrsRcvd509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GovtFurnSrvcFcltsVl170Grp,GvtFrnSrvcFcltsVl170,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GovtFurnSrvcFcltsVl509Grp,GvtFrnSrvcFcltsVl509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GrossInvestmentIncome170Grp,GrssInvstmntIncm170,,,,2022,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GrossInvestmentIncome509Grp,GrssInvstmntIncm509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GrossReceiptsAdmissionsGrp,GrssRcptsAdmssns,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/GrossReceiptsNonUnrltBusGrp,GrssRcptsNnUnrltBs,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/InvestmentIncomeAndUBTIGrp,InvstmntIncmAndUBTI,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/NetIncomeFromOtherUBIGrp,NtIncmFrmOthrUBI,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/OtherIncome170Grp,OthrIncm170,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/OtherIncome509Grp,OthrIncm509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/Post1975UBTIGrp,Pst1975UBTI,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/SubstAndDsqlfyPrsnsTotGrp,SbstAndDsqlfyPrsnsTt,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/SubstantialContributorsAmtGrp,SbstntlCntrbtrsAmt,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/TaxRevLeviedOrgnztnlBnft170Grp,TxRvLvdOrgnztnlBnft170,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/TaxRevLeviedOrgnztnlBnft509Grp,TxRvLvdOrgnztnlBnft509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/Total509Grp,Ttl509,,,,2021,2024
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/TotalCalendarYear170Grp,TtlClndrYr170,,,,2020,2022
+IRS990ScheduleA,skeda_part_i,999,/IRS990ScheduleA/UnrelatedBusinessNetIncm170Grp,UnrltdBsnssNtIncm170,,,,2021,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/ArtPublicExhibitionAmountsGrp,ArtPblcExhbtnAmnts,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/BuildingsGrp,Bldngs,,,,2024,
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CYEndwmtFundGrp,CYEndwmtFnd,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CYMinus1YrEndwmtFundGrp,CYMns1YrEndwmtFnd,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CYMinus2YrEndwmtFundGrp,CYMns2YrEndwmtFnd,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CYMinus3YrEndwmtFundGrp,CYMns3YrEndwmtFnd,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CYMinus4YrEndwmtFundGrp,CYMns4YrEndwmtFnd,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/CloselyHeldEquityInterestsGrp,ClslyHldEqtyIntrsts,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/EquipmentGrp,Eqpmnt,,,,2024,
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/FinancialDerivativesGrp,FnnclDrvtvs,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/HeldWorksArtGrp,HldWrksArt,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/LandGrp,Lnd,,,,2024,
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/LeaseholdImprovementsGrp,LshldImprvmnts,,,,2022,2024
+IRS990ScheduleD,skedd_part_xii,999,/IRS990ScheduleD/OtherLandBuildingsGrp,OthrLndBldngs,,,,2024,
+IRS990ScheduleH,skedh_part_iii,999,/IRS990ScheduleH/CostingMethodologyUsedGrp,CstngMthdlgyUsd,,,,2019,
+IRS990ScheduleN,skedn_part_i,999,/IRS990ScheduleN/LiquidationOfAssetsTableGrp,LqdtnOfAsstsTbl,,,,2021,2022
+IRS990ScheduleL,skedl_part_iv,999,/IRS990ScheduleL/BusTrInvolveInterestedPrsnGrp/NameOfInterested,BsTrInvlvIntrstdPrsn_NmOfIntrstd,Part IV Column (a),,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsPubTradedSecGrp,InvstmntsPbTrddSc,Part X,,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsProgramRelatedGrp,InvstmntsPrgrmRltd,Part X,,,2013,
+IRS990,part_x,999,/IRS990/MortgNotesPyblScrdInvstPropGrp,MrtgNtsPyblScrdInvstPrp,Part X,,,2013,
+IRS990,part_x,999,/IRS990/UnsecuredNotesLoansPayableGrp,UnscrdNtsLnsPybl,Part X,,,2013,
+IRS990,part_x,999,/IRS990/AccountsReceivableGrp,AccntsRcvbl,Part X,,,2013,
+IRS990,part_x,999,/IRS990/RcvblFromDisqualifiedPrsnGrp,RcvblFrmDsqlfdPrsn,Part X,,,2013,
+IRS990,part_x,999,/IRS990/InvestmentsOtherSecuritiesGrp,InvstmntsOthrScrts,Part X,,,2013,
+IRS990,part_x,999,/IRS990/SavingsAndTempCashInvstGrp,SvngsAndTmpCshInvst,Part X,,,2013,
+IRS990,part_ix,999,/IRS990/AllOtherExpensesGrp,AllOthrExpnss,Part IX,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalGrassrootsLobbyingGrp,TtlGrssrtsLbbyng,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotLbbyExpendMnsLbbyngNonTxGrp,TtLbbyExpndMnsLbbyngNnTx,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotLbbyngGrassrootMnsNonTxGrp,TtLbbyngGrssrtMnsNnTx,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/GrassrootsNontaxableGrp,GrssrtsNntxbl,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/OtherExemptPurposeExpendGrp,OthrExmptPrpsExpnd,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalDirectLobbyingGrp,TtlDrctLbbyng,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/LobbyingNontaxableAmountGrp,LbbyngNntxblAmnt,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalLobbyingExpendGrp,TtlLbbyngExpnd,Part II-A,,,2013,
+IRS990ScheduleC,skedc_part_iia,999,/IRS990ScheduleC/TotalExemptPurposeExpendGrp,TtlExmptPrpsExpnd,Part II-A,,,2013,
+IRS990PF,pf_part_xvia,14,/IRS990PF/AnalysisIncomeProducingActyGrp/ProgramServiceRevenueDtl,PFPrgrmSrvcRvPrtVII,,,,2025,
